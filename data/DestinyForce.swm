@@ -1,0 +1,1864 @@
+[Set Data]
+TotalInSet=60
+
+[Bastila Shan, Jedi Master]
+Name=Bastila Shan, Jedi Master
+Set=Destiny of the Force
+SetDisplay=Destiny of the Force
+Faction=Old Republic
+CharacterJPGImage=DestinyoftheForce_Pics\dotf01_CotF01BastilaShan.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>None
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique. Melee Attack; Double Attack</B></FONT><BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 3</B></FONT><BR><FONT SIZE=4><B>Force Renewal 1</B></FONT><BR><FONT SIZE=4><B>Advanced Battle Meditation</B></FONT> (Force 3, replaces turn: Until the start of this character's next turn, this character gains the following Force ability: Allies get +10 Damage and enemy commander effects are suppressed)<BR><FONT SIZE=4><B>Lightsaber Assault</B></FONT> (Force 1, replaces attacks: Make 2 attacks)<BR><FONT SIZE=4><B>Lightsaber Defense</B></FONT> (Force 1: When hit by an attack, this character takes no damage with a save of 11 )
+SquadSuggestions=
+Description=<I>Bastila Shan's battle meditation was a decisive factor during the Jedi Civil War.</I>
+FlavorText=<I>Bastila Shan's battle meditation was a decisive factor during the Jedi Civil War.</I>
+Number=1
+Damage=20
+PlayCost=33
+Attack=12
+HitPoints=110
+Defense=19
+ForcePoints=3
+Type=8
+Base=2
+FactionID=128
+SetID=32768
+MiniID=8388609
+ReinforcementsAvailable=0
+UniqueIdentifier=1
+AbilitiesMask1=17592219599115
+AbilitiesMask2=4505798651019265
+AbilitiesMask3=0
+CEEligibility=73729
+CELeadership=0
+
+[Jedi Seer]
+Name=Jedi Seer
+Set=Destiny of the Force
+SetDisplay=Destiny of the Force
+Faction=Old Republic
+CharacterJPGImage=DestinyoftheForce_Pics\dotf02_CS15JediGuardian.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>None
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Melee Attack; Double Attack</B></FONT><BR><FONT SIZE=4><B>Evade</B></FONT> (When hit by an attack from a nonadjacent enemy, this character takes no damage with a save of 11)<BR><FONT SIZE=4><B>Jedi Reflexes</B></FONT> (This character can make an attack of opportunity against an enemy character that moves into or out of an adjacent square. Characters with special abilities that ignore characters while moving are subject to this ability.)<BR><FONT SIZE=4><B>Quick Reactions</B></FONT> (+6 Attack when making attacks of opportunity)<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 3</B></FONT><BR><FONT SIZE=4><B>Surprise Move</B></FONT> (Force 1: Once per round, after initiative is determined, this character can immediately move up to its speed before any other character activates)
+SquadSuggestions=
+Description=
+FlavorText=
+Number=2
+Damage=20
+PlayCost=27
+Attack=10
+HitPoints=80
+Defense=18
+ForcePoints=3
+Type=2
+Base=2
+FactionID=128
+SetID=32768
+MiniID=8388610
+ReinforcementsAvailable=0
+UniqueIdentifier=0
+AbilitiesMask1=268435725
+AbilitiesMask2=4505798651019265
+AbilitiesMask3=0
+CEEligibility=73731
+CELeadership=0
+
+[Old Republic Senator]
+Name=Old Republic Senator
+Set=Destiny of the Force
+SetDisplay=Destiny of the Force
+Faction=Old Republic
+CharacterJPGImage=DestinyoftheForce_Pics\dotf03_TFU17MonCalamariMedic.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>At the end of this character's turn one Old Republic Follower within 6 squares can make an immediate attack at +10 Damage
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Diplomat</B></FONT> (If an attacker has line of sight to any enemies without Diplomat, this character is not a legal target and does not count as the nearest enemy, even if adjacent)<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>At the end of this character's turn, 1 Old Republic follower within 6 squares can make an immediate attack at +10 Damage.
+SquadSuggestions=
+Description=<I>The ferocity of the Mandalorian Wars forced many Old Republic senators to involve themselves in the planning and execution of military operations.</I>
+FlavorText=<I>The ferocity of the Mandalorian Wars forced many Old Republic senators to involve themselves in the planning and execution of military operations.</I>
+Number=3
+Damage=0
+PlayCost=11
+Attack=0
+HitPoints=10
+Defense=14
+ForcePoints=0
+Type=2
+Base=2
+FactionID=128
+SetID=32768
+MiniID=8388611
+ReinforcementsAvailable=0
+UniqueIdentifier=0
+AbilitiesMask1=21
+AbilitiesMask2=4507997673881601
+AbilitiesMask3=0
+CEEligibility=4194307
+CELeadership=1
+
+[Old Republic Tech Specialist]
+Name=Old Republic Tech Specialist
+Set=Destiny of the Force
+SetDisplay=Destiny of the Force
+Faction=Old Republic
+CharacterJPGImage=DestinyoftheForce_Pics\dotf04_AE14MonCalamariTechSpecialist.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>None
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Door Gimmick</B></FONT> (At the end of its turn, this character can designate 1 door that it can see as open; it remains open until the end of this character's next turn, or until it is defeated)<BR><FONT SIZE=4><B>Droid Hunter</B></FONT> (+4 Attack and +10 Damage against Droid enemies)<BR><FONT SIZE=4><B>Ion Gun +20</B></FONT> (+20 Damage against nonliving characters )<BR><FONT SIZE=4><B>Reprogram</B></FONT> (Replaces attacks: touch; target enemy droid joins this character's squad, save 11. Each time the reprogrammed character would activate, it must first attempt a save of 11; on a failure, that character takes 10 damage, remains unactivated, rejoins the original squad, and is no longer reprogrammed.)
+SquadSuggestions=
+Description=<I>Droids can be dangerous; the Tech Specialist loves danger.</I>
+FlavorText=<I>Droids can be dangerous; the Tech Specialist loves danger.</I>
+Number=4
+Damage=20
+PlayCost=13
+Attack=8
+HitPoints=20
+Defense=14
+ForcePoints=0
+Type=2
+Base=2
+FactionID=128
+SetID=32768
+MiniID=8388612
+ReinforcementsAvailable=0
+UniqueIdentifier=0
+AbilitiesMask1=5
+AbilitiesMask2=4505798650757633
+AbilitiesMask3=0
+CEEligibility=4259843
+CELeadership=0
+
+[The Revanchist]
+Name=The Revanchist
+Set=Destiny of the Force
+SetDisplay=Destiny of the Force
+Faction=Old Republic
+CharacterJPGImage=DestinyoftheForce_Pics\dotf05_JA22-Reborn.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>Allies within 6 squares gain <B>Ambush</B>.
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique</B></FONT> (Counts as a character whose name contains Revan)<BR><FONT SIZE=4><B>Melee Attack; Double Attack</B></FONT><BR><FONT SIZE=4><B>Ambush</B></FONT> (This character can move and then make all his attacks against 1 enemy who has not activated this round)<BR><FONT SIZE=4><B>Lightsaber Duelist</B></FONT> (+4 Defense when attacked by an adjacent enemy with a Force rating)<BR><FONT SIZE=4><B>Mandalorian Hunter</B></FONT> (+4 Attack and +10 Damage against Mandalorian enemies)<BR><FONT SIZE=4><B>Tactician +8</B></FONT> (Add +8 to the initiative roll except on a roll of 1)<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 2. Force Renewal 1</B></FONT><BR><FONT SIZE=4><B>Force Push 4</B></FONT> (Force 4, replaces attacks: sight; 40 damage; push back target 4 squares if Huge or smaller)<BR><FONT SIZE=4><B>Lightsaber Defense</B></FONT> (Force 1: When hit by an attack, this character takes no damage with a save of 11)<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>Allies within 6 squares gain <B>Ambush</B>.
+SquadSuggestions=
+Description=
+FlavorText=
+Number=5
+Damage=20
+PlayCost=42
+Attack=14
+HitPoints=120
+Defense=20
+ForcePoints=2
+Type=4
+Base=2
+FactionID=128
+SetID=32768
+MiniID=8388613
+ReinforcementsAvailable=0
+UniqueIdentifier=9223372036854775808
+AbilitiesMask1=33554715
+AbilitiesMask2=4505798650904577
+AbilitiesMask3=0
+CEEligibility=8193
+CELeadership=1
+
+[Tactical Officer]
+Name=Tactical Officer
+Set=Destiny of the Force
+SetDisplay=Destiny of the Force
+Faction=Old Republic
+CharacterJPGImage=DestinyoftheForce_Pics\dotf06_AE19RebelLeader.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>Non-unique Old Republic Allies gain <B>It's a Trap!</B> and <B>Recon</B> (Roll twice for initiative once per round, choosing either roll, if any character with Recon in the same squad has line of sight to an enemy).
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>It's a Trap!</B></FONT> (Enemies with Stealth within 6 squares lose Stealth)<BR><FONT SIZE=4><B>Rapport</B></FONT> (Characters named Old Republic Soldier cost 1 less when in the same squad as this character)<BR><FONT SIZE=4><B>Tactician +4</B></FONT> (Add +4 to the initiative roll except on a roll of 1)<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>Non-unique Old Republic allies gain <B>It's a Trap!</B> and <B>Recon</B> (Roll twice for initiative once per round, choosing either roll, if any character with Recon in the same squad has line of sight to an enemy).
+SquadSuggestions=
+Description=<I>Fighting against the Sith and Mandalorians took as much tactical thinking as it did brute force.</I>
+FlavorText=<I>Fighting against the Sith and Mandalorians took as much tactical thinking as it did brute force.</I>
+Number=6
+Damage=10
+PlayCost=19
+Attack=6
+HitPoints=50
+Defense=16
+ForcePoints=0
+Type=2
+Base=2
+FactionID=128
+SetID=32768
+MiniID=8388614
+ReinforcementsAvailable=0
+UniqueIdentifier=0
+AbilitiesMask1=21
+AbilitiesMask2=4505798650626049
+AbilitiesMask3=0
+CEEligibility=4194307
+CELeadership=1
+
+[Dark Jedi Assassin]
+Name=Dark Jedi Assassin
+Set=Destiny of the Force
+SetDisplay=Destiny of the Force
+Faction=Sith
+CharacterJPGImage=DestinyoftheForce_Pics\dotf07_RotS57DarkSideAdept.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>None
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Double Attack</B></FONT><BR><FONT SIZE=4><B>Cloaked</B></FONT> (If this character has cover, it cannot be targeted by nonadjacent enemies)<BR><FONT SIZE=4><B>Jedi Hunter</B></FONT> (+4 attack and +10 damage against enemies with Force ratings)<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 3</B></FONT><BR><FONT SIZE=4><B>Lightsaber Deflect</B></FONT> (Force 1: When hit by a nonmelee attack, this character takes no damage with a save of 11)<BR><FONT SIZE=4><B>Lightsaber Riposte</B></FONT> (Force 1: When hit by a melee attack, this character can make an immediate attack against that attacker)<BR><FONT SIZE=4><B>Surprise Move</B></FONT> (Force 1: Once per round, after initiative is determined, this character can immediately move up to 6 squares before any other character activates)
+SquadSuggestions=
+Description=<I>The only time you see a Dark Jedi Assassin is right before you die.</I>
+FlavorText=<I>The only time you see a Dark Jedi Assassin is right before you die.</I>
+Number=7
+Damage=20
+PlayCost=22
+Attack=7
+HitPoints=30
+Defense=15
+ForcePoints=3
+Type=1
+Base=2
+FactionID=256
+SetID=32768
+MiniID=7
+ReinforcementsAvailable=0
+UniqueIdentifier=0
+AbilitiesMask1=103087603973
+AbilitiesMask2=4505798651019265
+AbilitiesMask3=0
+CEEligibility=73731
+CELeadership=0
+
+[Darth Bandon]
+Name=Darth Bandon
+Set=Destiny of the Force
+SetDisplay=Destiny of the Force
+Faction=Sith
+CharacterJPGImage=DestinyoftheForce_Pics\dotf08_JA10SithApprentice.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>Allies within 6 squares get +10 Damage against adjacent enemies
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique. Melee Attack; Double Attack</B></FONT><BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 4</B></FONT><BR><FONT SIZE=4><B>Force Grip 2</B></FONT> (Force 2, replaces attacks: sight; 20 damage)<BR><FONT SIZE=4><B>Lightsaber Riposte</B></FONT> (Force 1: When hit by a melee attack, this character can make an immediate attack against that attacker)<BR><FONT SIZE=4><B>Sith Rage</B></FONT> (Force 1: +10 damage on all attacks this turn)<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>Allies within 6 squares get +10 Damage against adjacent enemies.
+SquadSuggestions=
+Description=<I>Darth Bandon's ruthlessness set him apart from other Dark Jedi, and thus he was chosen as second in command of the Sith empire during the Jedi Civil War.</I>
+FlavorText=<I>Darth Bandon's ruthlessness set him apart from other Dark Jedi, and thus he was chosen as second in command of the Sith empire during the Jedi Civil War.</I>
+Number=8
+Damage=20
+PlayCost=27
+Attack=11
+HitPoints=110
+Defense=19
+ForcePoints=4
+Type=4
+Base=2
+FactionID=256
+SetID=32768
+MiniID=8
+ReinforcementsAvailable=0
+UniqueIdentifier=1
+AbilitiesMask1=211174952010011
+AbilitiesMask2=4505798650888193
+AbilitiesMask3=0
+CEEligibility=8193
+CELeadership=1
+
+[Darth Revan, Sith Lord]
+Name=Darth Revan, Sith Lord
+Set=Destiny of the Force
+SetDisplay=Destiny of the Force
+Faction=Sith
+CharacterJPGImage=DestinyoftheForce_Pics\dotf09_TFU01DarthRevan.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>At the end of this character's turn, he may exchange positions with another ally of the same base size within 6 squares.
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique. Melee Attack; Double Attack</B></FONT><BR><FONT SIZE=4><B>Cunning Attack</B></FONT> (+4 Attack and +10 Damage against an enemy who has not activated this round)<BR><FONT SIZE=4><B>Master Tactician</B></FONT> (You automatically choose who goes first except on a roll of 1)<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR> <FONT SIZE=4><B>Force 2. Force Renewal 1</B></FONT><BR><FONT SIZE=4><B>Master of the Force 2</B></FONT><BR><FONT SIZE=4><B>Master Speed</B></FONT> (Force 1: This character can move 6 extra squares on his turn as part of his move)<BR><FONT SIZE=4><B>Lightsaber Defense</B></FONT> (Force 1: When hit by an attack, this character takes no damage with a save of 11)<BR><FONT SIZE=4><B>Lightsaber Assault</B></FONT> (Force 1, replaces attacks: Make 2 attacks)<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>At the end of this character's turn, he may exchange positions with another ally of the same base size within 6 squares.
+SquadSuggestions=
+Description=
+FlavorText=
+Number=9
+Damage=20
+PlayCost=62
+Attack=14
+HitPoints=130
+Defense=22
+ForcePoints=2
+Type=8
+Base=2
+FactionID=256
+SetID=32768
+MiniID=9
+ReinforcementsAvailable=0
+UniqueIdentifier=9223372036854775808
+AbilitiesMask1=17626579341595
+AbilitiesMask2=6757598598856705
+AbilitiesMask3=0
+CEEligibility=8193
+CELeadership=1
+
+[Exar Kun, Dark Force Spirit]
+Name=Exar Kun, Dark Force Spirit
+Set=Destiny of the Force
+SetDisplay=Destiny of the Force
+Faction=Sith
+CharacterJPGImage=DestinyoftheForce_Pics\dotf10_CotF13ExarKun.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>Characters in your squad within 6 squares with a Force rating can spend this character's Force points.
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique. Speed 4; Dark Spirit</B></FONT> (Ignores characters and terrain. Cannot open doors. Cannot attack or be damaged, and does not count as a legal target, the nearest enemy, or adjacent. Not subject to commander effects. Does not provide cover. At the start of the skirmish choose a Unique allied character with a Force rating. That ally gains <B>Force Renewal 1</B> and <B>Sith Rage</B> (Force 1: +10 Damage on all attacks this turn) while within 4 squares of this character. This character is defeated if the chosen ally is defeated. An enemy within 6 squares can spend 1 force point to defeat this character; save 11. This effect replaces that enemy's attacks.)<BR><FONT SIZE=4><B>Drain Force</B></FONT> (Replaces attacks: range 2; target enemy character with a Force rating loses 1 Force point and this character gains 1 Force point)<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 2</B></FONT><BR><FONT SIZE=4><B>Dark Aura</B></FONT> (Force 1, replaces attacks; for the rest of the skirmish this character gains the following Force ability: Enemy characters within 6 squares get -4 to all saves)<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>Characters in your squad within 6 squares with a Force rating can spend this character's Force points.
+SquadSuggestions=
+Description=
+FlavorText=
+Number=10
+Damage=0
+PlayCost=14
+Attack=0
+HitPoints=0
+Defense=0
+ForcePoints=2
+Type=8
+Base=2
+FactionID=256
+SetID=32768
+MiniID=10
+ReinforcementsAvailable=0
+UniqueIdentifier=1
+AbilitiesMask1=275
+AbilitiesMask2=4507997673885697
+AbilitiesMask3=0
+CEEligibility=8193
+CELeadership=1
+
+[Sith Acolyte]
+Name=Sith Acolyte
+Set=Destiny of the Force
+SetDisplay=Destiny of the Force
+Faction=Sith
+CharacterJPGImage=DestinyoftheForce_Pics\dotf11_CS34DarkSideAcolyte.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>None
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Lightsaber</B></FONT> (+10 Damage against adjacent enemies)<BR><FONT SIZE=4><B>Bravado 10</B></FONT> (+4 Attack and +10 Damage against an adjacent enemy with a higher point cost)<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 3</B></FONT><BR><FONT SIZE=4><B>Force Repulse 3</B></FONT> (Force 3, replaces turn, 30 damage to all characters within 3 squares: push back Huge or smaller characters to 4 squares from this character. Huge or smaller characters are considered activated this round; save 11)
+SquadSuggestions=
+Description=
+FlavorText=
+Number=11
+Damage=10
+PlayCost=21
+Attack=6
+HitPoints=70
+Defense=17
+ForcePoints=3
+Type=2
+Base=2
+FactionID=256
+SetID=32768
+MiniID=11
+ReinforcementsAvailable=0
+UniqueIdentifier=0
+AbilitiesMask1=261
+AbilitiesMask2=4506073528664065
+AbilitiesMask3=0
+CEEligibility=73731
+CELeadership=0
+
+[Sith Inquisitor]
+Name=Sith Inquisitor
+Set=Destiny of the Force
+SetDisplay=Destiny of the Force
+Faction=Sith
+CharacterJPGImage=DestinyoftheForce_Pics\dotf12_TFU33EmperorsShadowGuard.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>None
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Master of Pain</B></FONT> (Whenever this character deals damage to a living enemy, the character joins your squad for the rest of the round. The character can avoid this effect with a save of 11. On a roll of natural 1, the character joins your squad for the rest of the skirmish instead.)<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 1.  Force Renewal 1</B></FONT><BR><FONT SIZE=4><B>Force Grip</B></FONT> (Force 1, replaces attacks: sight; 10 damage)<BR><FONT SIZE=4><B>Force Grip 2</B></FONT> (Force 2, replaces attacks: sight; 20 damage)<BR><FONT SIZE=4><B>Force Grip 4</B></FONT> (Force 4, replaces attacks: sight; 40 damage)
+SquadSuggestions=
+Description=<I>Sith Inquisitors had one mission: extract the information before the tortured subject died.</I>
+FlavorText=<I>Sith Inquisitors had one mission: extract the information before the tortured subject died.</I>
+Number=12
+Damage=0
+PlayCost=24
+Attack=0
+HitPoints=40
+Defense=16
+ForcePoints=1
+Type=2
+Base=2
+FactionID=256
+SetID=32768
+MiniID=12
+ReinforcementsAvailable=0
+UniqueIdentifier=0
+AbilitiesMask1=8623489285
+AbilitiesMask2=4505798650757121
+AbilitiesMask3=0
+CEEligibility=73731
+CELeadership=0
+
+[Anakin Skywalker and Padme on Reek]
+Name=Anakin Skywalker and Padme on Reek
+Set=Destiny of the Force
+SetDisplay=Destiny of the Force
+Faction=Republic
+CharacterJPGImage=DestinyoftheForce_Pics\dotf13_UH27Reek.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>None
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique. Speed 8</B></FONT><BR><FONT SIZE=4><B>Melee Attack; Double Attack</B></FONT><BR><FONT SIZE=4><B>Battering Charge +20</B></FONT> (Replaces turn: This character can move up to double speed, then attack every legal target once at +20 Damage. Push back Huge or smaller characters to 2 squares from this character. This movement does not provoke attacks of opportunity.)<BR><FONT SIZE=4><B>Blaster 20</B></FONT> (Replaces attacks: sight; +12 Attack for 20 Damage. This counts as a nonmelee attack.)<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 4</B></FONT><BR><FONT SIZE=4><B>Lightsaber Defense</B></FONT> (Force 1: When hit by an attack, this character takes no damage with a save of 11)
+SquadSuggestions=
+Description=
+FlavorText=
+Number=13
+Damage=20
+PlayCost=65
+Attack=10
+HitPoints=150
+Defense=19
+ForcePoints=4
+Type=8
+Base=8
+FactionID=4
+SetID=32768
+MiniID=262157
+ReinforcementsAvailable=0
+UniqueIdentifier=1
+AbilitiesMask1=267
+AbilitiesMask2=4505798651023361
+AbilitiesMask3=0
+CEEligibility=67182593
+CELeadership=0
+
+[Spaarti Clone Trooper Demolitionist]
+Name=Spaarti Clone Trooper Demolitionist 
+Set=Destiny of the Force
+SetDisplay=Destiny of the Force
+Faction=Republic
+CharacterJPGImage=DestinyoftheForce_Pics\dotf14_CS06CloneTrooper.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>None
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Order 66</B></FONT><BR><FONT SIZE=4><B>Rookie</B></FONT> This character gets +2 Attack and +2 Defence as long as it is within 6 squares of an allied commander)<BR><FONT SIZE=4><B>Satchel Charge</B></FONT> (Replaces attacks: Designate 1 adjacent door as open; it remains open for the rest of the skirmish and cannot be closed)
+SquadSuggestions=
+Description=<I>During the end of the war, clone troopers were being grown much more rapidly using Spaarti cloning technology.</I>
+FlavorText=<I>During the end of the war, clone troopers were being grown much more rapidly using Spaarti cloning technology.</I>
+Number=14
+Damage=10
+PlayCost=5
+Attack=3
+HitPoints=10
+Defense=12
+ForcePoints=0
+Type=1
+Base=2
+FactionID=4
+SetID=32768
+MiniID=262158
+ReinforcementsAvailable=0
+UniqueIdentifier=0
+AbilitiesMask1=32773
+AbilitiesMask2=5631698557599753
+AbilitiesMask3=0
+CEEligibility=5324803
+CELeadership=0
+
+[Ki-Adi-Mundi, Jedi Master]
+Name=Ki-Adi-Mundi, Jedi Master
+Set=Destiny of the Force
+SetDisplay=Destiny of the Force
+Faction=Republic
+CharacterJPGImage=DestinyoftheForce_Pics\dotf15_CS16KiAdiMundi.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>At the end of this character's turn, you may activate 1 ally within 6 squares who has not activated yet. This does not count towards the number of activations this phase.
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique. Melee Attack; Double Attack</B></FONT><BR><FONT SIZE=4><B>Opportunist</B></FONT> (+4 Attack and +10 Damage against an enemy who has activated this round)<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 4</B></FONT><BR><FONT SIZE=4><B>Anticipation</B></FONT> (Force 1: Reroll initiative once per round)<BR><FONT SIZE=4><B>Lightsaber Deflect</B></FONT> (Force 1: When hit by a nonmelee attack, this character takes no damage with a save of 11)<BR><FONT SIZE=4><B>Lightsaber Sweep</B></FONT> (Force 1, replaces attacks: Can attack each adjacent enemy once)<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>At the end of this character's turn, you may activate 1 ally within 6 squares who has not yet activated this round. This does not count towards the number of activations this phase.
+SquadSuggestions=
+Description=
+FlavorText=
+Number=15
+Damage=20
+PlayCost=34
+Attack=10
+HitPoints=110
+Defense=19
+ForcePoints=4
+Type=8
+Base=2
+FactionID=4
+SetID=32768
+MiniID=262159
+ReinforcementsAvailable=0
+UniqueIdentifier=8388608
+AbilitiesMask1=1152930335059607835
+AbilitiesMask2=4505867370364929
+AbilitiesMask3=0
+CEEligibility=8193
+CELeadership=1
+
+[Battle Droid Lieutenant]
+Name=Battle Droid Lieutenant
+Set=Destiny of the Force
+SetDisplay=Destiny of the Force
+Faction=Separatists
+CharacterJPGImage=DestinyoftheForce_Pics\dotf16_GaW03BattleDroidSergeant.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>Droids are subject to this effect: Non-Unique Droid allies within 6 squares gain <B>Close-Range Targeting Computer</B>.
+
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Droid</B></FONT> (Immune to critical hits; not subject to commander effects)<BR><FONT SIZE=4><B>Close-Range Targeting Computer</B></FONT> (This character gets +10 Damage against adjacent enemies. This bonus applies only to characters that have a Damage value greater than 0.)<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>Droids are subject to this effect: Non-Unique Droid allies within 6 squares gain <B>Close-Range Targeting Computer</B>.
+
+SquadSuggestions=
+Description=<I>Many droid systems which help deal significant amounts of melee damage seem to be the key to success.</I>
+FlavorText=<I>Many droid systems which help deal significant amounts of melee damage seem to be the key to success.</I>
+Number=16
+Damage=20
+PlayCost=19
+Attack=10
+HitPoints=40
+Defense=14
+ForcePoints=0
+Type=2
+Base=2
+FactionID=8
+SetID=32768
+MiniID=524304
+ReinforcementsAvailable=0
+UniqueIdentifier=0
+AbilitiesMask1=4398046511157
+AbilitiesMask2=0
+AbilitiesMask3=0
+CEEligibility=541065218
+CELeadership=1
+
+[OOM-9]
+Name=OOM-9
+Set=Destiny of the Force
+SetDisplay=Destiny of the Force
+Faction=Separatists
+CharacterJPGImage=DestinyoftheForce_Pics\dotf17_CS46SecurityBattleDroid.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>Droids are subject to this effect: Separatist Droid followers within 6 squares get +3 Attack and +3 Defense
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique</B></FONT><BR><FONT SIZE=4><B>Droid</B></FONT> (Immune to critical hits; not subject to commander effects)<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>Droids are subject to this effect: Separatist Droid followers within 6 squares get +3 Attack and +3 Defense
+SquadSuggestions=
+Description=<FONT SIZE=3><I>"If they're down here, sir, we'll find them."<BR>      - OOM-9 to Rune Haako</I></FONT>
+FlavorText=<FONT SIZE=3><I>"If they're down here, sir, we'll find them."<BR>      - OOM-9 to Rune Haako</I></FONT>
+Number=17
+Damage=10
+PlayCost=20
+Attack=5
+HitPoints=40
+Defense=15
+ForcePoints=0
+Type=4
+Base=2
+FactionID=8
+SetID=32768
+MiniID=524305
+ReinforcementsAvailable=0
+UniqueIdentifier=1
+AbilitiesMask1=4398046511155
+AbilitiesMask2=4398046511104
+AbilitiesMask3=0
+CEEligibility=541065216
+CELeadership=1
+
+[Poggle the Lesser]
+Name=Poggle the Lesser
+Set=Destiny of the Force
+SetDisplay=Destiny of the Force
+Faction=Separatists
+CharacterJPGImage=DestinyoftheForce_Pics\dotf18_CS42GeonosianOverseer.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>Whenever a Geonosian ally would be defeated, with a save of 16, it instead immediately returns to play with full Hit Points. <BR><BR>Geonosian allies gain <B>Self Destruct 20</B> (When this character is defeated, each adjacent character takes 20 damage).
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique</B></FONT><BR><FONT SIZE=4><B>Geonosian</B></FONT><BR><FONT SIZE=4><B>Rapport</B></FONT> (Non-Unique living Separatists cost 1 less when in the same squad as this character)<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>Whenever a Geonosian ally would be defeated, with a save of 16, it instead immediately returns to play with full Hit Points. <BR><BR>Geonosian allies gain <B>Self Destruct 20</B> (When this character is defeated, each adjacent character takes 20 damage).
+SquadSuggestions=
+Description=<I>Being secretly funded by Darth Sidious, Poggle had the means to overthrow the leader of Geonosis, who was executed in the Geonosian Arena.</I>
+FlavorText=<I>Being secretly funded by Darth Sidious, Poggle had the means to overthrow the leader of Geonosis, who was executed in the Geonosian Arena.</I>
+Number=18
+Damage=10
+PlayCost=9
+Attack=3
+HitPoints=40
+Defense=13
+ForcePoints=0
+Type=4
+Base=2
+FactionID=8
+SetID=32768
+MiniID=524306
+ReinforcementsAvailable=0
+UniqueIdentifier=1
+AbilitiesMask1=19
+AbilitiesMask2=4505798650626049
+AbilitiesMask3=0
+CEEligibility=4194305
+CELeadership=1
+
+[Series II Destroyer Droid]
+Name=Series II Destroyer Droid
+Set=Destiny of the Force
+SetDisplay=Destiny of the Force
+Faction=Separatists
+CharacterJPGImage=DestinyoftheForce_Pics\dotf19_CS37DestroyerDroid.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>None
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Droid</B></FONT> (Immune to critical hits; not subject to commander effects)<BR><FONT SIZE=4><B>Double Attack</B></FONT> (On its turn, this character can make 1 extra attack instead of moving)<BR><FONT SIZE=4><B>Advanced Shields 2</B></FONT> (When this character takes damage, make 2 saves; each roll of 6 reduces the damage dealt by 10)<BR><FONT SIZE=4><B>Wheel Form</B></FONT> (This character can move up to 18 squares if it does not attack.)
+SquadSuggestions=
+Description=<I>"Where are those droidekas?!"<BR>     -Nute Gunray</I>
+FlavorText=<I>"Where are those droidekas?!"<BR>     -Nute Gunray</I>
+Number=19
+Damage=20
+PlayCost=37
+Attack=10
+HitPoints=60
+Defense=15
+ForcePoints=0
+Type=2
+Base=4
+FactionID=8
+SetID=32768
+MiniID=524307
+ReinforcementsAvailable=0
+UniqueIdentifier=0
+AbilitiesMask1=4398046511141
+AbilitiesMask2=262144
+AbilitiesMask3=0
+CEEligibility=541196290
+CELeadership=0
+
+[Sora Bulq]
+Name=Sora Bulq
+Set=Destiny of the Force
+SetDisplay=Destiny of the Force
+Faction=Separatists
+CharacterJPGImage=DestinyoftheForce_Pics\dotf20_BH50WeequayLeader.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>None
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique.  Melee Attack; Double Attack</B></FONT><BR><FONT SIZE=4><B>Lightsaber Duelist</B></FONT>  (+4 Defense when attacked by an adjacent character with a Force rating)<BR><FONT SIZE=4><B>Soresu Style</B></FONT>  (When hit by an attack from a nonadjacent enemy, this character takes no damage with a save of 11)<BR><FONT SIZE=4><B>Djem So Style</B></FONT>  (Whenever this character is hit by a melee attack, make a save of 11. On a success, this character can make an immediate attack against that attacker.)<BR><FONT SIZE=4><B>Vaapad-Style Fighting</B></FONT> (Scores a critical hit on an attack roll of natural 18, 19, or 20)<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 3</B></FONT><BR><FONT SIZE=4><B>Lightsaber Throw</B></FONT> (Force 1, replaces attacks: Attack 1 enemy within 6 squares)<BR><FONT SIZE=4><B>Sith Rage</B></FONT> (Force 1: +10 Damage on all attacks this turn)
+SquadSuggestions=
+Description=
+FlavorText=
+Number=20
+Damage=20
+PlayCost=33
+Attack=13
+HitPoints=110
+Defense=19
+ForcePoints=3
+Type=8
+Base=2
+FactionID=8
+SetID=32768
+MiniID=524308
+ReinforcementsAvailable=0
+UniqueIdentifier=1
+AbilitiesMask1=140737488356619
+AbilitiesMask2=4505798718144513
+AbilitiesMask3=0
+CEEligibility=73729
+CELeadership=0
+
+[Lieutenant Page]
+Name=Lieutenant Page
+Set=Destiny of the Force
+SetDisplay=Destiny of the Force
+Faction=Rebel
+CharacterJPGImage=DestinyoftheForce_Pics\dotf21_IE10VeteranRebelCommando.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>Non-Unique Commandos in your squad within 6 squares gain <B>Squad Cover</B> (+4 Defense while at least 3 allies with the same name are within 6 squares) and <B>Twin Attack</B>.
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique</B></FONT><BR><FONT SIZE=4><B>Commando</B></FONT> <BR><FONT SIZE=4><B>Grenades 10</B></FONT> (Replaces attacks: range 6; 10 damage to target and each character adjacent to that target; save 11)<BR><FONT SIZE=4><B>Stealth</B></FONT> (If this character has cover, it does not count as the nearest enemy for an attacker farther than 6 squares when choosing targets)<BR><FONT SIZE=4><B>Twin Attack</B></FONT> (Whenever this character attacks, it makes 1 extra attack against the same target)<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>Non-Unique Commandos in your squad within 6 squares gain <B>Squad Cover</B> (+4 Defense while at least 3 allies with the same name are within 6 squares) and <B>Twin Attack</B>.
+SquadSuggestions=
+Description=<I>Lieutenant Judder Page was with the Rebel Commandos who accompanied General Solo to Endor to destroy the shield generator protecting the second Death Star.</I>
+FlavorText=<I>Lieutenant Judder Page was with the Rebel Commandos who accompanied General Solo to Endor to destroy the shield generator protecting the second Death Star.</I>
+Number=21
+Damage=10
+PlayCost=22
+Attack=9
+HitPoints=60
+Defense=16
+ForcePoints=0
+Type=4
+Base=2
+FactionID=1
+SetID=32768
+MiniID=65557
+ReinforcementsAvailable=0
+UniqueIdentifier=1
+AbilitiesMask1=537395219
+AbilitiesMask2=4505798667403265
+AbilitiesMask3=0
+CEEligibility=4194353
+CELeadership=1
+
+[Rebel Commando Munitions Expert]
+Name=Rebel Commando Munitions Expert
+Set=Destiny of the Force
+SetDisplay=Destiny of the Force
+Faction=Rebel
+CharacterJPGImage=DestinyoftheForce_Pics\dotf22_RS15RebelCommando.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>None
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Grenades 10</B></FONT> (Replaces attacks: range 6; 10 damage to target and each character adjacent to that target; save 11)<BR><FONT SIZE=4><B>Satchel Charge</B></FONT> (Replaces attacks: Designate 1 adjacent door as open; it remains open for the rest of the skirmish and cannot be closed)<BR><FONT SIZE=4><B>Stealth</B></FONT> (If this character has cover, it does not count as the nearest enemy for an attacker farther than 6 squares when choosing targets)
+SquadSuggestions=
+Description=<I>Munitions Experts have a simple creed:<BR>"Find it, rig it, leave it in pieces."</I>
+FlavorText=<I>Munitions Experts have a simple creed:<BR>"Find it, rig it, leave it in pieces."</I>
+Number=22
+Damage=10
+PlayCost=11
+Attack=5
+HitPoints=30
+Defense=14
+ForcePoints=0
+Type=1
+Base=2
+FactionID=1
+SetID=32768
+MiniID=65558
+ReinforcementsAvailable=0
+UniqueIdentifier=0
+AbilitiesMask1=537395205
+AbilitiesMask2=4505798650757129
+AbilitiesMask3=0
+CEEligibility=137443213363
+CELeadership=0
+
+[Wedge's Snowspeeder]
+Name=Wedge's Snowspeeder
+Set=Destiny of the Force
+SetDisplay=Destiny of the Force
+Faction=Rebel
+CharacterJPGImage=DestinyoftheForce_Pics\dotf23_BH12RebelSnowspeeder.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>None
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique. Speed 16; Flight; Mobile Attack</B></FONT> <BR><FONT SIZE=4><B>Avoid Defeat</B></FONT> (Whenever this character would be defeated, make 2 saves, each needing 11; if both succeed, this character has 10 Hit Points instead of being defeated)<BR><FONT SIZE=4><B>Damage Reduction 10</B></FONT> (When this character takes damage, reduce the damage dealt by 10. Adjacent enemies with lightsabers ignore this special ability.<BR><FONT SIZE=4><B>Expert Harpoon Gunner</B></FONT> (Replaces attacks: range 6; target enemy with Mounted Weapon cannot move this round; save 16.  If the save is less than 11, the target enemy also has -4 Defense and automatically fails saves the rest of the round.)<BR><FONT SIZE=4><B>Mounted Weapon</B></FONT> (Only allies with Mounted Weapon or adjacent allies with Gunner can combine fire with this character)<BR><FONT SIZE=4><B>Twin Attack</B></FONT> (Whenever this character attacks, it makes 1 extra attack against the same target)
+SquadSuggestions=
+Description=
+FlavorText=
+Number=23
+Damage=20
+PlayCost=39
+Attack=10
+HitPoints=70
+Defense=18
+ForcePoints=0
+Type=4
+Base=8
+FactionID=1
+SetID=32768
+MiniID=65559
+ReinforcementsAvailable=0
+UniqueIdentifier=1
+AbilitiesMask1=4398065385539
+AbilitiesMask2=4505798667538433
+AbilitiesMask3=0
+CEEligibility=37814273
+CELeadership=0
+
+[Admiral Gilad Pellaeon]
+Name=Admiral Gilad Pellaeon
+Set=Destiny of the Force
+SetDisplay=Destiny of the Force
+Faction=Imperial
+CharacterJPGImage=DestinyoftheForce_Pics\dotf24_GaW16AdmiralYularen.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>At the start of the skirmish, after set-up, you may replace 1 allied Imperial commander on your squad with an Imperial character of equal or lesser cost.
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique</B></FONT><BR><FONT SIZE=4><B>Ysalamiri</B></FONT> [Characters within 6 squares (including this character) cannot spend Force points and gain <B>Force Immunity</B> (Enemies cannot affect this character with Force powers, or spend Force points to reroll attacks against this character or to respond to this character's attacks and abilities)]<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>At the start of the skirmish, after set-up, you may replace one allied Imperial commander on your squad with an Imperial character of equal or lesser cost.
+SquadSuggestions=
+Description=<I>Gilad Pellaeon had a very long military career spanning over seven decades, beginning before the Clone Wars and staying active up through the formation of the Galactic Alliance.</I>
+FlavorText=<I>Gilad Pellaeon had a very long military career spanning over seven decades, beginning before the Clone Wars and staying active up through the formation of the Galactic Alliance.</I>
+Number=24
+Damage=10
+PlayCost=16
+Attack=6
+HitPoints=60
+Defense=17
+ForcePoints=0
+Type=8
+Base=2
+FactionID=2
+SetID=32768
+MiniID=131096
+ReinforcementsAvailable=0
+UniqueIdentifier=1
+AbilitiesMask1=19
+AbilitiesMask2=4505798650626049
+AbilitiesMask3=0
+CEEligibility=4194305
+CELeadership=1
+
+[Elite Scout Trooper]
+Name=Elite Scout Trooper
+Set=Destiny of the Force
+SetDisplay=Destiny of the Force
+Faction=Imperial
+CharacterJPGImage=DestinyoftheForce_Pics\dotf25_RS33ScoutTrooper.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>None
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Scout Trooper</B></FONT> (Counts as a character named Scout Trooper)<BR><FONT SIZE=4><B>Evade</B></FONT> (When hit by an attack from a nonadjacent enemy, this character takes no damage with a save of 11)<BR><FONT SIZE=4><B>Stealth</B></FONT> (If this character has cover, it does not count as the nearest enemy for an attacker farther than 6 squares when choosing targets)
+SquadSuggestions=
+Description=<I>The most experienced Scouts could hear a twig break within 50 meters. Sometimes the ones right behind, however, surprised them.</I>
+FlavorText=<I>The most experienced Scouts could hear a twig break within 50 meters. Sometimes the ones right behind, however, surprised them.</I>
+Number=25
+Damage=20
+PlayCost=13
+Attack=8
+HitPoints=50
+Defense=17
+ForcePoints=0
+Type=1
+Base=2
+FactionID=2
+SetID=32768
+MiniID=131097
+ReinforcementsAvailable=0
+UniqueIdentifier=0
+AbilitiesMask1=805306373
+AbilitiesMask2=5631698557599745
+AbilitiesMask3=0
+CEEligibility=4276243
+CELeadership=0
+
+[Imperial Knight Master]
+Name=Imperial Knight Master
+Set=Destiny of the Force
+SetDisplay=Destiny of the Force
+Faction=Imperial
+CharacterJPGImage=DestinyoftheForce_Pics\dotf26_LotF20ImperialKnight.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>None
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Melee Attack; Double Attack</B></FONT> <BR><FONT SIZE=4><B>Cortosis Gauntlet 18</B></FONT> (Whenever this character rolls 18 or better on a save when using Lightsaber Block against an enemy with a lightsaber, that enemy gets -20 Damage for the rest of the skirmish)<BR><FONT SIZE=4><B>Synergy</B></FONT> (+4 Attack while an allied Imperial Knight is within 6 squares)<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 3</B></FONT><BR><FONT SIZE=4><B>Lightsaber Assault</B></FONT> (Force 1, replaces attacks: Make 2 attacks)<BR><FONT SIZE=4><B>Lightsaber Block</B></FONT> (Force 1: When hit by a melee attack, this character takes no damage on a save of 11)
+SquadSuggestions=
+Description=<I>These Imperial Knights were tasked with thwarting any possible harm to Emperor Fel and his daughter, Marasiah.</I>
+FlavorText=<I>These Imperial Knights were tasked with thwarting any possible harm to Emperor Fel and his daughter, Marasiah.</I>
+Number=26
+Damage=20
+PlayCost=28
+Attack=11
+HitPoints=100
+Defense=19
+ForcePoints=3
+Type=2
+Base=2
+FactionID=2
+SetID=32768
+MiniID=131098
+ReinforcementsAvailable=0
+UniqueIdentifier=0
+AbilitiesMask1=17867063951629
+AbilitiesMask2=4505798651019265
+AbilitiesMask3=0
+CEEligibility=73731
+CELeadership=0
+
+[Joruus C'Boath]
+Name=Joruus C'Boath
+Set=Destiny of the Force
+SetDisplay=Destiny of the Force
+Faction=Imperial
+CharacterJPGImage=DestinyoftheForce_Pics\dotf27_JA11SithLod.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>At the end of this character's turn, 1 follower within line of sight may take an iimmediate turn. At the end of that turn, that character is defeated.
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique</B></FONT><BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 2, Force Renewal 2</B></FONT> <BR><FONT SIZE=4><B>Force Lightning 3</B></FONT> (Force 3, replaces turn: range 6; 40 damage to target and 2 characters adjacent to that target. Huge or smaller characters are considered activated this round; save 11.)<BR><FONT SIZE=4><B>Force Lightning 4</B></FONT> (Force 4, replaces attacks: range 6; 50 damage to target. Huge or smaller characters are considered activated this round; save 16)<BR><FONT SIZE=4><B>Force Detonate</B></FONT> (When this character is defeated, each character within 4 squares takes 40 damage, save 11 to reduce the damage to 20.)<BR><FONT SIZE=4><B>Force Dominate</B></FONT> (Force 2, replaces attacks: sight; Target living character takes an immediate turn under your control, which does not count as an activation for the round; save 11. The target character cannot move this turn.)<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>At the end of this character's turn, one follower within line of sight may take an immediate turn. At the end of that turn, that character is defeated.
+SquadSuggestions=
+Description=
+FlavorText=
+Number=27
+Damage=0
+PlayCost=51
+Attack=0
+HitPoints=120
+Defense=20
+ForcePoints=2
+Type=8
+Base=2
+FactionID=2
+SetID=32768
+MiniID=131099
+ReinforcementsAvailable=0
+UniqueIdentifier=1
+AbilitiesMask1=33554707
+AbilitiesMask2=4505798650626049
+AbilitiesMask3=0
+CEEligibility=8193
+CELeadership=1
+
+[Noghri Warrior]
+Name=Noghri Warrior
+Set=Destiny of the Force
+SetDisplay=Destiny of the Force
+Faction=Imperial
+CharacterJPGImage=DestinyoftheForce_Pics\dotf28_UH40Noghri.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>None
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Melee Attack; Double Attack</B></FONT> <BR><FONT SIZE=4><B>Affinity</B></FONT> (May be in a New Republic squad)<BR><FONT SIZE=4><B>Leia's Bodyguard</B></FONT> (If a character whose name contains Leia is an adjacent ally and would take damage from an attack, this character can take the damage instead)<BR><FONT SIZE=4><B>Mighty Swing +20</B></FONT> (On its turn, if this character does not move, it gets +20 Damage against adjacent enemies)<BR><FONT SIZE=4><B>Stealth</B></FONT> (If this character has cover, it does not count as the nearest enemy for an attacker farther than 6 squares when choosing targets)<BR><FONT SIZE=4><B>Thrawn's Bodyguard</B></FONT> (If Grand Admiral Thrawn is an adjacent ally and would take damage from an attack, this character can take the damage instead)
+SquadSuggestions=
+Description=<I>Noghri were unknowing slaves to the Empire, but willing bodyguards to Darth Vader's descendants, particularly to Leia Organa Solo, the Mal'ary'ush.</I>
+FlavorText=<I>Noghri were unknowing slaves to the Empire, but willing bodyguards to Darth Vader's descendants, particularly to Leia Organa Solo, the Mal'ary'ush.</I>
+Number=28
+Damage=10
+PlayCost=20
+Attack=9
+HitPoints=50
+Defense=16
+ForcePoints=0
+Type=2
+Base=2
+FactionID=2
+SetID=32768
+MiniID=131100
+ReinforcementsAvailable=0
+UniqueIdentifier=0
+AbilitiesMask1=4611686018964258829
+AbilitiesMask2=4505798651019265
+AbilitiesMask3=0
+CEEligibility=1099515887763
+CELeadership=0
+
+[Rukh]
+Name=Rukh
+Set=Destiny of the Force
+SetDisplay=Destiny of the Force
+Faction=Imperial
+CharacterJPGImage=DestinyoftheForce_Pics\dotf29_LotF28NoghriCommando.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>None
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique. Melee Attack</B></FONT> <BR><FONT SIZE=4><B>Charging Assault +10</B></FONT> (Replaces turn: Can move up to double speed, then make an attack at +10 Damage against an adjacent enemy)<BR><FONT SIZE=4><B>Cloaked</B></FONT> (If this character has cover, it cannot be targeted by nonadjacent enemies)<BR><FONT SIZE=4><B>Cleave</B></FONT> (Once per turn, if this character defeats an adjacent enemy by making an attack, he can make 1 immediate attack against another adjacent enemy)<BR><FONT SIZE=4><B>Internal Strife</B></FONT> (On an attack roll of natural 1, this character joins the opponent's squad until the end of the skirmish)<BR><FONT SIZE=4><B>Thrawn's Bodyguard</B></FONT> (If Grand Admiral Thrawn is an adjacent ally and would take damage from an attack, this character can take the damage instead)<BR><FONT SIZE=4><B>Vicious Attack</B></FONT> (Triple damage instead of double on a critical hit)
+SquadSuggestions=
+Description=
+FlavorText=
+Number=29
+Damage=20
+PlayCost=18
+Attack=10
+HitPoints=70
+Defense=18
+ForcePoints=0
+Type=4
+Base=2
+FactionID=2
+SetID=32768
+MiniID=131101
+ReinforcementsAvailable=0
+UniqueIdentifier=1
+AbilitiesMask1=153122387330596875
+AbilitiesMask2=4787273627467777
+AbilitiesMask3=0
+CEEligibility=4259841
+CELeadership=0
+
+[Scout Trooper Officer]
+Name=Scout Trooper Officer
+Set=Destiny of the Force
+SetDisplay=Destiny of the Force
+Faction=Imperial
+CharacterJPGImage=DestinyoftheForce_Pics\dotf30_AE31ScoutTrooper.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>Imperial troopers in your squad with Stealth (including this character) and who have cover cannot be targeted by nonadjacent enemies.  <BR><BR>Imperial allies named Scout Trooper gain <B>Grenades 10</B>.
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Grenades 10</B></FONT> (Replaces attacks: range 6; 10 damage to target and to each character adjacent to that target; save 11)<BR><FONT SIZE=4><B>Stealth</B></FONT> (If this character has cover, it does not count as the nearest enemy for an attacker farther than 6 squares when choosing targets)<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>Imperial troopers in your squad with Stealth (including this character) and who have cover cannot be targeted by nonadjacent enemies. <BR><BR>Imperial allies named Scout Trooper gain <B>Grenades 10</B>.
+SquadSuggestions=
+Description=
+FlavorText=
+Number=30
+Damage=10
+PlayCost=14
+Attack=8
+HitPoints=40
+Defense=18
+ForcePoints=0
+Type=2
+Base=2
+FactionID=2
+SetID=32768
+MiniID=131102
+ReinforcementsAvailable=0
+UniqueIdentifier=0
+AbilitiesMask1=537395221
+AbilitiesMask2=4505798650626049
+AbilitiesMask3=0
+CEEligibility=4194355
+CELeadership=1
+
+[Ben Skywalker]
+Name=Ben Skywalker
+Set=Destiny of the Force
+SetDisplay=Destiny of the Force
+Faction=New Republic
+CharacterJPGImage=DestinyoftheForce_Pics\dotf31_KotOR32LukeSkywalkerJedi.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>None
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique. Melee Attack; Double Attack</B></FONT> <BR><FONT SIZE=4><B>Cunning Attack</B></FONT> (+4 Attack and +10 Damage against an enemy who has not activated this round)<BR><FONT SIZE=4><B>Stealth</B></FONT> (If this character has cover, it does not count as the nearest enemy for an attacker farther than 6 squares when choosing targets)<BR><FONT SIZE=4><B>Twin Blaster 10</B></FONT> (Replaces attacks: sight; make 2 attacks against 1 target at +8 Attack and 10 Damage. These count as nonmelee attacks.)<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 3</B></FONT><BR><FONT SIZE=4><B>Force Withdrawal</B></FONT> (Force 1, usable only on this character's turn: Until the start of this character's next turn or until he spends a Force point, he gains <B>Force Immunity</B>)
+SquadSuggestions=
+Description=<I>After withdrawing from the Force for much of his childhood, Ben beings to finally trust in his Force abilities and starts on his path to becoming a great Jedi.</I>
+FlavorText=<I>After withdrawing from the Force for much of his childhood, Ben beings to finally trust in his Force abilities and starts on his path to becoming a great Jedi.</I>
+Number=31
+Damage=20
+PlayCost=22
+Attack=6
+HitPoints=70
+Defense=17
+ForcePoints=3
+Type=4
+Base=2
+FactionID=32
+SetID=32768
+MiniID=2097183
+ReinforcementsAvailable=0
+UniqueIdentifier=1
+AbilitiesMask1=536875275
+AbilitiesMask2=4505798651019265
+AbilitiesMask3=0
+CEEligibility=73745
+CELeadership=0
+
+[Cilghal]
+Name=Cilghal
+Set=Destiny of the Force
+SetDisplay=Destiny of the Force
+Faction=New Republic
+CharacterJPGImage=DestinyoftheForce_Pics\dotf32_GaW31NadharVebb.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>None
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique</B></FONT><BR><FONT SIZE=4><B>Melee Attack</B></FONT><BR><FONT SIZE=4><B>Double Attack</B></FONT> (On her turn, this character can make 1 extra attack instead of moving)<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 4</B></FONT><BR><FONT SIZE=4><B>Force Heal 30</B></FONT> (Force 2, replaces attacks: touch; remove 30 damage from a living character)<BR><FONT SIZE=4><B>Jedi Mind Trick</B></FONT> (Force 1, usable only on this character's turn: range 2; target living enemy is considered activated this round and cannot make attacks of opportunity this turn; save 11)
+SquadSuggestions=
+Description=<I>Jedi Master Cilghal is the most adept healer in the New Jedi Order, but still makes good use of a lightsaber.</I>
+FlavorText=<I>Jedi Master Cilghal is the most adept healer in the New Jedi Order, but still makes good use of a lightsaber.</I>
+Number=32
+Damage=20
+PlayCost=25
+Attack=9
+HitPoints=70
+Defense=18
+ForcePoints=4
+Type=4
+Base=2
+FactionID=32
+SetID=32768
+MiniID=2097184
+ReinforcementsAvailable=0
+UniqueIdentifier=1
+AbilitiesMask1=8459
+AbilitiesMask2=4540983023108097
+AbilitiesMask3=0
+CEEligibility=73729
+CELeadership=0
+
+[Jacen Solo, Jedi Knight]
+Name=Jacen Solo, Jedi Knight
+Set=Destiny of the Force
+SetDisplay=Destiny of the Force
+Faction=New Republic
+CharacterJPGImage=DestinyoftheForce_Pics\dotf33_CotF53JacenSolo.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>None
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique. Melee Attack; Double Attack</B></FONT> <BR><FONT SIZE=4><B>Embrace of Pain</B></FONT> (+1 Attack and +1 Defense for every 10 points of damage currently on this character)<BR><FONT SIZE=4><B>Parry</B></FONT> (When hit by a melee attack, this character takes no damage with a save of 11)<BR><FONT SIZE=4><B>Vongsense</B></FONT> (Ignores Force Immunity of Yuuzhan Vong enemies)<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 4</B></FONT><BR><FONT SIZE=4><B>Force Lightning 2</B></FONT> (Force 2, replaces attacks: range 6: 30 damage to 1 target and 2 characters adjacent to that target)
+SquadSuggestions=
+Description=<I>During his captivity by the Yuuzhan Vong, Jacen gained a technique he called "Vongsense" where he could affect them with the Force.</I>
+FlavorText=<I>During his captivity by the Yuuzhan Vong, Jacen gained a technique he called "Vongsense" where he could affect them with the Force.</I>
+Number=33
+Damage=20
+PlayCost=33
+Attack=11
+HitPoints=90
+Defense=19
+ForcePoints=4
+Type=4
+Base=2
+FactionID=32
+SetID=32768
+MiniID=2097185
+ReinforcementsAvailable=0
+UniqueIdentifier=1
+AbilitiesMask1=267
+AbilitiesMask2=4505798651019265
+AbilitiesMask3=0
+CEEligibility=73729
+CELeadership=0
+
+[Jaina Solo, Sword of the Jedi]
+Name=Jaina Solo, Sword of the Jedi
+Set=Destiny of the Force
+SetDisplay=Destiny of the Force
+Faction=New Republic
+CharacterJPGImage=DestinyoftheForce_Pics\dotf34_CotF54JainaSolo.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>None
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique. Melee Attack; Triple Attack</B></FONT><BR><FONT SIZE=4><B>Affinity</B></FONT> (This character may be in a Mandalorian Squad)<BR><FONT SIZE=4><B>Greater Mobile Attack</B></FONT> (Can move both before and after attacking. This character can make extra attacks even if she moves this turn, but she must make them all before resuming movement)<BR><FONT SIZE=4><B>Parry</B></FONT> (When hit by a melee attack, this character takes no damage with a save of 11)<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 4</B></FONT><BR><FONT SIZE=4><B>Lightsaber Deflect</B></FONT> (Force 1: When hit by a non-melee attack, this character takes no damage with a save of 11)<BR><FONT SIZE=4><B>Master Speed</B></FONT> (Force 1: This character can move 6 extra squares on her turn as part of her move)
+SquadSuggestions=
+Description=
+FlavorText=
+Number=34
+Damage=20
+PlayCost=56
+Attack=15
+HitPoints=110
+Defense=20
+ForcePoints=4
+Type=8
+Base=2
+FactionID=32
+SetID=32768
+MiniID=2097186
+ReinforcementsAvailable=0
+UniqueIdentifier=1
+AbilitiesMask1=34359738635
+AbilitiesMask2=4505798651346945
+AbilitiesMask3=0
+CEEligibility=73729
+CELeadership=0
+
+[Jedi Demolitionist]
+Name=Jedi Demolitionist
+Set=Destiny of the Force
+SetDisplay=Destiny of the Force
+Faction=New Republic
+CharacterJPGImage=DestinyoftheForce_Pics\dotf35_CotF04JediSentinel.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>None
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Melee Attack. Double Attack</B></FONT><BR><FONT SIZE=4><B>Grenades 20</B></FONT> (Replaces attacks: range 6; 20 damage to target and to each character adjacent to that target; save 11)<BR><FONT SIZE=4><B>Mobile Attack</B></FONT> (Can move both before and after attacking)<BR><FONT SIZE=4><B>Satchel Charge</B></FONT> (Replaces attacks: Designate 1 adjacent door as open; it remains open for the rest of the skirmish and cannot be closed)<BR><FONT SIZE=4><B>Stealth</B></FONT> (If this character has cover, it does not count as the nearest enemy for an attacker farther than 6 squares when choosing targets)<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 3</B></FONT><BR><FONT SIZE=4><B>Force Bubble</B></FONT> (Force 1: When this character takes damage, reduce the damage dealt by 20)<BR><FONT SIZE=4><B>Knight Speed</B></FONT> (Force 1, this character can move an extra 4 squares on its turn as part of its move)
+SquadSuggestions=
+Description=<I>"Who needs explosives when the Force is so much more fun?"<BR>	-Final words of a Jedi Padawan.</I>
+FlavorText=<I>"Who needs explosives when the Force is so much more fun?"<BR>	-Final words of a Jedi Padawan.</I>
+Number=35
+Damage=20
+PlayCost=29
+Attack=9
+HitPoints=80
+Defense=18
+ForcePoints=3
+Type=2
+Base=2
+FactionID=32
+SetID=32768
+MiniID=2097187
+ReinforcementsAvailable=0
+UniqueIdentifier=0
+AbilitiesMask1=539492621
+AbilitiesMask2=4505798651019273
+AbilitiesMask3=0
+CEEligibility=33628179
+CELeadership=0
+
+[Veteran New Republic Trooper]
+Name=Veteran New Republic Trooper
+Set=Destiny of the Force
+SetDisplay=Destiny of the Force
+Faction=New Republic
+CharacterJPGImage=DestinyoftheForce_Pics\dotf36_IE07RebelCommandoPathfinder.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>None
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Advantageous Cover</B></FONT> (This character gets +8 Defense from cover instead of +4)<BR><FONT SIZE=4><B>Evade</B></FONT> (When hit by an attack from a nonadjacent enemy, this character takes no damage with a save of 11)
+SquadSuggestions=
+Description=<I>Veteran Troopers were an uncommon sight during the Yuuzhan Vong war.</I>
+FlavorText=<I>Veteran Troopers were an uncommon sight during the Yuuzhan Vong war.</I>
+Number=36
+Damage=20
+PlayCost=17
+Attack=9
+HitPoints=40
+Defense=16
+ForcePoints=0
+Type=2
+Base=2
+FactionID=32
+SetID=32768
+MiniID=2097188
+ReinforcementsAvailable=0
+UniqueIdentifier=0
+AbilitiesMask1=268435461
+AbilitiesMask2=5631698557599745
+AbilitiesMask3=0
+CEEligibility=4276227
+CELeadership=0
+
+[Atris]
+Name=Atris
+Set=Destiny of the Force
+SetDisplay=Destiny of the Force
+Faction=Fringe
+CharacterJPGImage=DestinyoftheForce_Pics\dotf37_CotF03JediGuardian.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>Characters in your squad named Echani Handmaiden get +4 Attack and +10 Damage.
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique. Melee Attack; Double Attack</B></FONT><BR><FONT SIZE=4><B>Rapport</B></FONT> (Characters named Echani Handmaiden cost 1 less when in a squad with this character)<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 5</B></FONT><BR><FONT SIZE=4><B>Force Meditation</B></FONT> (Force 1, replaces turn: Until the end of the round, this character gains the following Force ability: Allied characters get +4 Attack and enemy characters get -4 Attack)<BR><FONT SIZE=4><B>Lightsaber Deflect</B></FONT> (Force 1: When hit by a nonmelee attack, this character takes no damage with a save of 11)<BR><FONT SIZE=4><B>Lightsaber Riposte</B></FONT> (Force 1: When hit by a melee attack, this character can make an immediate attack against that attacker)<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>Characters in your squad named Echani Handmaiden get +4 Attack and +10 Damage.
+SquadSuggestions=
+Description=<I>"It is such a quiet thing, to fall. But far more terrible is to admit it."<BR>		-Kreia</I>
+FlavorText=<I>"It is such a quiet thing, to fall. But far more terrible is to admit it."<BR>		-Kreia</I>
+Number=37
+Damage=20
+PlayCost=41
+Attack=13
+HitPoints=100
+Defense=20
+ForcePoints=5
+Type=4
+Base=2
+FactionID=16
+SetID=32768
+MiniID=1048613
+ReinforcementsAvailable=0
+UniqueIdentifier=1
+AbilitiesMask1=103079215387
+AbilitiesMask2=4505798650888193
+AbilitiesMask3=0
+CEEligibility=8193
+CELeadership=1
+
+[Han Solo, Gambler]
+Name=Han Solo, Gambler
+Set=Destiny of the Force
+SetDisplay=Destiny of the Force
+Faction=Fringe
+CharacterJPGImage=DestinyoftheForce_Pics\dotf38_RS07HanSolo.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>None
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique</B></FONT><BR><FONT SIZE=4><B>Accurate Shot</B></FONT> (Can attack an enemy with cover even if it is not the nearest enemy)<BR><FONT SIZE=4><B>Evade</B></FONT> (When hit by an attack from a nonadjacent enemy, this character takes no damage with a save of 11)<BR><FONT SIZE=4><B>Gambler's Luck</B></FONT> (Once per turn, this character can reroll an attack, adding +4 to the result. If the attack misses this character takes 10 damage)<BR><FONT SIZE=4><B>Long Shot +10</B></FONT> (+4 Attack and +10 Damage when this character is at half Hit Points or less)
+SquadSuggestions=
+Description=<I>Before falling in with the Rebel Alliance, Han took his orders from one person: himself.</I>
+FlavorText=<I>Before falling in with the Rebel Alliance, Han took his orders from one person: himself.</I>
+Number=38
+Damage=20
+PlayCost=21
+Attack=8
+HitPoints=60
+Defense=16
+ForcePoints=0
+Type=8
+Base=2
+FactionID=16
+SetID=32768
+MiniID=1048614
+ReinforcementsAvailable=0
+UniqueIdentifier=128
+AbilitiesMask1=268435587
+AbilitiesMask2=4505798650757121
+AbilitiesMask3=0
+CEEligibility=4259841
+CELeadership=0
+
+[Jawa Chief]
+Name=Jawa Chief
+Set=Destiny of the Force
+SetDisplay=Destiny of the Force
+Faction=Fringe
+CharacterJPGImage=DestinyoftheForce_Pics\dotf39_AE48JawaTrader.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>Allies whose name contains Jawa gain <B>Reprogram</B>.
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Ion Gun +20</B></FONT> (This character gets +20 Damage against nonliving enemies)<BR><FONT SIZE=4><B>Reprogram</B></FONT> (Replaces attacks: touch; target enemy droid joins this character's squad, save 11. Each time the reprogrammed character would activate, it must first attempt a save of 11; on a failure, that character takes 10 damage, remains unactivated, rejoins the original squad, and is no longer reprogrammed.)<BR><FONT SIZE=4><B>Scramble</B></FONT> (A Droid enemy or an enemy with Mounted Weapon hit by this character's attack is considered activated this round; save 11. Huge and larger characters ignore this effect.)<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>Allies whose name contains Jawa gain <B>Reprogram</B>.
+SquadSuggestions=<I>Jawas are experts at acquiring, reprogramming, and reselling droids and equipment. No guarantees, of course.</I>
+Description=<I>Jawas are experts at acquiring, reprogramming, and reselling droids and equipment. No guarantees, of course.</I>
+FlavorText=
+Number=39
+Damage=10
+PlayCost=13
+Attack=7
+HitPoints=50
+Defense=14
+ForcePoints=0
+Type=2
+Base=1
+FactionID=16
+SetID=32768
+MiniID=1048615
+ReinforcementsAvailable=0
+UniqueIdentifier=0
+AbilitiesMask1=21
+AbilitiesMask2=4505798650626049
+AbilitiesMask3=0
+CEEligibility=4194307
+CELeadership=1
+
+[Jodo Kast]
+Name=Jodo Kast
+Set=Destiny of the Force
+SetDisplay=Destiny of the Force
+Faction=Fringe
+CharacterJPGImage=DestinyoftheForce_Pics\dotf40_RS42BobaFett.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>None
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique. Double Attack</B></FONT><BR><FONT SIZE=4><B>Bounty Hunter +2</B></FONT> (+2 Attack against Unique enemies)<BR><FONT SIZE=4><B>Cunning Attack</B></FONT> (+4 Attack and +10 Damage against an enemy who has not activated this round) <BR><FONT SIZE=4><B>Evade</B></FONT> (When hit by an attack from a nonadjacent enemy, this character takes no damage with a save of 11)<BR><FONT SIZE=4><B>Flight</B></FONT> (Ignores enemy characters, low obstacles, and pits when moving)<BR><FONT SIZE=4><B>Virulent Poison Dart</B></FONT> (Replaces turn: range 6; 40 damage to target living enemy; save 16)
+SquadSuggestions=
+Description=<I>Once a SpecOps officer for the Rebellion, Jod Kast desired credits over anything else, and took up the profession of Bounty Hunter. He often impersonated Boba Fett to help his career along, which eventually was his undoing.</I>
+FlavorText=<I>Once a SpecOps officer for the Rebellion, Jod Kast desired credits over anything else, and took up the profession of Bounty Hunter. He often impersonated Boba Fett to help his career along, which eventually was his undoing.</I>
+Number=40
+Damage=10
+PlayCost=38
+Attack=8
+HitPoints=80
+Defense=18
+ForcePoints=0
+Type=8
+Base=2
+FactionID=16
+SetID=32768
+MiniID=1048616
+ReinforcementsAvailable=0
+UniqueIdentifier=1
+AbilitiesMask1=268439619
+AbilitiesMask2=4505798651019265
+AbilitiesMask3=0
+CEEligibility=4259841
+CELeadership=0
+
+[Nautolan Black Sun Vigo]
+Name=Nautolan Black Sun Vigo
+Set=Destiny of the Force
+SetDisplay=Destiny of the Force
+Faction=Fringe
+CharacterJPGImage=DestinyoftheForce_Pics\dotf41_RotS49NautolanSoldier.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>Fringe followers with Stealth gain <B>Black Sun</B>.
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Black Sun</B></FONT><BR><FONT SIZE=4><B>Cunning Attack</B></FONT> (+4 Attack and +10 Damage against an enemy who has not activated this round)<BR><FONT SIZE=4><B>Mobile Attack</B></FONT> (Can move both before and after attacking)<BR><FONT SIZE=4><B>Stealth</B></FONT> (If this character has cover, it does not count as the nearest enemy for an attacker farther than 6 squares when choosing targets)<BR><FONT SIZE=4><B>Twin Attack</B></FONT> (Whenever this character attacks, it makes 1 extra attack against the same target)<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>Fringe followers with Stealth gain <B>Black Sun</B>.
+SquadSuggestions=
+Description=<I>Some Vigos are discreet about recruitment; others are less so.</I>
+FlavorText=<I>Some Vigos are discreet about recruitment; others are less so.</I>
+Number=41
+Damage=10
+PlayCost=23
+Attack=7
+HitPoints=40
+Defense=18
+ForcePoints=0
+Type=2
+Base=2
+FactionID=16
+SetID=32768
+MiniID=1048617
+ReinforcementsAvailable=0
+UniqueIdentifier=0
+AbilitiesMask1=538972181
+AbilitiesMask2=4505798675791873
+AbilitiesMask3=0
+CEEligibility=37748787
+CELeadership=1
+
+[Nikto Pirate]
+Name=Nikto Pirate
+Set=Destiny of the Force
+SetDisplay=Destiny of the Force
+Faction=Fringe
+CharacterJPGImage=DestinyoftheForce_Pics\dotf42_AE50NiktoSoldier.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>None
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Black Sun</B></FONT><BR><FONT SIZE=4><B>Gregarious</B></FONT> (+4 Attack if an ally is within 6 squares)<BR><FONT SIZE=4><B>Rapport</B></FONT> (Costs 1 less when in the same squad as a character whose name contains Hondo Ohnaka)
+SquadSuggestions=
+Description=<I>"You don't survive in the Outer Rim by being stupid!"<BR>		-Hondo Ohnaka</I>
+FlavorText=<I>"You don't survive in the Outer Rim by being stupid!"<BR>		-Hondo Ohnaka</I>
+Number=42
+Damage=10
+PlayCost=8
+Attack=6
+HitPoints=10
+Defense=14
+ForcePoints=0
+Type=1
+Base=2
+FactionID=16
+SetID=32768
+MiniID=1048618
+ReinforcementsAvailable=0
+UniqueIdentifier=0
+AbilitiesMask1=5
+AbilitiesMask2=4505798659145729
+AbilitiesMask3=0
+CEEligibility=4259875
+CELeadership=0
+
+[Niles Ferrier]
+Name=Niles Ferrier
+Set=Destiny of the Force
+SetDisplay=Destiny of the Force
+Faction=Fringe
+CharacterJPGImage=DestinyoftheForce_Pics\dotf43_JA35PeaceBrigadeThug.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>Allies with Stealth whose name contains Defel and who have cover cannot be targeted by nonadjacent enemies.  <BR>Allies whose name contains Defel gain +4 Attack.
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique. Pilot</B></FONT><BR><FONT SIZE=4><B>Deceptive</B></FONT> (+10 Damage against an enemy who has activated this round)<BR><FONT SIZE=4><B>Rapport</B></FONT> (A character whose name contains Defel costs 1 less when in the same squad as this character)<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>Allies with Stealth whose name contains Defel and who have cover cannot be targeted by nonadjacent enemies.  <BR><BR>Allies whose name contains Defel gain +4 Attack.
+SquadSuggestions=
+Description=<I>Niles Ferrier was a ship thief who worked with Grand Admiral Thrawn to locate the lost Katana Fleet.</I>
+FlavorText=<I>Niles Ferrier was a ship thief who worked with Grand Admiral Thrawn to locate the lost Katana Fleet.</I>
+Number=43
+Damage=10
+PlayCost=20
+Attack=10
+HitPoints=50
+Defense=18
+ForcePoints=0
+Type=4
+Base=2
+FactionID=16
+SetID=32768
+MiniID=1048619
+ReinforcementsAvailable=0
+UniqueIdentifier=1
+AbilitiesMask1=19
+AbilitiesMask2=148620986726481921
+AbilitiesMask3=0
+CEEligibility=4194369
+CELeadership=1
+
+[Salacious Crumb]
+Name=Salacious Crumb
+Set=Destiny of the Force
+SetDisplay=Destiny of the Force
+Faction=Fringe
+CharacterJPGImage=DestinyoftheForce_Pics\dotf44_MotF38ToydarianSoldier.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>None
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique. Melee Attack</B></FONT><BR><FONT SIZE=4><B>Distraction</B></FONT> (Suppresses adjacent enemy commander effects)<BR><FONT SIZE=4><B>Rapport</B></FONT> (Costs 1 less when in a squad with a character whose name contains Jabba)<BR><FONT SIZE=4><B>Wall Climber</B></FONT> (This character ignores difficult terrain, enemy characters, low obstacles, and pits when moving as long as the square it occupies and the square it is moving into are adjacent to a wall.)
+SquadSuggestions=
+Description=<I>Jabba's pet Kowakian monkey-lizard was also his court jester.</I>
+FlavorText=<I>Jabba's pet Kowakian monkey-lizard was also his court jester.</I>
+Number=44
+Damage=10
+PlayCost=5
+Attack=2
+HitPoints=10
+Defense=14
+ForcePoints=0
+Type=8
+Base=1
+FactionID=16
+SetID=32768
+MiniID=1048620
+ReinforcementsAvailable=0
+UniqueIdentifier=1
+AbilitiesMask1=11
+AbilitiesMask2=4505798650757249
+AbilitiesMask3=0
+CEEligibility=1099515887617
+CELeadership=0
+
+[Tusken Raider Chieftain]
+Name=Tusken Raider Chieftain
+Set=Destiny of the Force
+SetDisplay=Destiny of the Force
+Faction=Fringe
+CharacterJPGImage=DestinyoftheForce_Pics\dotf45_AE56TuskenRaider.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>Allies whose name contains Tusken gain <B>Gang +1</B> (+1 Attack against a target for each other ally whose name contains Tusken within 6 squares of that target).
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Melee Attack</B></FONT><BR><FONT SIZE=4><B>Double Attack</B></FONT> (On its turn, this character can make 1 extra attack instead of moving)<BR><FONT SIZE=4><B>Mighty Swing +10</B></FONT>  (On its turn, if this character does not move, it gets +10 Damage against adjacent enemies)<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>Allies whose name contains Tusken gain <B>Gang +1</B> (+1 Attack against a target for each other ally whose name contains Tusken within 6 squares of that target).
+SquadSuggestions=
+Description=<I>"Sand people are easily startled, but they'll soon be back, and in greater numbers."<BR>		-Obi-Wan "Ben" Kenobi</I>
+FlavorText=<I>"Sand people are easily startled, but they'll soon be back, and in greater numbers."<BR>		-Obi-Wan "Ben" Kenobi</I>
+Number=45
+Damage=20
+PlayCost=15
+Attack=8
+HitPoints=40
+Defense=15
+ForcePoints=0
+Type=2
+Base=2
+FactionID=16
+SetID=32768
+MiniID=1048621
+ReinforcementsAvailable=0
+UniqueIdentifier=0
+AbilitiesMask1=4611686018427387933
+AbilitiesMask2=4507997674143745
+AbilitiesMask3=0
+CEEligibility=8594128899
+CELeadership=1
+
+[YVH 1 (Yuuzhan Vong Hunter Droid)]
+Name=YVH 1 (Yuuzhan Vong Hunter Droid)
+Set=Destiny of the Force
+SetDisplay=Destiny of the Force
+Faction=Fringe
+CharacterJPGImage=DestinyoftheForce_Pics\dotf46_LotF45GuardDroid.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>None
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Droid</B></FONT> (Immune to critical hits; not subject to commander effects)<BR><FONT SIZE=4><B>Laminanium Armor</B></FONT> (Each time this character activates, remove 10 damage from it)<BR><FONT SIZE=4><B>Missiles 30</B></FONT> (Replaces attacks: sight; 30 damage to target and to each character adjacent to that target; save 11)<BR><FONT SIZE=4><B>Twin Attack</B></FONT> (Whenever this character attacks, it makes 1 extra attack against the same target)<BR><FONT SIZE=4><B>Vong Hunter</B></FONT> (+4 Attack and +10 Damage against Yuuzhan Vong characters)
+SquadSuggestions=
+Description=<I>These specialized droids were created by Tendrando Arms with the sole purpose of fighting the Yuuzahn Vong in direct combat. They were programmed to taunt their enemies in the Vong language to spite their hatred of machinery.</I>
+FlavorText=<I>These specialized droids were created by Tendrando Arms with the sole purpose of fighting the Yuuzahn Vong in direct combat. They were programmed to taunt their enemies in the Vong language to spite their hatred of machinery.</I>
+Number=46
+Damage=10
+PlayCost=20
+Attack=9
+HitPoints=60
+Defense=15
+ForcePoints=0
+Type=2
+Base=2
+FactionID=16
+SetID=32768
+MiniID=1048622
+ReinforcementsAvailable=0
+UniqueIdentifier=0
+AbilitiesMask1=72061992084439077
+AbilitiesMask2=16777216
+AbilitiesMask3=0
+CEEligibility=541196290
+CELeadership=0
+
+[Jaster Mereel]
+Name=Jaster Mereel
+Set=Destiny of the Force
+SetDisplay=Destiny of the Force
+Faction=Mandalorian
+CharacterJPGImage=DestinyoftheForce_Pics\dotf47_CS45JangoFett.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>Each follower within 6 squares can make 1 immediate attack when defeated.
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique. Double Attack</B></FONT><BR><FONT SIZE=4><B>Mandalorian Reinforcements 30</B></FONT> (During setup, after seeing your opponent's squad, you can add up to 30 points of non-Unique Mandalorians whose name does not contain Death Watch)<BR><FONT SIZE=4><B>Synergy</B></FONT> (A character whose name contains Jango Fett counts as  Mandalorian when in the same squad as this character. A character whose name contains Jango Fett gains +4 Attack and +4 Defense while within 6 squares of this character.)<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>Each follower within 6 squares can make 1 immediate attack when defeated.
+SquadSuggestions=
+Description=<I>Jaster Mereel adopted Jango Fett after his family was murdered by the rogue Mandalorian faction, the Death Watch.</I>
+FlavorText=<I>Jaster Mereel adopted Jango Fett after his family was murdered by the rogue Mandalorian faction, the Death Watch.</I>
+Number=47
+Damage=20
+PlayCost=54
+Attack=11
+HitPoints=80
+Defense=17
+ForcePoints=0
+Type=4
+Base=2
+FactionID=512
+SetID=32768
+MiniID=47
+ReinforcementsAvailable=0
+UniqueIdentifier=1
+AbilitiesMask1=19
+AbilitiesMask2=4505798650888193
+AbilitiesMask3=0
+CEEligibility=4196353
+CELeadership=1
+
+[Mandalore the Preserver]
+Name=Mandalore the Preserver
+Set=Destiny of the Force
+SetDisplay=Destiny of the Force
+Faction=Mandalorian
+CharacterJPGImage=DestinyoftheForce_Pics\dotf48_LotF54CanderousOrdo.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>Mandalorian allies gain <B>Beskar'gam</B>.
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique</B></FONT> (Counts as Canderous Ordo)<BR><FONT SIZE=4><B>Beskar'gam</B></FONT> (Whenever this character takes damage, he reduces the damage dealt by 10 with a save of 11)<BR><FONT SIZE=4><B>Double Attack</B></FONT> (On its turn, this character can make 1 extra attack instead of moving)<BR><FONT SIZE=4><B>Rout</B></FONT> (Whenever a character in your squad defeats an enemy commander, move each other enemy within 6 squares of that commander up to its Speed away from the commander's square. This movement does not trigger attacks of opportunity.)<BR><FONT SIZE=4><B>Twin Attack</B></FONT> (Whenever this character attacks, he makes 1 extra attack against the same target)<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>Mandalorian allies gain <B>Beskar'gam</B>.
+SquadSuggestions=
+Description=<I>Canderous Ordo took up the mantle of Mandalore in order to restore the Mandalorian clans to prominence.</I>
+FlavorText=<I>Canderous Ordo took up the mantle of Mandalore in order to restore the Mandalorian clans to prominence.</I>
+Number=48
+Damage=20
+PlayCost=55
+Attack=12
+HitPoints=120
+Defense=19
+ForcePoints=0
+Type=4
+Base=2
+FactionID=512
+SetID=32768
+MiniID=48
+ReinforcementsAvailable=0
+UniqueIdentifier=1
+AbilitiesMask1=19
+AbilitiesMask2=4505798667665409
+AbilitiesMask3=0
+CEEligibility=4196353
+CELeadership=1
+
+[Mandalorian Blaster-For-Hire]
+Name=Mandalorian Blaster-For-Hire
+Set=Destiny of the Force
+SetDisplay=Destiny of the Force
+Faction=Mandalorian
+CharacterJPGImage=DestinyoftheForce_Pics\dotf49_CotF16SithTrooper.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>None
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Trooper</B></FONT> (Counts as a character named Mandalorian Trooper)<BR><FONT SIZE=4><B>Double Attack</B></FONT> (On its turn, this character can make 1 extra attack instead of moving)
+SquadSuggestions=
+Description=<I>lb'tuur jatne tuur ash'ad kyr'amur.</I>
+FlavorText=<I>lb'tuur jatne tuur ash'ad kyr'amur.</I>
+Number=49
+Damage=10
+PlayCost=8
+Attack=4
+HitPoints=20
+Defense=14
+ForcePoints=0
+Type=1
+Base=2
+FactionID=512
+SetID=32768
+MiniID=49
+ReinforcementsAvailable=0
+UniqueIdentifier=0
+AbilitiesMask1=5
+AbilitiesMask2=5631698557861889
+AbilitiesMask3=0
+CEEligibility=4278275
+CELeadership=0
+
+[Mandalorian Bounty Hunter]
+Name=Mandalorian Bounty Hunter
+Set=Destiny of the Force
+SetDisplay=Destiny of the Force
+Faction=Mandalorian
+CharacterJPGImage=DestinyoftheForce_Pics\dotf50_RotS09CloneTrooper.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>None
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Double Attack</B></FONT><BR><FONT SIZE=4><B>Bounty Hunter +2</B></FONT> (+2 Attack against Unique enemies)<BR><FONT SIZE=4><B>Flamethrower 20</B></FONT> (Replaces attacks: range 6; 20 damage to target and each character adjacent to that target)<BR><FONT SIZE=4><B>Stealth</B></FONT> (If this character has cover, it does not count as the nearest enemy for an attacker farther than 6 squares when choosing targets)
+SquadSuggestions=
+Description=<I>Many Mandalorians made a living by hunting down wanted criminals, or, well, anyone with a decent price on their head.</I>
+FlavorText=<I>Many Mandalorians made a living by hunting down wanted criminals, or, well, anyone with a decent price on their head.</I>
+Number=50
+Damage=20
+PlayCost=22
+Attack=8
+HitPoints=70
+Defense=16
+ForcePoints=0
+Type=2
+Base=2
+FactionID=512
+SetID=32768
+MiniID=50
+ReinforcementsAvailable=0
+UniqueIdentifier=0
+AbilitiesMask1=536870917
+AbilitiesMask2=4505798651019281
+AbilitiesMask3=0
+CEEligibility=4261907
+CELeadership=0
+
+[Mandalorian Counter-Intelligence Officer]
+Name=Mandalorian Counter-Intelligence Officer
+Set=Destiny of the Force
+SetDisplay=Destiny of the Force
+Faction=Mandalorian
+CharacterJPGImage=DestinyoftheForce_Pics\dotf51_LotF29ShadowStormtrooper.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>None
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Cloaked</B></FONT> (If this character has cover, it cannot be targeted by nonadjacent enemies)<BR><FONT SIZE=4><B>Black Ops</B></FONT> (Suppress enemy commander effects that alter the number of turns per phase)
+SquadSuggestions=
+Description=<I>During the Yuuzhan Vong War, the Mandalorians acted as double agents for the New Republic.</I>
+FlavorText=<I>During the Yuuzhan Vong War, the Mandalorians acted as double agents for the New Republic.</I>
+Number=51
+Damage=10
+PlayCost=12
+Attack=6
+HitPoints=40
+Defense=17
+ForcePoints=0
+Type=2
+Base=2
+FactionID=512
+SetID=32768
+MiniID=51
+ReinforcementsAvailable=0
+UniqueIdentifier=0
+AbilitiesMask1=5
+AbilitiesMask2=4505798650757121
+AbilitiesMask3=0
+CEEligibility=4261891
+CELeadership=0
+
+[Mandalorian Gunsmith]
+Name=Mandalorian Gunsmith
+Set=Destiny of the Force
+SetDisplay=Destiny of the Force
+Faction=Mandalorian
+CharacterJPGImage=DestinyoftheForce_Pics\dotf52_DT6-501stClone.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>None
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Cunning Attack +20</B></FONT> (+4 Attack and +20 Damage against an enemy who has not activated this round)<BR><FONT SIZE=4><B>Ion Gun +20</B></FONT> (+20 damage against nonliving enemies)<BR><FONT SIZE=4><B>Mobile Attack</B></FONT> (This character can move both before and after attacking)<BR><FONT SIZE=4><B>Override</B></FONT> (At the end of its turn, this character can designate 1 door that it can see as open or closed; it remains open or closed until the end of this character's next turn, or until it is defeated)
+SquadSuggestions=
+Description=<I>Gar partayl Mando'ade jorcu be val beskar'gam; gar digu val jorcu be val besbe'trayce.<BR>--Mandalorian proverb, by author Karen Traviss</I>
+FlavorText=<I>Gar partayl Mando'ade jorcu be val beskar'gam; gar digu val jorcu be val besbe'trayce.<BR>--Mandalorian proverb, by author Karen Traviss</I>
+Number=52
+Damage=10
+PlayCost=16
+Attack=8
+HitPoints=40
+Defense=16
+ForcePoints=0
+Type=2
+Base=2
+FactionID=512
+SetID=32768
+MiniID=52
+ReinforcementsAvailable=0
+UniqueIdentifier=0
+AbilitiesMask1=18014398511579141
+AbilitiesMask2=4505798650757121
+AbilitiesMask3=0
+CEEligibility=37816323
+CELeadership=0
+
+[Mandalorian Tactician]
+Name=Mandalorian Tactician
+Set=Destiny of the Force
+SetDisplay=Destiny of the Force
+Faction=Mandalorian
+CharacterJPGImage=DestinyoftheForce_Pics\dotf53_TFU34EvoTrooper.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>If this character has line of sight to an enemy at the start of a phase, you can choose to activate 2 or 3 characters in that phase. (This can include Droid and Savage characters.) 
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Cloaked</B></FONT> (If this character has cover, it cannot be targeted by nonadjacent enemies)<BR><FONT SIZE=4><B>Mobile Attack</B></FONT> (Can move both before and after attacking)<BR><FONT SIZE=4><B>Tactician +4</B></FONT> (Add +4 to the initiative roll except on a roll of 1)<BR><FONT SIZE=4><B>Twin Attack</B></FONT> (Whenever this character attacks, it makes 1 extra attack against the same target)<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>If this character has line of sight to an enemy at the start of a phase, you can choose to activate 2 or 3 characters in that phase. (This includes Droid and Savage characters.) 
+SquadSuggestions=
+Description=<I>Sometimes the easiest path to victory lies in the information gathering.</I>
+FlavorText=<I>Sometimes the easiest path to victory lies in the information gathering.</I>
+Number=53
+Damage=20
+PlayCost=24
+Attack=9
+HitPoints=40
+Defense=18
+ForcePoints=0
+Type=2
+Base=2
+FactionID=512
+SetID=32768
+MiniID=53
+ReinforcementsAvailable=0
+UniqueIdentifier=0
+AbilitiesMask1=2097173
+AbilitiesMask2=4505798667403265
+AbilitiesMask3=0
+CEEligibility=37750787
+CELeadership=1
+
+[Nen Yim]
+Name=Nen Yim
+Set=Destiny of the Force
+SetDisplay=Destiny of the Force
+Faction=Yuuzhan Vong
+CharacterJPGImage=DestinyoftheForce_Pics\dotf54_LotF59YuuzhanVongShaper.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>None
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique. Melee Attack</B></FONT><BR><FONT SIZE=4><B>Force Immunity</B></FONT> (Enemies cannot affect this character with Force powers, or spend Force points to reroll attacks against this character or to respond to this character's attacks and abilities)<BR><FONT SIZE=4><B>Master Shaper</B></FONT> (Choose one Yuuzhan Vong ally, that character gets +4 Attack and +10 Damage, and gains <B>Demolish</B> (Ignores Damage Reduction of adjacent characters) for the rest of the skirmish)<BR><FONT SIZE=4><B>Shaper +10</B></FONT> (Yuuzhan Vong allies within 6 squares get +10 Damage.  This bonus damage is multiplied by critical hits.)<BR><FONT SIZE=4><B>Thud Bug</B></FONT> (Replaces attacks: range 6; 10 damage, living target is considered activated this round; save 11 negates. Huge and larger characters ignore the non-damaging effect.)
+SquadSuggestions=
+Description=
+FlavorText=
+Number=54
+Damage=20
+PlayCost=27
+Attack=8
+HitPoints=70
+Defense=16
+ForcePoints=0
+Type=4
+Base=2
+FactionID=64
+SetID=32768
+MiniID=4194358
+ReinforcementsAvailable=0
+UniqueIdentifier=1
+AbilitiesMask1=281474976710659
+AbilitiesMask2=4505798650757121
+AbilitiesMask3=0
+CEEligibility=138477569
+CELeadership=0
+
+[Shedeo Shai]
+Name=Shedeo Shai
+Set=Destiny of the Force
+SetDisplay=Destiny of the Force
+Faction=Yuuzhan Vong
+CharacterJPGImage=DestinyoftheForce_Pics\dotf55_LotF57YuuzhanVongEliteWarrior.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>None
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique. Melee Attack</B></FONT><BR><FONT SIZE=4><B>Embrace of Pain</B></FONT> (For each 10 damage currently on this character, it gets +1 Attack and +1 Defense)<BR><FONT SIZE=4><B>Force Immunity</B></FONT> (Enemies cannot affect this character with Force powers, or spend Force points to reroll attacks against this character or to respond to this character's attacks and abilities)<BR><FONT SIZE=4><B>Indiscriminate</B></FONT> (This character ignores abilities and commander effects that prevent enemy characters from being targeted or attacked.)<BR><FONT SIZE=4><B>Jedi Hunter</B></FONT> (+4 Attack and +10 Damage against enemies with Force ratings)<BR><FONT SIZE=4><B>Melee Reach 2</B></FONT> (When attacking, this character treat enemies up to 2 squares away as adjacent) <BR><FONT SIZE=4><B>Twin Attack</B></FONT> (Whenever this character attacks, it makes 1 extra attack against the same target)<BR><FONT SIZE=4><B>Vonduun Crab Armor 6</B></FONT> (When this character takes damage, he can reduce the damage dealt by 10 with a save of 6)
+SquadSuggestions=
+Description=
+FlavorText=
+Number=55
+Damage=10
+PlayCost=30
+Attack=10
+HitPoints=70
+Defense=19
+ForcePoints=0
+Type=4
+Base=2
+FactionID=64
+SetID=32768
+MiniID=4194359
+ReinforcementsAvailable=0
+UniqueIdentifier=1
+AbilitiesMask1=281474985099275
+AbilitiesMask2=4505798667534337
+AbilitiesMask3=0
+CEEligibility=1099650105345
+CELeadership=0
+
+[Supreme Overlord Shimrra]
+Name=Supreme Overlord Shimrra
+Set=Destiny of the Force
+SetDisplay=Destiny of the Force
+Faction=Yuuzhan Vong
+CharacterJPGImage=DestinyoftheForce_Pics\dotf56_UH58WarmasterTsavongLah.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>Whenever a Yuuzhan Vong ally misses an attack, it may reroll once. If the result is still a miss, the character is defeated and each other Yuuzhan Vong ally gets +1 Attack.(This bonus stacks.)
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique. Melee Attack; Triple Attack</B></FONT><BR><FONT SIZE=4><B>Force Immunity</B></FONT> (Enemies cannot affect this character with Force powers, or spend Force points to reroll attacks against this character or to respond to this character's attacks and abilities)<BR><FONT SIZE=4><B>Master Tactician</B></FONT> (You automatically choose who goes first except on a roll of 1)<BR><FONT SIZE=4><B>Vonduun Crab Armor 6</B></FONT> (When this character takes damage, he can reduce the damage dealt by 10 with a save of 6)<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>Whenever a Yuuzhan Vong ally misses an attack, it may reroll once. If the result is still a miss, the character is defeated and each other Yuuzhan Vong ally gets +1 Attack. (This bonus stacks.)
+SquadSuggestions=
+Description=
+FlavorText=
+Number=56
+Damage=20
+PlayCost=72
+Attack=15
+HitPoints=130
+Defense=23
+ForcePoints=0
+Type=8
+Base=2
+FactionID=64
+SetID=32768
+MiniID=4194360
+ReinforcementsAvailable=0
+UniqueIdentifier=1
+AbilitiesMask1=27
+AbilitiesMask2=6757598464835585
+AbilitiesMask3=0
+CEEligibility=138412033
+CELeadership=1
+
+[Voxyn]
+Name=Voxyn
+Set=Destiny of the Force
+SetDisplay=Destiny of the Force
+Faction=Yuuzhan Vong
+CharacterJPGImage=DestinyoftheForce_Pics\dotf57_KotOR37Boma.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>None
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Speed 8</B></FONT><BR><FONT SIZE=4><B>Melee Attack; Double Attack</B></FONT><BR><FONT SIZE=4><B>Jedi Hunter</B></FONT> (+4 Attack and +10 Damage against enemies with Force ratings)<BR><FONT SIZE=4><B>Poison +10</B></FONT> (+10 Damage to living enemies; save 11)<BR><FONT SIZE=4><B>Regeneration 10</B></FONT> (If this character doesn't move on its turn, remove 10 damage from it at the end of that turn)<BR><FONT SIZE=4><B>Stunning Screech</B></FONT> (Replaces attacks: All living characters within 2 squares are considered activated this round and cannot make attacks of opportunity this turn; save 11 negates. Huge or larger characters ignore this effect.)<BR><FONT SIZE=4><B>Vonduun Crab Armor 11</B></FONT> (When this character takes damage, it can reduce the damage dealt by 10 with a save of 11)
+SquadSuggestions=
+Description=<I>The Voxyn were bioengineered by Shapers from the vornskr of the planet Myrkr and the fero xyn of the Yuuzhan Vong galaxy. They were bred as a direct threat to the Jedi Order.</I>
+FlavorText=<I>The Voxyn were bioengineered by Shapers from the vornskr of the planet Myrkr and the fero xyn of the Yuuzhan Vong galaxy. They were bred as a direct threat to the Jedi Order.</I>
+Number=57
+Damage=20
+PlayCost=40
+Attack=11
+HitPoints=100
+Defense=19
+ForcePoints=0
+Type=2
+Base=4
+FactionID=64
+SetID=32768
+MiniID=4194361
+ReinforcementsAvailable=0
+UniqueIdentifier=0
+AbilitiesMask1=8205
+AbilitiesMask2=4505799187894273
+AbilitiesMask3=0
+CEEligibility=138477571
+CELeadership=0
+
+[Yuuzhan Vong High-bred Warrior]
+Name=Yuuzhan Vong High-bred Warrior
+Set=Destiny of the Force
+SetDisplay=Destiny of the Force
+Faction=Yuuzhan Vong
+CharacterJPGImage=DestinyoftheForce_Pics\dotf58_LotF60YuuzhanVongWarrior.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>None
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Yuuzhan Vong Warrior</B></FONT> (Counts as a character name Yuuzhan Vong Warrior)<BR><FONT SIZE=4><B>Melee Attack</B></FONT> (Can attack only adjacent enemies)<BR><FONT SIZE=4><B>Force Immunity</B></FONT> (Enemies cannot affect this character with Force powers, or spend Force points to reroll attacks against this character or to respond to this character's attacks and abilities)<BR><FONT SIZE=4><B>Razorbug</B></FONT> (Replaces attacks: sight; 10 damage; save 11)<BR><FONT SIZE=4><B>Twin Attack</B></FONT> (Whenever this character attacks, it makes 1 extra attack against the same target)<BR><FONT SIZE=4><B>Vonduun Crab Armor 11</B></FONT> (When this character takes damage, it can reduce the damage dealt by 10 with a save of 11)
+SquadSuggestions=
+Description=<I>The Warrior caste was bred to be brave, fierce, and merciless in battle; surrender was never an option.</I>
+FlavorText=<I>The Warrior caste was bred to be brave, fierce, and merciless in battle; surrender was never an option.</I>
+Number=58
+Damage=10
+PlayCost=11
+Attack=6
+HitPoints=40
+Defense=15
+ForcePoints=0
+Type=1
+Base=2
+FactionID=64
+SetID=32768
+MiniID=4194362
+ReinforcementsAvailable=0
+UniqueIdentifier=0
+AbilitiesMask1=281474976710661
+AbilitiesMask2=4505798667534337
+AbilitiesMask3=0
+CEEligibility=138477699
+CELeadership=0
+
+[Yuuzhan Vong Worker]
+Name=Yuuzhan Vong Worker
+Set=Destiny of the Force
+SetDisplay=Destiny of the Force
+Faction=Yuuzhan Vong
+CharacterJPGImage=DestinyoftheForce_Pics\dotf59_MotF39FarOutsider.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>None
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Melee Attack</B></FONT><BR><FONT SIZE=4><B>Force Immunity</B></FONT> (Enemies cannot affect this character with Force powers, or spend Force points to reroll attacks against this character or to respond to this character's attacks and abilities) <BR><FONT SIZE=4><B>Stealth</B></FONT> (If this character has cover, it does not count as the nearest enemy for an attacker farther than 6 squares when choosing targets)<BR><FONT SIZE=4><B>Swarm +1</B></FONT> (+1 Attack against a target for each allied Yuuzhan Vong Worker adjacent to that target)
+SquadSuggestions=
+Description=<I>Those of the intendant class of the Yuuzhan Vong society had the task of keeping the supply lines open, caring for creatures made by Shapers, or by being spies behind enemy lines.</I>
+FlavorText=<I>Those of the intendant class of the Yuuzhan Vong society had the task of keeping the supply lines open, caring for creatures made by Shapers, or by being spies behind enemy lines.</I>
+Number=59
+Damage=10
+PlayCost=4
+Attack=2
+HitPoints=10
+Defense=11
+ForcePoints=0
+Type=1
+Base=2
+FactionID=64
+SetID=32768
+MiniID=4194363
+ReinforcementsAvailable=0
+UniqueIdentifier=0
+AbilitiesMask1=281475513581581
+AbilitiesMask2=4505798650757121
+AbilitiesMask3=0
+CEEligibility=1099650105363
+CELeadership=0
+
+[Yammosk War Coordinator]
+Name=Yammosk War Coordinator 
+Set=Destiny of the Force
+SetDisplay=Destiny of the Force
+Faction=Yuuzhan Vong
+CharacterJPGImage=DestinyoftheForce_Pics\dotf60_TFU52KnobbyWhiteSpider.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>None
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Damage Reduction 10</B></FONT> (When this character would take damage, reduce the damage dealt by 10. Attacks with lightsabers ignore this special ability.)<BR><FONT SIZE=4><B>Emplacement</B></FONT> (Cannot move or be moved. Set up anywhere on your half of the battle map.) <BR><FONT SIZE=4><B>Force Immunity</B></FONT> (Enemies cannot affect this character with Force powers, or spend Force points to reroll attacks against this character or to respond to this character's attacks and abilities)<BR><FONT SIZE=4><B>Telepathic Insight </B></FONT> (During setup, after seeing your opponent's squad, you may choose one commander effect. This character gains this commander effect and any faction specific effects become Yuuzhan Vong specific effects.)<BR><FONT SIZE=4><B>Yuuzhan Vong War Coordinator </B></FONT> (Special abilities that grant bonuses to Yuuzhan Vong within 6 squares or commander effects normally limited to within 6 squares of characters in your squad (including this character) have unlimited range.  You may not have more than one character with Yuuzhan Vong War Coordinator in your squad.) 
+SquadSuggestions=
+Description=
+FlavorText=
+Number=60
+Damage=0
+PlayCost=15
+Attack=0
+HitPoints=70
+Defense=16
+ForcePoints=0
+Type=8
+Base=8
+FactionID=64
+SetID=32768
+MiniID=4194364
+ReinforcementsAvailable=0
+UniqueIdentifier=0
+AbilitiesMask1=285873023221765
+AbilitiesMask2=4505798650757121
+AbilitiesMask3=0
+CEEligibility=138477571
+CELeadership=0

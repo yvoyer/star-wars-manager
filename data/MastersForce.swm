@@ -1,0 +1,1097 @@
+[Set Data]
+TotalInSet=40
+
+[Cay Qel-Droma 1]
+Name=Cay Qel-Droma
+Set=Masters of the Force
+SetDisplay=Masters Force
+Faction=Old Republic
+CharacterJPGImage=MastersForce_Pics\01.jpg
+Number=1
+Damage=20
+PlayCost=28
+Attack=10
+HitPoints=90
+Defense=18
+ForcePoints=1
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique</B></FONT><BR><FONT SIZE=4><B>Melee Attack</B></FONT> (Can attack only adjacent enemies)<BR><FONT SIZE=4><B>Double Attack</B></FONT> (On his turn, this character can make 1 extra attack instead of moving)<BR><FONT SIZE=4><B>Ataru Style</B></FONT> (+4 Attack if exactly 1 enemy is within 6 squares)<BR><FONT SIZE=4><B>Cay's Legacy</B></FONT> (If this character is defeated by a Unique enemy, that enemy must make a save of 11; if the save fails, the enemy joins this character's squad for the rest of the skirmish)<BR><FONT SIZE=4><B>Repair 20</B></FONT> (Replaces attacks: touch; remove 20 damage from 1 Droid character)<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 1</B></FONT><BR><FONT SIZE=4><B>Force Renewal 1</B></FONT> (This character gets 1 Force point each time he activates)<BR><FONT SIZE=4><B>Lightsaber Assault</B></FONT> (Force 1, replaces attacks: Make 2 attacks)<BR><FONT SIZE=4><B>Lightsaber Precision</B></FONT> (Force 1: +10 Damage on next attack)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+UniqueIdentifier=1
+MiniID=4194957
+FactionID=128
+Type=8
+Base=2
+AbilitiesMask1=17729658552586
+AbilitiesMask2=2233383387136
+AbilitiesMask3=16386
+CEEligibility=73729
+CELeadership=0
+
+[Jedi Healer 2]
+Name=Jedi Healer
+Set=Masters of the Force
+SetDisplay=Masters Force
+Faction=Old Republic
+CharacterJPGImage=MastersForce_Pics\02.jpg
+Number=2
+Damage=20
+PlayCost=18
+Attack=9
+HitPoints=40
+Defense=17
+ForcePoints=2
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Melee Attack</B></FONT> (Can attack only adjacent enemies)<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 2</B></FONT><BR><FONT SIZE=4><B>Force Renewal 1</B></FONT> (This character gets 1 Force point each time he activates)<BR><FONT SIZE=4><B>Force Heal 30</B></FONT> (Force 2, replaces attacks: touch; remove 30 damage from a living character)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="The cerebral Bith have focused all their efforts on art and technology.  Adopting the Jedi tradition grants even deeper insights into both."
+UniqueIdentifier=0
+MiniID=4194958
+FactionID=128
+Type=2
+Base=2
+AbilitiesMask1=33562892
+AbilitiesMask2=2199023386624
+CEEligibility=73731
+CELeadership=0
+
+[Jedi Instructor 3]
+Name=Jedi Instructor
+Set=Masters of the Force
+SetDisplay=Masters Force
+Faction=Old Republic
+CharacterJPGImage=MastersForce_Pics\03.jpg
+Number=3
+Damage=20
+PlayCost=22
+Attack=8
+HitPoints=50
+Defense=17
+ForcePoints=3
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Melee Attack</B></FONT> (Can attack only adjacent enemies)<BR><FONT SIZE=4><B>Affinity</B></FONT> (May be in a Republic squad)<BR><FONT SIZE=4><B>Mobile Attack</B></FONT> (Can move both before and after attacking)<BR><FONT SIZE=4><B>Soresu Style</B></FONT> (When hit by an attack from a nonadjacent enemy, this character takes no damage with a save of 11)<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 3</B></FONT><BR><FONT SIZE=4><B>Lightsaber Assault</B></FONT> (Force 1, replaces attacks: Make 2 attacks)<BR><FONT SIZE=4><B>Master Speed</B></FONT> (Force 1: This character can move 6 extra squares on his turn as part of his move)<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>Allies with a Force rating within 6 squares gain <B>Mobile Attack</B>.
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>Allies with a Force rating within 6 squares gain <B>Mobile Attack</B>.
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+UniqueIdentifier=0
+MiniID=4194959
+FactionID=128
+Type=2
+Base=2
+AbilitiesMask1=17592188141852
+AbilitiesMask2=2199023321344
+AbilitiesMask3=67108864
+CEEligibility=33562627
+CELeadership=8193
+
+[Jedi Sith Hunter 4]
+Name=Jedi Sith Hunter
+Set=Masters of the Force
+SetDisplay=Masters Force
+Faction=Old Republic
+CharacterJPGImage=MastersForce_Pics\04.jpg
+Number=4
+Damage=20
+PlayCost=15
+Attack=8
+HitPoints=60
+Defense=17
+ForcePoints=3
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Melee Attack</B></FONT> (Can attack only adjacent enemies)<BR><FONT SIZE=4><B>Sith Hunter</B></FONT> (+4 Attack and +10 Damage against Sith enemies)<BR><FONT SIZE=4><B>Stealth</B></FONT> (If this character has cover, he does not count as the nearest enemy for an attacker farther than 6 squares when choosing targets)<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 3</B></FONT><BR><FONT SIZE=4><B>Force Alter</B></FONT> (Force 1: range 6; any 1 enemy rerolls its last attack)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="The Jedi Council appointed special agents to infiltrate and expose threats to the Republic.  They also sometimes aided in criminal investigations."
+UniqueIdentifier=0
+MiniID=4194960
+FactionID=128
+Type=2
+Base=2
+AbilitiesMask1=545259788
+AbilitiesMask2=2216203255808
+CEEligibility=73747
+CELeadership=0
+
+[Lord Hoth 5]
+Name=Lord Hoth
+Set=Masters of the Force
+SetDisplay=Masters Force
+Faction=Old Republic
+CharacterJPGImage=MastersForce_Pics\05.jpg
+Number=5
+Damage=20
+PlayCost=44
+Attack=10
+HitPoints=130
+Defense=19
+ForcePoints=2
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique</B></FONT><BR><FONT SIZE=4><B>Melee Attack</B></FONT> (Can attack only adjacent enemies)<BR><FONT SIZE=4><B>Double Attack</B></FONT> (On his turn, this character can make 1 extra attack instead of moving)<BR><FONT SIZE=4><B>Impulsive Twin Attack</B></FONT> (If a Unique allied character is defeated, for the rest of the skirmish this character has <B>Twin Attack</B> [Whenever this character attacks, he makes 1 extra attack against the same target])<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 2</B></FONT><BR><FONT SIZE=4><B>Force Renewal 1</B></FONT> (This character gets 1 Force point each time he activates)<BR><FONT SIZE=4><B>Lightsaber Block</B></FONT> (Force 1: When hit by a melee attack, this character takes no damage with a save of 11)<BR><FONT SIZE=4><B>Master Speed</B></FONT> (Force 1: This character can move 6 extra squares on his turn as part of his move)<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>At the end of this character's turn, 1 follower within 6 squares can immediately move 2 squares.
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>At the end of this character's turn, 1 follower within 6 squares can immediately move 2 squares.
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+UniqueIdentifier=1
+MiniID=4194961
+FactionID=128
+Type=8
+Base=2
+AbilitiesMask1=274911461658
+AbilitiesMask2=2336479313920
+CEEligibility=8193
+CELeadership=65536
+
+[Freedon Nadd 6]
+Name=Freedon Nadd
+Set=Masters of the Force
+SetDisplay=Masters Force
+Faction=Sith
+CharacterJPGImage=MastersForce_Pics\06.jpg
+Number=6
+Damage=20
+PlayCost=55
+Attack=14
+HitPoints=150
+Defense=22
+ForcePoints=2
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique</B></FONT><BR><FONT SIZE=4><B>Melee Attack</B></FONT> (Can attack only adjacent enemies)<BR><FONT SIZE=4><B>Double Attack</B></FONT> (On his turn, this character can make 1 extra attack instead of moving)<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 2</B></FONT><BR><FONT SIZE=4><B>Force Renewal 1</B></FONT> (This character gets 1 Force point each time he activates)<BR><FONT SIZE=4><B>Dark Force Spirit 1</B></FONT> (If this character is defeated, each enemy with a Force rating loses 1 Force point each time it activates for the rest of the skirmish)<BR><FONT SIZE=4><B>Sith Rage</B></FONT> (Force 1: +10 Damage on all attacks this turn)<BR><FONT SIZE=4><B>Sith Sorcery</B></FONT> (Force 2, usable only on this character's turn: Enemies within 6 squares are considered activated this round; save 11)<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>Allies without a Force rating within 6 squares gain +4 Attack.
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>Allies without a Force rating within 6 squares gain +4 Attack.
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="The spirit of the ancient Sith lord Freedon Nadd guided young Exar Kun on the path to the dark side."
+UniqueIdentifier=1
+MiniID=4194962
+FactionID=256
+Type=8
+Base=2
+AbilitiesMask1=140737521910042
+AbilitiesMask2=2199023517696
+AbilitiesMask3=41943040
+CEEligibility=8193
+CELeadership=4194305
+
+[Kit Fisto, Jedi Master 7]
+Name=Kit Fisto, Jedi Master
+Set=Masters of the Force
+SetDisplay=Masters Force
+Faction=Republic
+CharacterJPGImage=MastersForce_Pics\07.jpg
+Number=7
+Damage=20
+PlayCost=42
+Attack=13
+HitPoints=130
+Defense=20
+ForcePoints=4
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique</B></FONT><BR><FONT SIZE=4><B>Melee Attack</B></FONT> (Can attack only adjacent enemies)<BR><FONT SIZE=4><B>Double Attack</B></FONT> (On his turn, this character can make 1 extra attack instead of moving)<BR><FONT SIZE=4><B>Intuition</B></FONT> (Once per round, after initiative is determined, this character can immediately move up to his speed before any other character activates)<BR><FONT SIZE=4><B>Shii-Cho Style</B></FONT> (+4 Attack and +4 Defense when 3 or more enemies are within 6 squares)<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 4</B></FONT><BR><FONT SIZE=4><B>Lightsaber Block</B></FONT> (Force 1: When hit by a melee attack, this character takes no damage with a save of 11)<BR><FONT SIZE=4><B>Lightsaber Sweep</B></FONT> (Force 1, replaces attacks: Can attack each adjacent enemy once)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="This amphibious Nautolan Jedi perfected Force fighting techniques that incorporated the movement of water."
+UniqueIdentifier=1
+MiniID=4194963
+FactionID=4
+Type=4
+Base=2
+AbilitiesMask1=9070970929418
+AbilitiesMask2=2199023648768
+AbilitiesMask3=4096
+CEEligibility=73729
+CELeadership=0
+
+[Master Windu 8]
+Name=Master Windu
+Set=Masters of the Force
+SetDisplay=Masters Force
+Faction=Republic
+CharacterJPGImage=MastersForce_Pics\08.jpg
+Number=8
+Damage=20
+PlayCost=65
+Attack=16
+HitPoints=150
+Defense=22
+ForcePoints=2
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique</B></FONT><BR><FONT SIZE=4><B>Melee Attack</B></FONT> (Can attack only adjacent enemies)<BR><FONT SIZE=4><B>Triple Attack</B></FONT> (On his turn, this character can make 2 extra attacks instead of moving)<BR><FONT SIZE=4><B>Vaapad-Style Fighting</B></FONT> (Scores a critical hit on an attack roll of natural 18, 19, or 20)<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 2</B></FONT><BR><FONT SIZE=4><B>Force Renewal 2</B></FONT> (This character gets 2 Force points each time he activates)<BR><FONT SIZE=4><B>Force Repulse 3</B></FONT> (Force 3, replaces turn: 30 damage to all characters within 3 squares; push back Huge or smaller characters to 4 squares from this character.  Huge or smaller characters are considered activated this round; save 11.)<BR><FONT SIZE=4><B>Lightsaber Riposte</B></FONT> (Force 1: When hit by a melee attack, this character can make an immediate attack against that attacker)<BR><FONT SIZE=4><B>Shatterpoint</B></FONT> (Force 1, replaces turn: range 6; choose 1 target enemy.  For the rest of the skirmish, this character's first attack each round against that enemy is a natural 20.)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+UniqueIdentifier=4096
+MiniID=4194964
+FactionID=4
+Type=4
+Base=2
+AbilitiesMask1=68753032458
+AbilitiesMask2=2199023910912
+AbilitiesMask3=8192
+CEEligibility=73729
+CELeadership=0
+
+[Plo Koon, Jedi Master 9]
+Name=Plo Koon, Jedi Master
+Set=Masters of the Force
+SetDisplay=Masters Force
+Faction=Republic
+CharacterJPGImage=MastersForce_Pics\09.jpg
+Number=9
+Damage=20
+PlayCost=40
+Attack=14
+HitPoints=130
+Defense=20
+ForcePoints=4
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique</B></FONT><BR><FONT SIZE=4><B>Pilot</B></FONT><BR><FONT SIZE=4><B>Melee Attack</B></FONT> (Can attack only adjacent enemies)<BR><FONT SIZE=4><B>Double Attack</B></FONT> (On his turn, this character can make 1 extra attack instead of moving)<BR><FONT SIZE=4><B>Opportunist</B></FONT> (+4 Attack and +10 Damage against an enemy who has activated this round)<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 4</B></FONT><BR><FONT SIZE=4><B>Force Alter</B></FONT> (Force 1: range 6; any 1 enemy rerolls its last attack)<BR><FONT SIZE=4><B>Lightsaber Block</B></FONT> (Force 1: When hit by a melee attack, this character takes no damage with a save of 11)<BR><FONT SIZE=4><B>Lightsaber Precision</B></FONT> (Force 1: +10 Damage on next attack)<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>Each trooper follower within 6 squares can make 1 immediate attack when defeated.
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>Each trooper follower within 6 squares can make 1 immediate attack when defeated.
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+UniqueIdentifier=1
+MiniID=4194965
+FactionID=4
+Type=4
+Base=2
+AbilitiesMask1=1152921916923707674
+AbilitiesMask2=144117404279242752
+CEEligibility=8257
+CELeadership=81920
+
+[Rodian Diplomat 10]
+Name=Rodian Diplomat
+Set=Masters of the Force
+SetDisplay=Masters Force
+Faction=Republic
+CharacterJPGImage=MastersForce_Pics\10.jpg
+Number=10
+Damage=0
+PlayCost=5
+Attack=0
+HitPoints=20
+Defense=13
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Diplomat</B></FONT> (If an attacker has line of sight to any enemies without Diplomat, this character is not a legal target and does not count as the nearest enemy, even if adjacent)<BR><FONT SIZE=4><B>It's a Trap!</B></FONT> (Enemies with Stealth within 6 squares lose Stealth)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="The Rodian senator Onaconda Farr was an ally of Chancellor Valorum before his removal from office."
+UniqueIdentifier=0
+MiniID=4194966
+FactionID=4
+Type=2
+Base=2
+AbilitiesMask1=4
+AbilitiesMask2=4505798650757120
+AbilitiesMask3=128
+CEEligibility=4259843
+CELeadership=0
+
+[Saesee Tiin, Jedi Master 11]
+Name=Saesee Tiin, Jedi Master
+Set=Masters of the Force
+SetDisplay=Masters Force
+Faction=Republic
+CharacterJPGImage=MastersForce_Pics\11.jpg
+Number=11
+Damage=20
+PlayCost=46
+Attack=14
+HitPoints=130
+Defense=20
+ForcePoints=3
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique</B></FONT><BR><FONT SIZE=4><B>Pilot</B></FONT><BR><FONT SIZE=4><B>Melee Attack</B></FONT> (Can attack only adjacent enemies)<BR><FONT SIZE=4><B>Double Attack</B></FONT> (On his turn, this character can make 1 extra attack instead of moving)<BR><FONT SIZE=4><B>Armored Spacesuit</B></FONT> (Immune to critical hits)<BR><FONT SIZE=4><B>Djem So Style Mastery</B></FONT> (Whenever this character is hit by a melee attack, make a save of 11.  On a success, this character can make an immediate attack against that attacker with +10 Damage.)<BR><FONT SIZE=4><B>Mettle</B></FONT> (If this character spends 1 Force point to reroll, add +4 to the result)<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 3</B></FONT><BR><FONT SIZE=4><B>Lightsaber Block</B></FONT> (Force 1: When hit by a melee attack, this character takes no damage with a save of 11)<BR><FONT SIZE=4><B>Surprise Move</B></FONT> (Force 1: Once per round, after initiative is determined, this character can immediately move up to his speed before any other character activates)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+UniqueIdentifier=1
+MiniID=4194967
+FactionID=4
+Type=4
+Base=2
+AbilitiesMask1=274877907210
+AbilitiesMask2=144117387099504640
+AbilitiesMask3=4292608
+CEEligibility=73793
+CELeadership=0
+
+[Voolvif Monn 12]
+Name=Voolvif Monn
+Set=Masters of the Force
+SetDisplay=Masters Force
+Faction=Republic
+CharacterJPGImage=MastersForce_Pics\12.jpg
+Number=12
+Damage=20
+PlayCost=34
+Attack=10
+HitPoints=100
+Defense=21
+ForcePoints=4
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique</B></FONT><BR><FONT SIZE=4><B>Melee Attack</B></FONT> (Can attack only adjacent enemies)<BR><FONT SIZE=4><B>Double Attack</B></FONT> (On his turn, this character can make 1 extra attack instead of moving)<BR><FONT SIZE=4><B>Loner</B></FONT> (+4 Attack if no allies are within 6 squares)<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 4</B></FONT><BR><FONT SIZE=4><B>Anticipation</B></FONT> (Force 1: Reroll initiative once per round)<BR><FONT SIZE=4><B>Force Push 3</B></FONT> (Force 3, replaces turn: range 6; 30 damage to target and to each character adjacent to that target, and push back target and each character adjacent to that target 3 squares if Huge or smaller)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="One of the few Shistavanen Jedi, Voolvif Monn fought valiantly at the Battle of Muunilinst."
+UniqueIdentifier=1
+MiniID=4194968
+FactionID=4
+Type=8
+Base=2
+AbilitiesMask1=2314
+AbilitiesMask2=1152923772349972480
+CEEligibility=73729
+CELeadership=0
+
+[Battle Droid Officer 13]
+Name=Battle Droid Officer
+Set=Masters of the Force
+SetDisplay=Masters Force
+Faction=Separatists
+CharacterJPGImage=MastersForce_Pics\13.jpg
+Number=13
+Damage=10
+PlayCost=9
+Attack=0
+HitPoints=20
+Defense=13
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Droid</B></FONT> (Immune to critical hits; not subject to commander effects)<BR><FONT SIZE=4><B>Fire Control</B></FONT> (Non-Unique Droid allies get +4 Attack)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText=""Just fire right there!""
+UniqueIdentifier=0
+MiniID=4194969
+FactionID=8
+Type=1
+Base=2
+AbilitiesMask1=36
+AbilitiesMask2=4507997674012672
+CEEligibility=541196290
+CELeadership=0
+
+[Anakin Skywalker, Force Spirit 14]
+Name=Anakin Skywalker, Force Spirit
+Set=Masters of the Force
+SetDisplay=Masters Force
+Faction=Rebel
+CharacterJPGImage=MastersForce_Pics\14.jpg
+Number=14
+Damage=0
+PlayCost=12
+Attack=0
+HitPoints=0
+Defense=0
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique</B></FONT><BR><FONT SIZE=4><B>Speed 4</B></FONT><BR><FONT SIZE=4><B>Light Spirit</B></FONT> (Ignores characters and terrain.  Cannot open doors.  Cannot attack or be damaged, and does not count as a legal target, the nearest enemy, or adjacent.  Not subject to commander effects.  Does not provide cover.  At the start of the skirmish, choose a Unique allied character with a Force rating.  That ally gains <B>Force Renewal 1</B> and <B>Mettle</B> [If this character spends 1 Force point to reroll, add +4 to the result] while within 4 squares of this character.  This character is defeated if the chosen ally is defeated.  An enemy within 6 squares can spend 1 Force point to defeat this character; save 11.  This effect replaces that enemy's attacks.)<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>Allies within 6 squares gain <B>Mettle</B>.
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>Allies within 6 squares gain <B>Mettle</B>.
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="Redeemed at the last by his son Luke, Anakin's spirit rejoined the light side of the Force."
+UniqueIdentifier=4
+MiniID=4194970
+FactionID=1
+Type=4
+Base=2
+AbilitiesMask1=18
+AbilitiesMask2=4505798650630144
+AbilitiesMask3=262144
+CEEligibility=71303169
+CELeadership=1
+
+[General Solo 15]
+Name=General Solo
+Set=Masters of the Force
+SetDisplay=Masters Force
+Faction=Rebel
+CharacterJPGImage=MastersForce_Pics\15.jpg
+Number=15
+Damage=20
+PlayCost=49
+Attack=9
+HitPoints=80
+Defense=18
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique</B></FONT> (Counts as Han Solo)<BR><FONT SIZE=4><B>Double Attack</B></FONT> (On his turn, this character can make 1 extra attack instead of moving)<BR><FONT SIZE=4><B>Accurate Shot</B></FONT> (Can attack an enemy with cover even if it's not the nearest enemy)<BR><FONT SIZE=4><B>Evade</B></FONT> (When hit by an attack from a nonadjacent enemy, this character takes no damage with a save of 11)<BR><FONT SIZE=4><B>Long Shot 20</B></FONT> (+4 Attack and +20 Damage when this character is at half Hit Points or less)<BR><FONT SIZE=4><B>Never Tell Me the Odds</B></FONT> (Suppresses enemy special abilities that modify initiative)<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>Unique allies within 6 squares gain Long Shot 10 (+4 Attack and +10 Damage when this character is at half Hit Points or less).
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>Unique allies within 6 squares gain Long Shot 10 (+4 Attack and +10 Damage when this character is at half Hit Points or less).
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText=""You know, sometimes I amaze even myself.""
+UniqueIdentifier=128
+MiniID=4194971
+FactionID=1
+Type=4
+Base=2
+AbilitiesMask1=268435602
+AbilitiesMask2=4505798650888192
+CEEligibility=288230376155906049
+CELeadership=1
+
+[Lando Calrissian, Rebel Leader 16]
+Name=Lando Calrissian, Rebel Leader
+Set=Masters of the Force
+SetDisplay=Masters Force
+Faction=Rebel
+CharacterJPGImage=MastersForce_Pics\16.jpg
+Number=16
+Damage=20
+PlayCost=34
+Attack=8
+HitPoints=70
+Defense=17
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique</B></FONT><BR><FONT SIZE=4><B>Double Attack</B></FONT> (On his turn, this character can make 1 extra attack instead of moving)<BR><FONT SIZE=4><B>Evade</B></FONT> (When hit by an attack from a nonadjacent enemy, this character takes no damage with a save of 11)<BR><FONT SIZE=4><B>Opportunist</B></FONT> (+4 Attack and +10 Damage against an enemy who has activated this round)<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>Non-Unique followers gain <B>Squad Assault</B> (+4 Attack while 3 allies with the same name as this character are within 6 squares).
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>Non-Unique followers gain <B>Squad Assault</B> (+4 Attack while 3 allies with the same name as this character are within 6 squares).
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText=""Admiral, we're in position.  All fighters accounted for.""
+UniqueIdentifier=32
+MiniID=4194972
+FactionID=1
+Type=4
+Base=2
+AbilitiesMask1=1152921504875282450
+AbilitiesMask2=4505798650888192
+CEEligibility=288230376155906049
+CELeadership=65538
+
+[Rebel Soldier 17]
+Name=Rebel Soldier
+Set=Masters of the Force
+SetDisplay=Masters Force
+Faction=Rebel
+CharacterJPGImage=MastersForce_Pics\17.jpg
+Number=17
+Damage=20
+PlayCost=13
+Attack=6
+HitPoints=30
+Defense=14
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Grenades 30</B></FONT> (Replaces attacks: range 6; 30 damage to target and to each character adjacent to that target; save 11)<BR><FONT SIZE=4><B>Squad Assault</B></FONT> (+4 Attack while 3 allies with the same name as this character are within 6 squares)<BR><FONT SIZE=4><B>Squad Cover</B></FONT> (+4 Defense while 3 allies with the same name as this character are within 6 squares)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="Rebel soldiers do not rely on standard methods of warfare but disrupt Imperial forces through guerrilla strikes and effective squad tactics."
+UniqueIdentifier=0
+MiniID=4194973
+FactionID=1
+Type=1
+Base=2
+AbilitiesMask1=524292
+AbilitiesMask2=4505798650757120
+CEEligibility=4260099
+CELeadership=0
+
+[Red Hand Trooper 18]
+Name=Red Hand Trooper
+Set=Masters of the Force
+SetDisplay=Masters Force
+Faction=Rebel
+CharacterJPGImage=MastersForce_Pics\18.jpg
+Number=18
+Damage=10
+PlayCost=15
+Attack=9
+HitPoints=50
+Defense=16
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Merciless 20</B></FONT> (+20 Damage against enemies at half Hit Points or less)<BR><FONT SIZE=4><B>Squad Firepower</B></FONT> (+10 Damage while 3 allies with the same name as this character are within 6 squares)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="Founded by the Corellian Bria Tharen, the ruthless Red Hand Squadron targeted Imperial operations, especially slavers.  The Red Hands received the Death Star schematics and passed them on to Princess Leia."
+UniqueIdentifier=0
+MiniID=4194974
+FactionID=1
+Type=2
+Base=2
+AbilitiesMask1=4
+AbilitiesMask2=5631698557599744
+CEEligibility=4276227
+CELeadership=0
+
+[Yoda, Force Spirit 19]
+Name=Yoda, Force Spirit
+Set=Masters of the Force
+SetDisplay=Masters Force
+Faction=Rebel
+CharacterJPGImage=MastersForce_Pics\19.jpg
+Number=19
+Damage=0
+PlayCost=20
+Attack=0
+HitPoints=0
+Defense=0
+ForcePoints=1
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique</B></FONT><BR><FONT SIZE=4><B>Speed 4</B></FONT><BR><FONT SIZE=4><B>Affinity</B></FONT> (May be in a New Republic squad)<BR><FONT SIZE=4><B>Light Spirit</B></FONT> (Ignores characters and terrain.  Cannot open doors.  Cannot attack or be damaged, and does not count as a legal target, the nearest enemy, or adjacent.  Not subject to commander effects.  Does not provide cover.  At the start of the skirmish, choose a Unique allied character with a Force rating.  That ally gains <B>Force Renewal 1</B> and <B>Mettle</B> [If this character spends 1 Force point to reroll, add +4 to the result] while within 4 squares of this character.  This character is defeated if the chosen ally is defeated.  An enemy within 6 squares can spend 1 Force point to defeat this character; save 11.  This effect replaces that enemy's attacks.)<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 1</B></FONT><BR><FONT SIZE=4><B>Force Renewal 1</B></FONT> (This character gets 1 Force point each time he activates)<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>Characters in your squad within 6 squares with a Force rating can spend Yoda, Force Spirit's Force points.  (A character still can't spend Force points more than once per turn and can't combine its own Force points with Yoda's.)
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>Characters in your squad within 6 squares with a Force rating can spend Yoda, Force Spirit's Force points.  (A character still can't spend Force points more than once per turn and can't combine its own Force points with Yoda's.)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+UniqueIdentifier=2048
+MiniID=4194975
+FactionID=1
+Type=8
+Base=1
+AbilitiesMask1=33554706
+AbilitiesMask2=4505798650630400
+AbilitiesMask3=262144
+CEEligibility=8193
+CELeadership=8193
+
+[Arden Lyn 20]
+Name=Arden Lyn
+Set=Masters of the Force
+SetDisplay=Masters Force
+Faction=Imperial
+CharacterJPGImage=MastersForce_Pics\20.jpg
+Number=20
+Damage=10
+PlayCost=18
+Attack=10
+HitPoints=70
+Defense=17
+ForcePoints=1
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique</B></FONT><BR><FONT SIZE=4><B>Melee Attack</B></FONT> (Can attack only adjacent enemies)<BR><FONT SIZE=4><B>Hand of the Emperor</B></FONT> (This character can spend her own Force points once per turn and spend Force points from a character whose name contains Emperor Palpatine once per turn)<BR><FONT SIZE=4><B>Teräs Käsi Style</B></FONT> (Whenever this character takes damage from a melee attack, reduce the damage dealt by 10)<BR><FONT SIZE=4><B>Twin Attack</B></FONT> (Whenever this character attacks, she makes 1 extra attack against the same target)<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 1</B></FONT>
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="Born in the early days of the Republic but forced into a millenia-long trance, Arden Lyn awakened during the Jedi Purge.  She was adopted by Palpatine as an Emperor's Hand and received a war droid prosthetic to replace her lost arm."
+UniqueIdentifier=1
+MiniID=4194976
+FactionID=2
+Type=8
+Base=2
+AbilitiesMask1=4398046511370
+AbilitiesMask2=2199040163840
+CEEligibility=1099511701505
+CELeadership=0
+
+[Darth Vader, Sith Apprentice 21]
+Name=Darth Vader, Sith Apprentice
+Set=Masters of the Force
+SetDisplay=Masters Force
+Faction=Imperial
+CharacterJPGImage=MastersForce_Pics\21.jpg
+Number=21
+Damage=20
+PlayCost=46
+Attack=12
+HitPoints=130
+Defense=19
+ForcePoints=2
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique</B></FONT><BR><FONT SIZE=4><B>Melee Attack</B></FONT> (Can attack only adjacent enemies)<BR><FONT SIZE=4><B>Double Attack</B></FONT> (On his turn, this character can make 1 extra attack instead of moving)<BR><FONT SIZE=4><B>Affinity</B></FONT> (A character whose name contains 501st may be in your squad regardless of faction)<BR><FONT SIZE=4><B>Djem So Style</B></FONT> (Whenever this character is hit by a melee attack, make a save of 11.  On a success, this character can make an immediate attack against that attacker.)<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 2</B></FONT><BR><FONT SIZE=4><B>Force Renewal 1</B></FONT> (This character gets 1 Force point each time he activates)<BR><FONT SIZE=4><B>Force Grip 1</B></FONT> (Force 1, replaces attacks: sight; 10 damage)<BR><FONT SIZE=4><B>Lightsaber Riposte</B></FONT> (Force 1: When hit by a melee attack, this character can make an immediate attack against that attacker)<BR><FONT SIZE=4><B>Sith Rage</B></FONT> (Force 1: +10 Damage on all attacks this turn)<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>Non-Unique allies within 6 squares whose name contains 501st gain <B>Cunning Attack</B> (+4 Attack and +10 Damage against an enemy who has not activated this round).
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>Non-Unique allies within 6 squares whose name contains 501st gain <B>Cunning Attack</B> (+4 Attack and +10 Damage against an enemy who has not activated this round).
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+UniqueIdentifier=4
+MiniID=4194977
+FactionID=2
+Type=4
+Base=2
+AbilitiesMask1=140814831321370
+AbilitiesMask2=2199023517952
+AbilitiesMask3=32768
+CEEligibility=8193
+CELeadership=3
+
+[Ganner Rhysode 22]
+Name=Ganner Rhysode
+Set=Masters of the Force
+SetDisplay=Masters Force
+Faction=New Republic
+CharacterJPGImage=MastersForce_Pics\22.jpg
+Number=22
+Damage=20
+PlayCost=29
+Attack=9
+HitPoints=100
+Defense=19
+ForcePoints=2
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique</B></FONT><BR><FONT SIZE=4><B>Melee Attack</B></FONT> (Can attack only adjacent enemies)<BR><FONT SIZE=4><B>Double Attack</B></FONT> (On his turn, this character can make 1 extra attack instead of moving)<BR><FONT SIZE=4><B>Loner</B></FONT> (+4 Attack if no allies are within 6 squares)<BR><FONT SIZE=4><B>Quick Reactions</B></FONT> (+6 Attack when making attacks of opportunity)<BR><FONT SIZE=4><B>Stealth</B></FONT> (If this character has cover, he does not count as the nearest enemy for an attacker farther than 6 squares when choosing targets)<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 2</B></FONT><BR><FONT SIZE=4><B>Force Renewal 1</B></FONT> (This character gets 1 Force point each time he activates)<BR><FONT SIZE=4><B>Force Push 2</B></FONT> (Force 2, replaces attacks: range 6; 20 damage; push back target 2 squares if Huge or smaller)<BR><FONT SIZE=4><B>Levitation 1</B></FONT> (Force 1, replaces attacks: Move 1 Small or Medium ally within 6 squares to any unoccupied square within 6 squares.  This move does not provoke attacks of opportunity.)<BR><FONT SIZE=4><B>Lightsaber Sweep</B></FONT> (Force 1, replaces attacks: Can attack each adjacent enemy once)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+UniqueIdentifier=1
+MiniID=4194978
+FactionID=32
+Type=8
+Base=2
+AbilitiesMask1=8796663449866
+AbilitiesMask2=1152923703630495744
+CEEligibility=73745
+CELeadership=0
+
+[Blood Carver Assassin 23]
+Name=Blood Carver Assassin
+Set=Masters of the Force
+SetDisplay=Masters Force
+Faction=Fringe
+CharacterJPGImage=MastersForce_Pics\23.jpg
+Number=23
+Damage=10
+PlayCost=11
+Attack=8
+HitPoints=40
+Defense=15
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Melee Attack</B></FONT> (Can attack only adjacent enemies)<BR><FONT SIZE=4><B>Double Attack</B></FONT> (On its turn, this character can make 1 extra attack instead of moving)<BR><FONT SIZE=4><B>Deathstrike</B></FONT> (+10 Damage against an enemy who is adjacent to an ally)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="Blood Carvers are as renowned for their assassination skills as they are for their ornate sculpture."
+UniqueIdentifier=0
+MiniID=4194979
+FactionID=16
+Type=1
+Base=2
+AbilitiesMask1=12
+AbilitiesMask2=2199023648768
+CEEligibility=1099515887619
+CELeadership=0
+
+[Chiss Trooper 24]
+Name=Chiss Trooper
+Set=Masters of the Force
+SetDisplay=Masters Force
+Faction=Fringe
+CharacterJPGImage=MastersForce_Pics\24.jpg
+Number=24
+Damage=20
+PlayCost=16
+Attack=7
+HitPoints=30
+Defense=16
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Squad Assault</B></FONT> (+4 Attack while 3 allies with the same name as this character are within 6 squares)<BR><FONT SIZE=4><B>Opportunist</B></FONT> (+4 Attack and +10 Damage against an enemy who has activated this round)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="The dispassionate Chiss are forbidden by strict codes to attack first, but once battle is engaged, they fight until one side or the other is destroyed."
+UniqueIdentifier=0
+MiniID=4194980
+FactionID=16
+Type=2
+Base=2
+AbilitiesMask1=1152921504606846980
+AbilitiesMask2=5631698557599744
+CEEligibility=4276227
+CELeadership=0
+
+[Ewok Warrior 25]
+Name=Ewok Warrior
+Set=Masters of the Force
+SetDisplay=Masters Force
+Faction=Fringe
+CharacterJPGImage=MastersForce_Pics\25.jpg
+Number=25
+Damage=10
+PlayCost=5
+Attack=2
+HitPoints=10
+Defense=12
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Swarm +1</B></FONT> (+1 Attack against a target for each allied Ewok adjacent to that target)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="Imperial forces did not take the little, furry inhabitants of Endor seriously-until throngs of Ewok warriors brought down their AT-ST scout walkers."
+UniqueIdentifier=0
+MiniID=4194981
+FactionID=16
+Type=1
+Base=1
+AbilitiesMask1=4
+AbilitiesMask2=364793768840396800
+CEEligibility=274882166915
+CELeadership=0
+
+[Gamorrean Bodyguard 26]
+Name=Gamorrean Bodyguard
+Set=Masters of the Force
+SetDisplay=Masters Force
+Faction=Fringe
+CharacterJPGImage=MastersForce_Pics\26.jpg
+Number=26
+Damage=20
+PlayCost=13
+Attack=4
+HitPoints=50
+Defense=13
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Melee Attack</B></FONT> (Can attack only adjacent enemies)<BR><FONT SIZE=4><B>Mighty Swing</B></FONT> (On his turn, if this character doesn't move, he gets +10 Damage against adjacent enemies)<BR><FONT SIZE=4><B>Bodyguard</B></FONT> (If an adjacent ally would take damage from an attack, this character can take the damage instead)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="Brutish but proud warriors, Gamorreans are prized enforcers for crime lords.  They consider using ranged weapons to be the mark of a coward."
+UniqueIdentifier=0
+MiniID=4194982
+FactionID=16
+Type=1
+Base=2
+AbilitiesMask1=4611686018427518988
+AbilitiesMask2=2199023386624
+CEEligibility=4259843
+CELeadership=0
+
+[Ghhhk 27]
+Name=Ghhhk
+Set=Masters of the Force
+SetDisplay=Masters Force
+Faction=Fringe
+CharacterJPGImage=MastersForce_Pics\27.jpg
+Number=27
+Damage=20
+PlayCost=17
+Attack=8
+HitPoints=60
+Defense=18
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Dejarik</B></FONT><BR><FONT SIZE=4><B>Melee Attack</B></FONT> (Can attack only adjacent enemies)<BR><FONT SIZE=4><B>Enraging Screech</B></FONT> (Dejarik allies within 6 squares get +4 Attack)<BR><FONT SIZE=4><B>Painful Screech</B></FONT> (Replaces attacks: 10 damage to each character within 3 squares)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="The tree-dwelling Ghhhk are known for their screeched mating calls and for their oily skin, which is used to produce a healing salve."
+UniqueIdentifier=0
+MiniID=4194983
+FactionID=16
+Type=2
+Base=4
+AbilitiesMask1=12
+AbilitiesMask2=2199023386624
+CEEligibility=4259843
+CELeadership=0
+
+[Grievous, Kaleesh Warlord 28]
+Name=Grievous, Kaleesh Warlord
+Set=Masters of the Force
+SetDisplay=Masters Force
+Faction=Fringe
+CharacterJPGImage=MastersForce_Pics\28.jpg
+Number=28
+Damage=20
+PlayCost=22
+Attack=9
+HitPoints=70
+Defense=17
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique</B></FONT><BR><FONT SIZE=4><B>Double Attack</B></FONT> (On his turn, this character can make 1 extra attack instead of moving)<BR><FONT SIZE=4><B>Impulsive Shot</B></FONT> (If a Unique allied character is defeated, this character can make 1 immediate attack)<BR><FONT SIZE=4><B>Sniper</B></FONT> (Other characters do not provide cover against this character's attack)<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>Non-Unique followers gain <B>Spotter +10</B> (If this character combines fire against a target within 6 squares, the attacker gets +10 Damage against that target).
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>Non-Unique followers gain <B>Spotter +10</B> (If this character combines fire against a target within 6 squares, the attacker gets +10 Damage against that target).
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="Before a shuttle disaster forced him into a cyborg body, Qymaen jai Sheelal visited terrible destruction on the inhabitants of the Huk system."
+UniqueIdentifier=512
+MiniID=4194984
+FactionID=16
+Type=8
+Base=2
+AbilitiesMask1=16402
+AbilitiesMask2=4505936089841664
+CEEligibility=4194817
+CELeadership=65538
+
+[Houjix 29]
+Name=Houjix
+Set=Masters of the Force
+SetDisplay=Masters Force
+Faction=Fringe
+CharacterJPGImage=MastersForce_Pics\29.jpg
+Number=29
+Damage=20
+PlayCost=21
+Attack=11
+HitPoints=90
+Defense=15
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Dejarik</B></FONT><BR><FONT SIZE=4><B>Melee Attack</B></FONT> (Can attack only adjacent enemies)<BR><FONT SIZE=4><B>Bodyguard</B></FONT> (If an adjacent ally would take damage from an attack, this character can take the damage instead)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="Although fierce in appearance, these natives of Kinyen often served the pacifist Gran as pets and guardians."
+UniqueIdentifier=0
+MiniID=4194985
+FactionID=16
+Type=1
+Base=4
+AbilitiesMask1=131084
+AbilitiesMask2=2199023386624
+CEEligibility=4259843
+CELeadership=0
+
+[K'lor'slug 30]
+Name=K'lor'slug
+Set=Masters of the Force
+SetDisplay=Masters Force
+Faction=Fringe
+CharacterJPGImage=MastersForce_Pics\30.jpg
+Number=30
+Damage=20
+PlayCost=20
+Attack=8
+HitPoints=70
+Defense=16
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Dejarik</B></FONT><BR><FONT SIZE=4><B>Savage</B></FONT> (This character must end its move next to an enemy if it can and does not benefit from commander effects)<BR><FONT SIZE=4><B>Speed 8</B></FONT> (Can move up to 8 squares and attack, or 16 squares without attacking)<BR><FONT SIZE=4><B>Melee Attack</B></FONT> (Can attack only adjacent enemies)<BR><FONT SIZE=4><B>Defensive Plates</B></FONT> (If this character does not move, until the end of its next turn it gains <B>Damage Reduction 10</B> [Whenever this character takes damage, reduce the damage dealt by 10.  Attacks with lightsabers ignore this special ability.])<BR><FONT SIZE=4><B>Poison 20</B></FONT> (+20 Damage to living enemy; save 11)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="These deadly predators are ferocious and ravenous, attacking anything they perceive to be prey."
+UniqueIdentifier=0
+MiniID=4194986
+FactionID=16
+Type=2
+Base=4
+AbilitiesMask1=4398046773260
+AbilitiesMask2=2199560261632
+CEEligibility=272891906
+CELeadership=0
+
+[Kaminoan Medic 31]
+Name=Kaminoan Medic
+Set=Masters of the Force
+SetDisplay=Masters Force
+Faction=Fringe
+CharacterJPGImage=MastersForce_Pics\31.jpg
+Number=31
+Damage=10
+PlayCost=12
+Attack=0
+HitPoints=10
+Defense=12
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Melee Attack</B></FONT> (Can attack only adjacent enemies)<BR><FONT SIZE=4><B>Heal 20</B></FONT> (Replaces attacks: touch; remove 20 damage from a living character)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="Few know as much about biology and medicine as the Kaminoans, though they jealously guard their knowledge and cater only to the highest bidder."
+UniqueIdentifier=0
+MiniID=4194987
+FactionID=16
+Type=2
+Base=2
+AbilitiesMask1=8204
+AbilitiesMask2=2199023386624
+CEEligibility=1099515887619
+CELeadership=0
+
+[Kintan Strider 32]
+Name=Kintan Strider
+Set=Masters of the Force
+SetDisplay=Masters Force
+Faction=Fringe
+CharacterJPGImage=MastersForce_Pics\32.jpg
+Number=32
+Damage=30
+PlayCost=19
+Attack=6
+HitPoints=80
+Defense=13
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Dejarik</B></FONT><BR><FONT SIZE=4><B>Savage</B></FONT> (This character must end its move next to an enemy if it can and does not benefit from commander effects)<BR><FONT SIZE=4><B>Melee Attack</B></FONT> (Can attack only adjacent enemies)<BR><FONT SIZE=4><B>Regeneration 10</B></FONT> (If this character doesn't move on its turn, remove 10 damage from it at the end of that turn)<BR><FONT SIZE=4><B>Melee Reach 2</B></FONT> (When attacking, this character treats enemies up to 2 squares away as adjacent)<BR><FONT SIZE=4><B>Charging Assault +10</B></FONT> (Replaces turn: Can move up to 12 squares, then make an attack at +10 Damage against an adjacent enemy)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="With their extraordinary healing ability, Kintan Striders are favored by the Hutts as guardian creatures."
+UniqueIdentifier=0
+MiniID=4194988
+FactionID=16
+Type=1
+Base=4
+AbilitiesMask1=144115188076126220
+AbilitiesMask2=2199023386624
+AbilitiesMask3=16
+CEEligibility=272891906
+CELeadership=0
+
+[Mantellian Savrip 33]
+Name=Mantellian Savrip
+Set=Masters of the Force
+SetDisplay=Masters Force
+Faction=Fringe
+CharacterJPGImage=MastersForce_Pics\33.jpg
+Number=33
+Damage=20
+PlayCost=17
+Attack=5
+HitPoints=80
+Defense=16
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Dejarik</B></FONT><BR><FONT SIZE=4><B>Melee Attack</B></FONT> (Can attack only adjacent enemies)<BR><FONT SIZE=4><B>Double Attack</B></FONT> (On its turn, this character can make 1 extra attack instead of moving)<BR><FONT SIZE=4><B>Melee Reach 2</B></FONT> (When attacking, this character treats enemies up to 2 squares away as adjacent)<BR><FONT SIZE=4><B>Immobilizing Rend</B></FONT> (If both of this character's attacks hit the same enemy, that enemy cannot move this round)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="Cunning and dangerous in battle, Mantellian Savrips are more intelligent than their bestial appearance suggests."
+UniqueIdentifier=0
+MiniID=4194989
+FactionID=16
+Type=1
+Base=4
+AbilitiesMask1=12
+AbilitiesMask2=2199023648768
+AbilitiesMask3=16
+CEEligibility=4259843
+CELeadership=0
+
+[Molator 34]
+Name=Molator
+Set=Masters of the Force
+SetDisplay=Masters Force
+Faction=Fringe
+CharacterJPGImage=MastersForce_Pics\34.jpg
+Number=34
+Damage=20
+PlayCost=22
+Attack=8
+HitPoints=80
+Defense=16
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Dejarik</B></FONT><BR><FONT SIZE=4><B>Melee Attack</B></FONT> (Can attack only adjacent enemies)<BR><FONT SIZE=4><B>Melee Reach 2</B></FONT> (When attacking, this character treats enemies up to 2 squares away as adjacent)<BR><FONT SIZE=4><B>Cunning Attack +10</B></FONT> (+4 Attack and +10 Damage against an enemy who has not activated this round)<BR><FONT SIZE=4><B>Protective Aura</B></FONT> (Adjacent Dejarik allies gain <B>Avoid Defeat</B> [Whenever this character would be defeated, make 2 saves, each needing 11; if both succeed, this character has 10 Hit Points instead of being defeated])
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="Grimtaash, a Molator guardian, is said to protect Alderaanian royalty."
+UniqueIdentifier=0
+MiniID=4194990
+FactionID=16
+Type=2
+Base=4
+AbilitiesMask1=12300
+AbilitiesMask2=2748779200512
+AbilitiesMask3=16
+CEEligibility=4259843
+CELeadership=0
+
+[Monnok 35]
+Name=Monnok
+Set=Masters of the Force
+SetDisplay=Masters Force
+Faction=Fringe
+CharacterJPGImage=MastersForce_Pics\35.jpg
+Number=35
+Damage=20
+PlayCost=19
+Attack=10
+HitPoints=80
+Defense=19
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Dejarik</B></FONT><BR><FONT SIZE=4><B>Melee Attack</B></FONT> (Can attack only adjacent enemies)<BR><FONT SIZE=4><B>Melee Reach 2</B></FONT> (When attacking, this character treats enemies up to 2 squares away as adjacent)<BR><FONT SIZE=4><B>Smuggler's Luck</B></FONT> (If this character is adjacent to a Dejarik ally at the start of a round, roll twice for initiative)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="Galactic smugglers consider these solitary hunters of Socorro to be omens of a successful venture."
+UniqueIdentifier=0
+MiniID=4194991
+FactionID=16
+Type=2
+Base=4
+AbilitiesMask1=562949953421324
+AbilitiesMask2=2199023386624
+AbilitiesMask3=16
+CEEligibility=4259843
+CELeadership=0
+
+[Ng'ok 36]
+Name=Ng'ok
+Set=Masters of the Force
+SetDisplay=Masters Force
+Faction=Fringe
+CharacterJPGImage=MastersForce_Pics\36.jpg
+Number=36
+Damage=10
+PlayCost=18
+Attack=9
+HitPoints=90
+Defense=14
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Dejarik</B></FONT><BR><FONT SIZE=4><B>Melee Attack</B></FONT> (Can attack only adjacent enemies)<BR><FONT SIZE=4><B>Double Attack</B></FONT> (On its turn, this character can make 1 extra attack instead of moving)<BR><FONT SIZE=4><B>Clamp</B></FONT> (An enemy hit by this character's attack takes +10 Damage and cannot move this round; save 11 negates)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="The foul-smelling and vicious Ng'ok use their barbed, retractable claws to grab and tear prey."
+UniqueIdentifier=0
+MiniID=4194992
+FactionID=16
+Type=2
+Base=4
+AbilitiesMask1=12
+AbilitiesMask2=2199023648768
+CEEligibility=1099515887619
+CELeadership=0
+
+[Sullustan Scout 37]
+Name=Sullustan Scout
+Set=Masters of the Force
+SetDisplay=Masters Force
+Faction=Fringe
+CharacterJPGImage=MastersForce_Pics\37.jpg
+Number=37
+Damage=10
+PlayCost=10
+Attack=5
+HitPoints=20
+Defense=14
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Cunning Attack +10</B></FONT> (+4 Attack and +10 Damage against an enemy who has not activated this round)<BR><FONT SIZE=4><B>Spotter +10</B></FONT> (If this character combines fire against a target within 6 squares, the attacker gets +10 Damage against that target)<BR><FONT SIZE=4><B>Stealth</B></FONT> (If this character has cover, he does not count as the nearest enemy for an attacker farther than 6 squares when choosing targets)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="In their native environment of labyrinthine caves, Sullustans depend on perfect direction sense and memory to find their way.  These qualities also make them excellent explorers and navigators."
+UniqueIdentifier=0
+MiniID=4194993
+FactionID=16
+Type=1
+Base=2
+AbilitiesMask1=603983876
+AbilitiesMask2=4505798650757120
+CEEligibility=4259859
+CELeadership=0
+
+[Toydarian Soldier 38]
+Name=Toydarian Soldier
+Set=Masters of the Force
+SetDisplay=Masters Force
+Faction=Fringe
+CharacterJPGImage=MastersForce_Pics\38.jpg
+Number=38
+Damage=10
+PlayCost=5
+Attack=3
+HitPoints=10
+Defense=15
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Flight</B></FONT> (Ignores difficult terrain, enemy characters, low objects, and pits when moving)<BR><FONT SIZE=4><B>Strong-Willed</B></FONT> (Cannot be targeted by Jedi Mind Trick Force power)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="The unique structure of Toydarian's brains protects them from mental attacks through the Force."
+UniqueIdentifier=0
+MiniID=4194994
+FactionID=16
+Type=1
+Base=1
+AbilitiesMask1=68
+AbilitiesMask2=4540983022845952
+CEEligibility=4260099
+CELeadership=0
+
+[Far-Outsider 39]
+Name=Far-Outsider
+Set=Masters of the Force
+SetDisplay=Masters Force
+Faction=Yuuzhan Vong
+CharacterJPGImage=MastersForce_Pics\39.jpg
+Number=39
+Damage=10
+PlayCost=11
+Attack=5
+HitPoints=30
+Defense=14
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Yuuzhan Vong Warrior</B></FONT> (Counts as a character named Yuuzhan Vong Warrior)<BR><FONT SIZE=4><B>Melee Attack</B></FONT> (Can attack only adjacent enemies)<BR><FONT SIZE=4><B>Cunning Attack +10</B></FONT> (+4 Attack and +10 Damage against an enemy who has not activated this round)<BR><FONT SIZE=4><B>Force Immunity</B></FONT> (Enemies cannot affect this character with Force powers, or spend Force points to reroll attacks against this character or to respond to this character's attacks and abilities)<BR><FONT SIZE=4><B>Vonduun Crab Armor 16</B></FONT> (When this character takes damage, he can reduce the damage dealt by 10 with a save of 16)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="The Ferroan settlers of Zonama Sekot referred to the unknown alien invaders as the Far-Outsiders, before the Yuuzhan Vong were known to the galaxy."
+UniqueIdentifier=0
+MiniID=4194995
+FactionID=64
+Type=1
+Base=2
+AbilitiesMask1=281474976714764
+AbilitiesMask2=2199023386624
+CEEligibility=1099650105475
+CELeadership=0
+
+[Taung Warrior 40]
+Name=Taung Warrior
+Set=Masters of the Force
+SetDisplay=Masters Force
+Faction=Mandalorian
+CharacterJPGImage=MastersForce_Pics\40.jpg
+Number=40
+Damage=20
+PlayCost=8
+Attack=6
+HitPoints=40
+Defense=14
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Melee Attack</B></FONT> (Can attack only adjacent enemies)<BR><FONT SIZE=4><B>Cleave</B></FONT> (Once per turn, if this character defeats an adjacent enemy by making an attack, he can make 1 immediate attack against another adjacent enemy)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="Legends say that the Taung once controlled Coruscant but were driven off by a force of unified human nations.  Renaming themselves Warriors of the Shadow, the Taung were said to have conquered a new homeworld, which they named for their first leader, Mandalore."
+UniqueIdentifier=0
+MiniID=4194996
+FactionID=512
+Type=1
+Base=2
+AbilitiesMask1=9007199254741004
+AbilitiesMask2=2199023386624
+CEEligibility=4262019
+CELeadership=0

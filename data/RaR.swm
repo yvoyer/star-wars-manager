@@ -1,0 +1,1891 @@
+[Set Data]
+TotalInSet=60
+
+[Admiral Saul Karath 1]
+Name=Admiral Saul Karath
+Set=Renegades and Rogues
+SetDisplay=Renegades and Rogues
+Faction=Old Republic
+CharacterJPGImage=RaR_pics\RaR01_Karath_RS29.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>Each Soldier or Trooper follower gains <B>Deceptive</B> [+10 Damage against an enemy who has activated this round] and <B>Sniper</B> [Other characters do not provide cover against this character's attack].
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique</B></FONT><BR><FONT SIZE=4><B>Affinity</B></FONT> [This character may be in a squad with a character whose name contains Revan or Malak] <BR><FONT SIZE=4><B>Cunning Attack +20</B></FONT> [+4 Attack and +20 Damage against an enemy who has not activated this round]<BR><FONT SIZE=4><B>Doctrine of Fear</B></FONT> [Enemy characters within 6 squares get -4 Attack]<BR><FONT SIZE=4><B>Indiscriminate</B></FONT> [When this character attacks an adjacent enemy, he ignores enemy abilities and commander effects that prevent targeting and attacking.  These attacks cannot be redirected.]<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>Each Soldier or Trooper follower gains <B>Deceptive</B> [+10 Damage against an enemy who has activated this round] and <B>Sniper</B> [Other characters do not provide cover against this character's attack].
+SquadSuggestions=
+Description=
+FlavorText=
+Number=1
+Damage=10
+PlayCost=25
+Attack=6
+HitPoints=60
+Defense=16
+ForcePoints=0
+Type=8
+Base=2
+FactionID=128
+SetID=32768
+MiniID=8388609
+ReinforcementsAvailable=0
+UniqueIdentifier=1
+AbilitiesMask1=4115
+AbilitiesMask2=4505798650626049
+AbilitiesMask3=0
+CEEligibility=4194305
+CELeadership=81920
+
+
+[Atton "Jaq" Rand 2]
+Name=Atton "Jaq" Rand
+Set=Renegades and Rogues
+SetDisplay=Renegades and Rogues
+Faction=Old Republic
+CharacterJPGImage=RaR_Pics\RaR02_Jaq_KotOR01.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>None
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique. Pilot</B></FONT><BR><FONT SIZE=4><B>Double Attack; Greater Mobile Attack</B></FONT><BR><FONT SIZE=4><B>Affinity</B></FONT> [This character can be in a Sith squad]<BR><FONT SIZE=4><B>Assassin</B></FONT> [+4 Attack and +10 Damage against Living enemies]<BR><FONT SIZE=4><B>Avoid Defeat</B></FONT> [Whenever this character would be defeated, make 2 saves, each needing 11. If both succeed, this character has 10 Hit Points instead of being defeated]<BR><FONT SIZE=4><B>Override</B></FONT> [At the end of his turn, this character can designate 1 door that he can see as open or closed; it remains open or closed until the end of this character's next turn, or until he is defeated]<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 3</B></FONT><BR><FONT SIZE=4><B>Jedi Mind Trick 1</B></FONT> [Force 1, usable only on this character's turn: range 2; target living enemy is considered activated this round and cannot make attacks of opportunity this turn; save 11]
+SquadSuggestions=
+Description=
+FlavorText="I'm a deserter. It's what I do."
+Number=2
+Damage=20
+PlayCost=36
+Attack=9
+HitPoints=80
+Defense=18
+ForcePoints=3
+Type=8
+Base=2
+FactionID=128
+SetID=32768
+MiniID=8388610
+ReinforcementsAvailable=0
+UniqueIdentifier=1
+AbilitiesMask1=18014398509482243
+AbilitiesMask2=148656720854777857
+AbilitiesMask3=0
+CEEligibility=73793
+CELeadership=0
+
+[Carth Onasi, Old Republic Soldier 3]
+Name=Carth Onasi, Old Republic Soldier
+Set=Renegades and Rogues
+SetDisplay=Renegades and Rogues
+Faction=Old Republic
+CharacterJPGImage=RaR_pics\RaR03_Onasi_KotOR03.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>None
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique</B></FONT><BR><FONT SIZE=4><B>Pilot</B></FONT><BR><FONT SIZE=4><B>Soldier</B></FONT> [Counts as a character named Old Republic Soldier]<BR><FONT SIZE=4><B>Cunning Attack</B></FONT> [+4 Attack and +10 Damage against an enemy who has not activated this round]<BR><FONT SIZE=4><B>Twin Attack</B></FONT> [Whenever this character attacks, he makes 1 extra attack against the same target]<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 2</B></FONT><BR><FONT SIZE=4><B>Surprise Move</B></FONT> [Force 1: Once per round, after initiative is determined, this character can immediately move up to his speed before any other character activates]
+SquadSuggestions=
+Description=
+FlavorText="I'm just a soldier; I go where the Fleet Admirals tell me to. I follow my orders and I do my duty."
+Number=3
+Damage=20
+PlayCost=29
+Attack=9
+HitPoints=80
+Defense=16
+ForcePoints=2
+Type=8
+Base=2
+FactionID=128
+SetID=32768
+MiniID=8388611
+ReinforcementsAvailable=0
+UniqueIdentifier=1
+AbilitiesMask1=4355
+AbilitiesMask2=148620986743390209
+AbilitiesMask3=0
+CEEligibility=74049
+CELeadership=0
+
+
+[Jedi Diplomat 4]
+Name=Jedi Diplomat
+Set=Renegades and Rogues
+SetDisplay=Renegades and Rogues
+Faction=Old Republic
+CharacterJPGImage=RaR_pics\RaR04_JediDip_UH56.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>None
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Melee Attack; Double Attack</B></FONT> <BR><FONT SIZE=4><B>Aggressive Negotiations</B></FONT> [This character is considered to have <B>Diplomat</B> until it makes an attack or is targeted by an enemy character. Characters with <B>Ambush</B>, <B>Backlash</B>, or <B>It's a Trap!</B> can ignore this ability for the purpose of attacking this character.]<BR><FONT SIZE=4><B>Ambush</B></FONT> [This character can move and then make all its attacks against 1 enemy who has not activated this round]<BR><FONT SIZE=4><B>It's a Trap!</B></FONT> [Enemies with <B>Stealth</B> within 6 squares lose Stealth]<BR><FONT SIZE=4><B>Niman Style</B></FONT> [+2 Attack and +2 Defense while this character has more than half Hit Points remaining]<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 4</B></FONT><BR><FONT SIZE=4><B>Jedi Mind Trick 1</B></FONT> [Force 1, usable only on this character's turn: range 2; target living enemy is considered activated this round and cannot make attacks of opportunity this turn; save 11]<BR><FONT SIZE=4><B>Lightsaber Defense</B></FONT> [Force 1: When hit by an attack, this character takes no damage with a save of 11]<BR><FONT SIZE=4><B>Lightsaber Sweep</B></FONT> [Force 1, replaces attacks: Can attack each adjacent enemy once]
+SquadSuggestions=
+Description=
+FlavorText=
+Number=4
+Damage=20
+PlayCost=30
+Attack=10
+HitPoints=90
+Defense=18
+ForcePoints=4
+Type=1
+Base=2
+FactionID=128
+SetID=32768
+MiniID=8388612
+ReinforcementsAvailable=0
+UniqueIdentifier=0
+AbilitiesMask1=8796093022477
+AbilitiesMask2=4540983023108097
+AbilitiesMask3=0
+CEEligibility=73731
+CELeadership=0
+
+[Elite Gunner 5]
+Name=Elite Gunner
+Set=Renegades and Rogues
+SetDisplay=Renegades and Rogues
+Faction=Old Republic
+CharacterJPGImage=RaR_pics\RaR05_EGunner_GaW33.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>None
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Soldier</B></FONT> [Counts as a character named Old Republic Soldier or Sith Soldier]<BR><FONT SIZE=4><B>Trooper</B></FONT> [Counts as a character named Old Republic Trooper or Sith Trooper]<BR><FONT SIZE=4><B>Affinity</B></FONT> [This character may be in a Sith squad]<BR><FONT SIZE=4><B>Careful Shot +4</B></FONT> [On this character's turn, if it doesn't move, it gets +4 attack]<BR><FONT SIZE=4><B>Disintegration</B></FONT> [If this character rolls a natural 20 on an attack, the target is defeated]<BR><FONT SIZE=4><B>Opportunist</B></FONT> [+4 Attack and +10 Damage against an enemy who has activated this round]<BR><FONT SIZE=4><B>Penetration +10</B></FONT> [Enemies' Damage Reduction is reduced by 10 against this character's attacks]
+SquadSuggestions=
+Description=
+FlavorText=Armed with the latest Disruptor Rifles, the Elite Gunners would wait for the best shot, and quite often one shot was enough.
+Number=5
+Damage=20
+PlayCost=20
+Attack=10
+HitPoints=60
+Defense=16
+ForcePoints=0
+Type=1
+Base=2
+FactionID=128
+SetID=32768
+MiniID=8388613
+ReinforcementsAvailable=0
+UniqueIdentifier=0
+AbilitiesMask1=1152921504611041285
+AbilitiesMask2=5631702852567041
+AbilitiesMask3=0
+CEEligibility=4276227
+CELeadership=0
+
+
+[Master Kavar 6]
+Name=Master Kavar
+Set=Renegades and Rogues
+SetDisplay=Renegades and Rogues
+Faction=Old Republic
+CharacterJPGImage=RaR_pics\RaR06_Kavar_CS03.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>Followers within 6 squares get +3 Attack and +3 Defense.
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique. Melee Attack; Twin Attack</B></FONT><BR><FONT SIZE=4><B>Niman Style Mastery</B></FONT> [+4 Attack and +4 Defense while this character has more than half Hit Points remaining]<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 2. Force Renewal 1</B></FONT><BR><FONT SIZE=4><B>Master of the Force 2</B></FONT><BR><FONT SIZE=4><B>Force Heal 20</B></FONT> [Force 2, replaces attacks: touch; remove 20 damage from a living character]<BR><FONT SIZE=4><B>Jedi Mind Trick 3</B></FONT> [Force 3, usable only on this character's turn: range 6; target living enemy and each living enemy adjacent to that target are considered activated this round and cannot make attacks of opportunity this turn; save 16]<BR><FONT SIZE=4><B>Lightsaber Defense</B></FONT> [Force 1: When hit by an attack, this character takes no damage with a save of 11]<BR><FONT SIZE=4><B>Sever Force</B></FONT> [Force 3, replaces turn: Target adjacent character cannot spend Force points for the rest of the skirmish]<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>Followers within 6 squares get +3 Attack and +3 Defense.
+SquadSuggestions=
+Description=
+FlavorText=
+Number=6
+Damage=20
+PlayCost=65
+Attack=11
+HitPoints=130
+Defense=20
+ForcePoints=2
+Type=4
+Base=2
+FactionID=128
+SetID=32768
+MiniID=8388614
+ReinforcementsAvailable=0
+UniqueIdentifier=1
+AbilitiesMask1=34393301275
+AbilitiesMask2=4540983173709825
+AbilitiesMask3=0
+CEEligibility=8193
+CELeadership=65536
+
+[Master Thon 7]
+Name=Master Thon
+Set=Renegades and Rogues
+SetDisplay=Renegades and Rogues
+Faction=Old Republic
+CharacterJPGImage=RaR_pics\RaR07_Thon_KotOR37.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>None
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique. Melee Attack; Twin Attack</B></FONT><BR><FONT SIZE=4><B>Charging Assault +10</B></FONT> [Replaces turn: Can move up to double speed, then make an attack at +10 damage against an adjacent enemy]<BR><FONT SIZE=4><B>Light Tutor</B></FONT> [At the start of the skirmish, choose an ally. If that ally does not have a Force rating, it gains <B>Force 1</B> and can spend this Force point normally. It is considered to have a Force rating for the rest of the skirmish. If that ally already has a Force rating, it gains 1 Force point.]<BR><FONT SIZE=4><B>Mount</B></FONT> [This character can transport 1 Small or Medium ally who ends their move adjacent to it. Remove that ally from the battle grid; they move simultaneously with this character, have cover, and are considered adjacent to it. They can make attacks, counting distance from this character. A transported ally can return to the battle grid immediately before your first activation of the round. If this character is defeated, the transported ally is also defeated; save 6.]<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 2. Force Renewal 2; Master of the Force 2</B></FONT><BR><FONT SIZE=4><B>Force Defense</B></FONT> [Force 3: Cancel a force power used by a character within 6 squares]<BR><FONT SIZE=4><B>Force Repulse 4</B></FONT> [Force 4, replaces attacks: 40 damage to all characters within 4 squares; push back Huge or smaller characters to 5 squares from this character]<BR><FONT SIZE=4><B>Lightsaber Defense</B></FONT> [Force 1: When hit by an attack, this character takes no damage with a save off 11.]
+SquadSuggestions=
+Description=
+FlavorText=
+Number=7
+Damage=20
+PlayCost=64
+Attack=15
+HitPoints=150
+Defense=20
+ForcePoints=2
+Type=8
+Base=4
+FactionID=128
+SetID=32768
+MiniID=8388615
+ReinforcementsAvailable=0
+UniqueIdentifier=1
+AbilitiesMask1=146366987923095819
+AbilitiesMask2=4505798801752065
+AbilitiesMask3=0
+CEEligibility=73729
+CELeadership=0
+
+
+[Darth Traya 8]
+Name=Darth Traya
+Set=Renegades and Rogues
+SetDisplay=Renegades and Rogues
+Faction=Sith
+CharacterJPGImage=RaR_pics\RaR08_Traya_KotOR45.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>None
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique</B></FONT> [Counts as Kreia]<BR><FONT SIZE=4><B>Melee Attack; Triple Attack</B></FONT><BR><FONT SIZE=4><B>Makashi Style</B></FONT> [When hit by a melee attack, this character takes no damage with a save of 11.  Shii-Cho Style cannot be used against this character.]<BR><FONT SIZE=4><B>Shii-Cho Style</B></FONT> [+4 Attack and +4 Defense when 3 or more enemies are within 6 squares]<BR><FONT SIZE=4><B>Telekinetic Combat</B></FONT> [This character may attack targets within 6 squares. This counts as an attack with a lightsaber and any attack against a nonadjacent target counts as a nonmelee attack.]<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 4</B></FONT><BR><FONT SIZE=4><B>Lightsaber Deflect</B></FONT> [Force 1:  When hit by a nonmelee attack, this character takes no damage with a save of 11]<BR><FONT SIZE=4><B>Sith Hunger</B></FONT> [Force 1, replaces attacks: range 6; 20 damage to target living enemy, and remove 20 damage from this character. If the target has Force points remaining, transfer 1 Force point from the target to this character.]
+SquadSuggestions=
+Description=
+FlavorText="There is no truth in the Force"
+Number=8
+Damage=20
+PlayCost=36
+Attack=11
+HitPoints=90
+Defense=20
+ForcePoints=4
+Type=8
+Base=2
+FactionID=256
+SetID=32768
+MiniID=8
+ReinforcementsAvailable=0
+UniqueIdentifier=1
+AbilitiesMask1=267
+AbilitiesMask2=4505798651281409
+AbilitiesMask3=0
+CEEligibility=73729
+CELeadership=0
+
+
+[Darth Zannah 9]
+Name=Darth Zannah
+Set=Renegades and Rogues
+SetDisplay=Renegades and Rogues
+Faction=Sith
+CharacterJPGImage=RaR_pics\RaR09_Zannah_LotF37.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>None
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique. Melee Attack; Double Attack</B></FONT><BR><FONT SIZE=4><B>Lightsaber Combat Expert 19</B></FONT> [When this character rolls a 19 or better on a save to avoid damage from an attack, the attacking character takes damage equal to the amount prevented]<BR><FONT SIZE=4><B>Soresu Style Mastery</B></FONT> [When hit by an attack, this character takes no damage with a save of 11]<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 2. Force Renewal 1</B></FONT><BR><FONT SIZE=4><B>Master of the Force 2</B></FONT><BR><FONT SIZE=4><B>Force Bubble</B></FONT> [Force 1: When this character takes damage, reduce the damage dealt by 20]<BR><FONT SIZE=4><B>Force Corruption 3</B></FONT> [Force 3, replaces turn: range 6, non-Droids only; target and each character adjacent to that target take 30 damage and are corrupted. Each time a corrupted character activates, it must attempt a save of 11. On a failure, that character takes 30 damage. On a success, that character is no longer corrupted.]<BR><FONT SIZE=4><B>Lightsaber Assault</B></FONT> [Force 1, replaces attacks: Make 2 attacks]
+SquadSuggestions=
+Description=
+FlavorText=
+Number=9
+Damage=20
+PlayCost=48
+Attack=14
+HitPoints=110
+Defense=21
+ForcePoints=2
+Type=4
+Base=2
+FactionID=256
+SetID=32768
+MiniID=9
+ReinforcementsAvailable=0
+UniqueIdentifier=1
+AbilitiesMask1=17592219599115
+AbilitiesMask2=4505798785236993
+AbilitiesMask3=0
+CEEligibility=73729
+CELeadership=0
+
+
+[Gloom Walker 10]
+Name=Gloom Walker
+Set=Renegades and Rogues
+SetDisplay=Renegades and Rogues
+Faction=Sith
+CharacterJPGImage=RaR_pics\RaR10_Gloom_CotF37.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>None
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Trooper</B></FONT> [Counts as a character named Sith Trooper]<BR><FONT SIZE=4><B>Grenades 20</B></FONT> [Replaces attacks: range 6; 20 damage to target and to each character adjacent to that target; save 11]<BR><FONT SIZE=4><B>Stealth</B></FONT> [If this character has cover, it does not count as the nearest enemy for an attacker farther than 6 squares when choosing targets]
+SquadSuggestions=
+Description=
+FlavorText="We have to be perfect." -Dessel
+Number=10
+Damage=20
+PlayCost=16
+Attack=9
+HitPoints=50
+Defense=16
+ForcePoints=0
+Type=2
+Base=2
+FactionID=256
+SetID=32768
+MiniID=10
+ReinforcementsAvailable=0
+UniqueIdentifier=0
+AbilitiesMask1=537395205
+AbilitiesMask2=5631698557599745
+AbilitiesMask3=0
+CEEligibility=4277267
+CELeadership=0
+
+[Leviathan 11]
+Name=Leviathan
+Set=Renegades and Rogues
+SetDisplay=Renegades and Rogues
+Faction=Sith
+CharacterJPGImage=RaR_pics\RaR11_Leviathan_BH52.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>None
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Savage; Speed 10</B></FONT> <BR><FONT SIZE=4><B>Melee Attack; Melee Reach 3</B></FONT> <BR><FONT SIZE=4><B>Absorb Life Energy</B></FONT> [When a living enemy is defeated by this character, remove 10 damage and this character gets +1 Attack and +1 Defense.  These bonuses are cumulative.]<BR><FONT SIZE=4><B>Charging Assault +10</B></FONT> [Replaces turn: Can move up to double speed, then make an attack at +10 damage against an adjacent enemy]<BR><FONT SIZE=4><B>Indiscriminate</B></FONT> [When this character attacks an adjacent enemy, it ignores enemy abilities and commander effects that prevent targeting  and attacking.  These attacks cannot be redirected.]<BR><FONT SIZE=4><B>Overwhelming Power</B></FONT> [Damage from this character's attacks cannot be prevented or redirected]<BR><FONT SIZE=4><B>Virulent Poison +20</B></FONT> [+20 Damage to living enemy; save 16]
+SquadSuggestions=
+Description=
+FlavorText="They predate the Sith order. The Dark Jedi that would become the first Sith Lords we know today created them during the Hundred Year Darkness, over seven thousand years ago."<BR>- Vul Isen
+Number=11
+Damage=30
+PlayCost=60
+Attack=10
+HitPoints=200
+Defense=17
+ForcePoints=0
+Type=4
+Base=8
+FactionID=256
+SetID=32768
+MiniID=11
+ReinforcementsAvailable=0
+UniqueIdentifier=0
+AbilitiesMask1=144115188076118029
+AbilitiesMask2=4505798650757121
+AbilitiesMask3=0
+CEEligibility=272891906
+CELeadership=0
+
+[Lord Kaan 12]
+Name=Lord Kaan
+Set=Renegades and Rogues
+SetDisplay=Renegades and Rogues
+Faction=Sith
+CharacterJPGImage=RaR_pics\RaR12_Kaan_JA17.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>Sith trooper followers gain <B>Synergy +2</B> [+2 Attack and +2 Defense while an allied character with a force rating is within 6 squares.]
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique</B></FONT><BR><FONT SIZE=4><B>Melee Attack; Double Attack</B></FONT><BR><FONT SIZE=4><B>Backlash</B></FONT> [This character can move and then make all his attacks against 1 enemy who has already activated this round]<BR><FONT SIZE=4><B>Bravado +10</B></FONT> [+4 Attack and +10 Damage against an adjacent enemy with a higher point cost]<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 5</B></FONT><BR><FONT SIZE=4><B>Illusion</B></FONT> [Force 1: When hit by an attack, this character takes no damage unless the attacker makes a save of 11]<BR><FONT SIZE=4><B>Thought Bomb</B></FONT> [Force 5, replaces turn or when this character is defeated: 80 damage to all living characters within 6 squares; save 11 to reduce damage to 40. Remove this character from play. This force power cannot be canceled.]<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>Sith trooper followers gain <B>Synergy +2</B> [+2 Attack and +2 Defense while an allied character with a force rating is within 6 squares].
+SquadSuggestions=
+Description=
+FlavorText=
+Number=12
+Damage=20
+PlayCost=36
+Attack=12
+HitPoints=90
+Defense=19
+ForcePoints=5
+Type=8
+Base=2
+FactionID=256
+SetID=32768
+MiniID=12
+ReinforcementsAvailable=0
+UniqueIdentifier=1
+AbilitiesMask1=283
+AbilitiesMask2=4505798650888193
+AbilitiesMask3=0
+CEEligibility=8193
+CELeadership=81921
+
+[Sith Wrangler 13]
+Name=Sith Wrangler
+Set=Renegades and Rogues
+SetDisplay=Renegades and Rogues
+Faction=Sith
+CharacterJPGImage=RaR_pics\RaR13_SithWrangler_CotF60.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>Savage characters are subject to this effect: <BR>Followers with Savage gain <B>Indiscriminate</B> [When this character attacks an adjacent enemy, it ignores enemy abilities and commander effects that prevent targeting and attacking. These attacks cannot be redirected.] and <B>Overwhelming Power</B> [Damage from this character's attacks cannot be prevented or redirected].
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Empathy</B></FONT> [Allies with <B>Savage</B> within 6 squares lose <B>Savage</B>]<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>Savage characters are subject to this effect: <BR>Followers with Savage gain <B>Indiscriminate</B> [When this character attacks an adjacent enemy, it ignores enemy abilities and commander effects that prevent targeting and attacking. These attacks cannot be redirected.] and <B>Overwhelming Power</B> [Damage from this character's attacks cannot be prevented or redirected].
+SquadSuggestions=
+Description=
+FlavorText=Sith Wranglers wielded the Sithspawn, among the galaxy's most dangerous creatures, with terrifying results.
+Number=13
+Damage=10
+PlayCost=13
+Attack=7
+HitPoints=40
+Defense=16
+ForcePoints=0
+Type=1
+Base=2
+FactionID=256
+SetID=32768
+MiniID=13
+ReinforcementsAvailable=0
+UniqueIdentifier=0
+AbilitiesMask1=21
+AbilitiesMask2=4505798650628097
+AbilitiesMask3=0
+CEEligibility=4194307
+CELeadership=262144
+
+[Mace Windu, Legacy of the Light Side 14]
+Name=Mace Windu, Legacy of the Light Side
+Set=Renegades and Rogues
+SetDisplay=Renegades and Rogues
+Faction=Republic
+CharacterJPGImage=RaR_pics\RaR14_Mace_MotF08.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>None
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique. Melee Attack</B></FONT><BR><FONT SIZE=4><B>Greater Mobile Attack; Triple Attack</B></FONT><BR><FONT SIZE=4><B>Flurry Attack</B></FONT> [Whenever this character scores a critical hit, he can make 1 immediate extra attack]<BR><FONT SIZE=4><B>Vaapad Style Mastery</B></FONT> [Scores a critical hit on an attack roll of natural 17, 18, 19, or 20 and does triple damage instead of double on a critical hit.]<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 2. Force Renewal 2</B></FONT><BR><FONT SIZE=4><B>Master of the Force 2</B></FONT><BR><FONT SIZE=4><B>Force Absorb</B></FONT> [Force 2: Cancel a Force power used by an adjacent character]<BR><FONT SIZE=4><B>Lightsaber Reflect</B></FONT> [Force 2: When hit by a non-melee attack, this character takes no damage with a save of 11 and the attacker takes damage equal to the prevented damage, save 11]<BR><FONT SIZE=4><B>Lightsaber Riposte</B></FONT> [Force 1: When hit by a melee attack, this character can make an immediate attack against that attacker]
+SquadSuggestions=
+Description=
+FlavorText="I don't mind dying, I just don't wanna go out like some punk." - Samuel L. Jackson
+Number=14
+Damage=20
+PlayCost=65
+Attack=16
+HitPoints=150
+Defense=22
+ForcePoints=2
+Type=4
+Base=2
+FactionID=4
+SetID=32768
+MiniID=262158
+ReinforcementsAvailable=0
+UniqueIdentifier=4096
+AbilitiesMask1=618508845323
+AbilitiesMask2=40535695316090881
+AbilitiesMask3=0
+CEEligibility=73729
+CELeadership=0
+
+[Republic Commando Darman 15]
+Name=Republic Commando Darman
+Set=Renegades and Rogues
+SetDisplay=Renegades and Rogues
+Faction=Republic
+CharacterJPGImage=RaR_pics\RaR15_Darman_TFU31.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>None
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique</B></FONT><BR><FONT SIZE=4><B>Omega Squad</B></FONT> [Counts as a character with Order 66 for the purposes of Commander Effects and cannot be in an Imperial squad]<BR><FONT SIZE=4><B>Double Attack</B></FONT><BR><FONT SIZE=4><B>Gauntlet Knife +10</B></FONT> [+10 Damage to 1 adjacent target; this counts as a melee attack]<BR><FONT SIZE=4><B>Grenades 40</B></FONT> [Replaces attacks: range 6; 40 damage to target and to each character adjacent to that target; save 11]<BR><FONT SIZE=4><B>Rapport</B></FONT> [This character costs 1 less when in the same squad as a character with Omega Squad]<BR><FONT SIZE=4><B>Satchel Charge</B></FONT> [Replaces attacks: Designate 1 adjacent door as open; it remains open for the rest of the skirmish and cannot be closed]<BR><FONT SIZE=4><B>Stealth</B></FONT> [If this character has cover, he does not count as the nearest enemy for an attacker farther than 6 squares when choosing targets]
+SquadSuggestions=
+Description=
+FlavorText=
+Number=15
+Damage=20
+PlayCost=25
+Attack=10
+HitPoints=60
+Defense=17
+ForcePoints=0
+Type=4
+Base=2
+FactionID=4
+SetID=32768
+MiniID=262159
+ReinforcementsAvailable=0
+UniqueIdentifier=1
+AbilitiesMask1=537395203
+AbilitiesMask2=4505798651019273
+AbilitiesMask3=0
+CEEligibility=6357009
+CELeadership=0
+
+
+[Republic Commando Niner 16]
+Name=Republic Commando Niner
+Set=Renegades and Rogues
+SetDisplay=Renegades and Rogues
+Faction=Republic
+CharacterJPGImage=RaR_pics\RaR16_Niner_TFU35.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>Allied characters are treated as having the same name as each other, only for purposes of abilities whose names contain Squad.<BR><BR>Characters in your squad [including this character] whose names contain Arc Trooper or Republic Commando gain <B>Squad Firepower</B> [+10 Damage while 3 allies with the same name as this character are within 6 squares].
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique</B></FONT><BR><FONT SIZE=4><B>Omega Squad</B></FONT> [Counts as a character with Order 66 for the purposes of Commander Effects and cannot be in an Imperial squad]<BR><FONT SIZE=4><B>Double Attack</B></FONT><BR><FONT SIZE=4><B>Grenades 10</B></FONT> [Replaces attacks: range 6; 10 damage to target and to each character adjacent to that target; save 11]<BR><FONT SIZE=4><B>Rapport</B></FONT> [This character costs 1 less when in the same squad as a character with Omega Squad]<BR><FONT SIZE=4><B>Stealth</B></FONT> [If this character has cover, he does not count as the nearest enemy for an attacker farther than 6 squares when choosing targets]<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>Allied characters are treated as having the same name as each other, only for purposes of abilities whose names contain Squad.<BR><BR>Characters in your squad [including this character] whose names contain Arc Trooper or Republic Commando gain <B>Squad Firepower</B> [+10 Damage while 3 allies with the same name as this character are within 6 squares].
+SquadSuggestions=
+Description=
+FlavorText=
+Number=16
+Damage=20
+PlayCost=26
+Attack=10
+HitPoints=70
+Defense=18
+ForcePoints=0
+Type=4
+Base=2
+FactionID=4
+SetID=32768
+MiniID=262160
+ReinforcementsAvailable=0
+UniqueIdentifier=1
+AbilitiesMask1=537395219
+AbilitiesMask2=4505798650888193
+AbilitiesMask3=0
+CEEligibility=6291505
+CELeadership=1
+
+[Royal Handmaiden 17]
+Name=Royal Handmaiden
+Set=Renegades and Rogues
+SetDisplay=Renegades and Rogues
+Faction=Republic
+CharacterJPGImage=RaR_pics\RaR17_Handmaiden_LotF02.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>None
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Double Attack</B></FONT> [On her turn, this character can make 1 extra attack instead of moving]<BR><FONT SIZE=4><B>Padmé's Decoy</B></FONT> [Whenever a small or medium ally within 6 squares whose name contains Padmé or Amidala is targeted, this character may switch positions with that character. This character becomes the target instead.]<BR><FONT SIZE=4><B>Padmé's Bodyguard</B></FONT> [If a character whose name contains Padmé or Amidala is an adjacent ally and would take damage from an attack, this character can take the damage instead]
+SquadSuggestions=
+Description=
+FlavorText="This is my decoy, my protection...my loyal bodyguard." - Padmé Amidala
+Number=17
+Damage=10
+PlayCost=17
+Attack=7
+HitPoints=50
+Defense=15
+ForcePoints=0
+Type=2
+Base=2
+FactionID=4
+SetID=32768
+MiniID=262161
+ReinforcementsAvailable=0
+UniqueIdentifier=0
+AbilitiesMask1=5
+AbilitiesMask2=4505798651019265
+AbilitiesMask3=0
+CEEligibility=4259843
+CELeadership=0
+
+
+[Wookiee Jedi 18]
+Name=Wookiee Jedi
+Set=Renagades and Rogues
+SetDisplay=Renagades and Rogues
+Faction=Republic
+CharacterJPGImage=RaR_pics\RaR18_WookJedi_RotS22.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>None
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Melee Attack; Twin Attack</B></FONT><BR><FONT SIZE=4><B>Affinity</B></FONT> [May be in an Old Republic or New Republic squad]<BR><FONT SIZE=4><B>Cleave</B></FONT> [Once per turn, if this character defeats an adjacent enemy by making an attack, it can make 1 immediate attack against another adjacent enemy]<BR><FONT SIZE=4><B>Splash 10</B></FONT> [If this character's attack hits, all characters adjacent to the target take 10 damage; save 11. If the attack misses, the target and all adjacent characters take 10 damage; save 11.]<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 3</B></FONT><BR><FONT SIZE=4><B>Indiscriminate Rage</B></FONT> [Force 1: +2 Attack and +10 Damage until the end of this character's turn. At the end of that turn, make a save of 11; if the save fails, this character gains <B>Savage</B> until the end of the skirmish.]<BR><FONT SIZE=4><B>Lightsaber Sweep</B></FONT> [Force 1, replaces attacks: Can attack each adjacent enemy once]
+SquadSuggestions=
+Description=
+FlavorText="Due to their fierce but noble nature, Wookiees made excellent Jedi."
+Number=18
+Damage=20
+PlayCost=35
+Attack=11
+HitPoints=120
+Defense=14
+ForcePoints=3
+Type=2
+Base=2
+FactionID=4
+SetID=32768
+MiniID=262162
+ReinforcementsAvailable=0
+UniqueIdentifier=0
+AbilitiesMask1=9015995481981197
+AbilitiesMask2=4505798667534337
+AbilitiesMask3=0
+CEEligibility=73735
+CELeadership=0
+
+[A-Series Assassin Droid 19]
+Name=A-Series Assassin Droid
+Set=Renegades and Rogues
+SetDisplay=Renegades and Rogues
+Faction=Separatists
+CharacterJPGImage=RaR_pics\RaR19_ASAD_CW32.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>None
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Droid</B></FONT><BR><FONT SIZE=4><B>Accurate Shot</B></FONT> [This character can attack an enemy with cover even if it is not the nearest enemy]<BR><FONT SIZE=4><B>Advantageous Attack</B></FONT> [+10 Damage against an enemy who has not activated this round]<BR><FONT SIZE=4><B>Assassin</B></FONT> [+4 Attack and +10 Damage against living enemies]
+SquadSuggestions=
+Description=
+FlavorText="Count Dooku sends his regards. We are at your command. We are designed to disassemble over eleven thousand sentient species."
+Number=19
+Damage=10
+PlayCost=19
+Attack=5
+HitPoints=60
+Defense=15
+ForcePoints=0
+Type=2
+Base=2
+FactionID=8
+SetID=32768
+MiniID=524307
+ReinforcementsAvailable=0
+UniqueIdentifier=0
+AbilitiesMask1=4398046511269
+AbilitiesMask2=268435456
+AbilitiesMask3=0
+CEEligibility=541196290
+CELeadership=0
+
+
+[Count Dooku, Separatist Leader 20]
+Name=Count Dooku, Separatist Leader
+Set=Renegades and Rogues
+SetDisplay=Renegades and Rogues
+Faction=Separatists
+CharacterJPGImage=RaR_pics\RaR20_DookuSL_CWS04.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>If this character would take damage from an attack, an adjacent follower can take the damage instead.<BR><BR>Whenever an enemy within 6 squares damages this character, one adjacent follower with line of sight to that enemy may make 1 immediate attack against that character. This attack does not use the targeting rules.
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique. Draw Fire</B></FONT><BR><FONT SIZE=4><B>Immediate Separatist Reserves 20</B></FONT> [If you roll exactly 5, 10, 15 or 20 for initiative, you can add up to 20 points of non-Unique Separatist characters to your squad, adjacent to this character, immediately before your first activation of the round]<BR><FONT SIZE=4><B>Turn to the Dark Side</B></FONT> [Replaces attacks: range 6; 20 damage to 1 target with a Force rating. The target can choose to negate this damage and instead make a save of 11; if the save fails, the target joins this character's squad until the end of the skirmish.]<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 5</B></FONT><BR><FONT SIZE=4><B>Anticipation</B></FONT> [Force 1: Reroll initiative once per round]<BR><FONT SIZE=4><B>Pawn of the Dark Side</B></FONT> [Force 1, replaces attacks: sight; 1 non-Unique ally takes an immediate turn, which does not count as one of your 2 activations this phase; at the end of that turn, it takes 10 damage]<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>If this character would take damage from an attack, an adjacent follower can take the damage instead.<BR>Whenever an enemy within 6 squares damages this character, one adjacent follower with line of sight to that enemy may make 1 immediate attack against that character. This attack does not use the targeting rules.
+SquadSuggestions=
+Description=
+FlavorText=
+Number=20
+Damage=0
+PlayCost=57
+Attack=0
+HitPoints=130
+Defense=20
+ForcePoints=5
+Type=4
+Base=2
+FactionID=8
+SetID=32768
+MiniID=524308
+ReinforcementsAvailable=0
+UniqueIdentifier=16
+AbilitiesMask1=275
+AbilitiesMask2=4505869517586433
+AbilitiesMask3=0
+CEEligibility=8193
+CELeadership=65536
+
+[T-Series Tactical Droid 21]
+Name=T-Series Tactical Droid
+Set=Renegades and Rogues
+SetDisplay=Renegades and Rogues
+Faction=Separatists
+CharacterJPGImage=RaR_pics\RaR21_TacticDroid_KotOR34.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>Droids are subject to this effect: Once per round, after initiative is determined, one non-Unique Droid follower within line of sight may move up to 2 squares then make 1 immediate attack. This does not count as an activation.
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Droid</B></FONT> [Immune to critical hits; not subject to commander effects]<BR><FONT SIZE=4><B>Tactician +4</B></FONT> [Add +4 to the initiative roll except on a roll of 1]<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>Droids are subject to this effect: Once per round, after initiative is determined, one non-Unique Droid follower within line of sight may move up to 2 squares then make 1 immediate attack. This does not count as an activation.
+SquadSuggestions=
+Description=
+FlavorText="Their chances of success against us are 742 to 1." "You had better be right." "I am a droid, I am always right." - X-20 and Wat Tambor
+Number=21
+Damage=10
+PlayCost=21
+Attack=3
+HitPoints=60
+Defense=14
+ForcePoints=0
+Type=1
+Base=2
+FactionID=8
+SetID=32768
+MiniID=524309
+ReinforcementsAvailable=0
+UniqueIdentifier=0
+AbilitiesMask1=4398046511157
+AbilitiesMask2=4398046511104
+AbilitiesMask3=0
+CEEligibility=541065218
+CELeadership=131072
+
+[Green Squadron Pilot 22]
+Name=Green Squadron Pilot
+Set=Renegades and Rogues
+SetDisplay=Renegades and Rogues
+Faction=Rebel
+CharacterJPGImage=RaR_pics\RaR22_GSPilot_TFU49.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>None
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Rookie</B></FONT> [This character gets +2 Attack and +2 Defense while within 6 squares of an allied commander]<BR><FONT SIZE=4><B>Grenades 10</B></FONT> [Replaces attacks: range 6; 10 damage to target and to each character adjacent to that target; save 11]
+SquadSuggestions=
+Description=
+FlavorText=
+Number=22
+Damage=10
+PlayCost=6
+Attack=3
+HitPoints=10
+Defense=13
+ForcePoints=0
+Type=1
+Base=2
+FactionID=1
+SetID=32768
+MiniID=65558
+ReinforcementsAvailable=0
+UniqueIdentifier=0
+AbilitiesMask1=524293
+AbilitiesMask2=148620986726612993
+AbilitiesMask3=0
+CEEligibility=4259939
+CELeadership=0
+
+
+[Jon "Dutch" Vander 23]
+Name=Jon "Dutch" Vander
+Set=Renegades and Rogues
+SetDisplay=Renegades and Rogues
+Faction=Rebel
+CharacterJPGImage=RaR_pics\RaR23_Vander_UH34.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>Allies with Pilot gain <B>Close-Quarters Fighting</B> and <B>Close-Range Targeting Computer</B>.<BR><BR>Pilot followers with Grenades 10 gain <B>Grenades 30</B>.
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique. Pilot</B></FONT><BR><FONT SIZE=4><B>Advantageous Cover</B></FONT> [+8 Defense from cover instead of +4]<BR><FONT SIZE=4><B>Close-Quarters Fighting</B></FONT> [+4 Attack against adjacent enemies]<BR><FONT SIZE=4><B>Grenades 20</B></FONT> [Replaces attacks: range 6; 20 damage to target and to each character adjacent to that target; save 11]<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>Allies with Pilot gain <B>Close-Quarters Fighting</B> and <B>Close-Range Targeting Computer</B>.<BR> Pilot followers with Grenades 10 gain <B>Grenades 30</B>.
+SquadSuggestions=
+Description=
+FlavorText="Red Leader, this is Gold Leader. We're starting our attack run."
+Number=23
+Damage=10
+PlayCost=22
+Attack=7
+HitPoints=50
+Defense=16
+ForcePoints=0
+Type=4
+Base=2
+FactionID=1
+SetID=32768
+MiniID=65559
+ReinforcementsAvailable=0
+UniqueIdentifier=1
+AbilitiesMask1=524307
+AbilitiesMask2=148620986726481921
+AbilitiesMask3=0
+CEEligibility=4194401
+CELeadership=65601
+
+[Kyle Katarn, Rebel Operative 24]
+Name=Kyle Katarn, Rebel Operative
+Set=Renegades and Rogues
+SetDisplay=Renegades and Rogues
+Faction=Rebel
+CharacterJPGImage=RaR_pics\RaR24_Katarn_UH16.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>None
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique. Double Attack</B></FONT><BR><FONT SIZE=4><B>Careful Shot +4</B></FONT> [On this character's turn, if he does not move, he gets +4 attack]<BR><FONT SIZE=4><B>Deadeye</B></FONT> [On this character's turn, if he doesn't move, he gets +10 Damage]<BR><FONT SIZE=4><B>Jolt</B></FONT> [An enemy hit by this character's attack is considered activated this round; save 11. Huge and larger characters ignore this effect.]<BR><FONT SIZE=4><B>Loner</B></FONT> [+4 Attack if no allies are within 6 squares]<BR><FONT SIZE=4><B>Splash +20</B></FONT> [If this character's attack hits, all characters adjacent to the target take 20 damage; save 11.  If the attack misses, the target and all adjacent characters take 20 damage; save 11.]<BR><FONT SIZE=4><B>Stealth</B></FONT> [If this character has cover, he does not count as the nearest enemy for an attacker farther than 6 squares when choosing targets]
+SquadSuggestions=
+Description=
+FlavorText=Designed by Daniel Stephens (Echo) - 2010 Gencon Champion
+Number=24
+Damage=20
+PlayCost=39
+Attack=9
+HitPoints=70
+Defense=17
+ForcePoints=0
+Type=8
+Base=2
+FactionID=1
+SetID=32768
+MiniID=65560
+ReinforcementsAvailable=0
+UniqueIdentifier=1
+AbilitiesMask1=9223372037395843075
+AbilitiesMask2=4505798651019265
+AbilitiesMask3=0
+CEEligibility=4259857
+CELeadership=0
+
+[Luke Skywalker in Stormtrooper Armor 25]
+Name=Luke Skywalker in Stormtrooper Armor
+Set=Renegades and Rogues
+SetDisplay=Renegades and Rogues
+Faction=Rebel
+CharacterJPGImage=RaR_pics\RaR25_LukeSTA_AE35.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>None
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique</B></FONT><BR><FONT SIZE=4><B>Grappling Hook</B></FONT> [Replaces turn: This character and an adjacent small or medium character can move together up to a number of squares equal to this character's speed. Both characters are considered to have <B>Flight</B> this turn, and must end their movement adjacent to each other.]<BR><FONT SIZE=4><B>Mettle</B></FONT> [If this character spends 1 Force point to reroll, add +4 to the result]<BR><FONT SIZE=4><B>Stealth</B></FONT> [If this character has cover, he does not count as the nearest enemy for an attacker farther than 6 squares when choosing targets]<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 2</B></FONT>
+SquadSuggestions=
+Description=
+FlavorText="Aren't you a little short for a stormtrooper?" - Princess Leia
+Number=25
+Damage=20
+PlayCost=17
+Attack=8
+HitPoints=50
+Defense=19
+ForcePoints=2
+Type=4
+Base=2
+FactionID=1
+SetID=32768
+MiniID=65561
+ReinforcementsAvailable=0
+UniqueIdentifier=8
+AbilitiesMask1=536871171
+AbilitiesMask2=4505798650757121
+AbilitiesMask3=0
+CEEligibility=34359812113
+CELeadership=0
+
+
+[Red Squadron Ace 26]
+Name=Red Squadron Ace
+Set=Renegades and Rogues
+SetDisplay=Renegades and Rogues
+Faction=Rebel
+CharacterJPGImage=RaR_pics\RaR26_RedAce_LotF31.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>None
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Pilot</B></FONT><BR><FONT SIZE=4><B>Bravado</B></FONT> [+4 Attack and +20 Damage against an adjacent enemy with a higher point cost]<BR><FONT SIZE=4><B>Squad Assault</B></FONT> [+4 Attack while 3 allies with the same name as this character are within 6 squares]<BR><FONT SIZE=4><B>Twin Attack</B></FONT> [Whenever this character attacks, it makes 1 extra attack against the same target]
+SquadSuggestions=
+Description=
+FlavorText=Red Squadron was an Alliance Starfighter X-wing squadron active during the Galactic Civil War. The squadron most famously fought at the Battle of  Yavin and the Battle of Endor.
+Number=26
+Damage=10
+PlayCost=19
+Attack=7
+HitPoints=50
+Defense=16
+ForcePoints=0
+Type=1
+Base=2
+FactionID=1
+SetID=32768
+MiniID=65562
+ReinforcementsAvailable=0
+UniqueIdentifier=0
+AbilitiesMask1=5
+AbilitiesMask2=148620986743390209
+AbilitiesMask3=0
+CEEligibility=4259907
+CELeadership=0
+
+[Alpha Squadron Pilot 27]
+Name=Alpha Squadron Pilot
+Set=Renegades and Rogues
+SetDisplay=Renegades and Rogues
+Faction=Imperial
+CharacterJPGImage=RaR_pics\RaR27_AlphaPilot_LotF22.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>None
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Cunning Attack</B></FONT> [+4 Attack and +10 Damage against an enemy who has not activated this round]<BR><FONT SIZE=4><B>Evade</B></FONT> [When hit by an attack from a nonadjacent enemy, this character takes no damage with a save of 11]<BR><FONT SIZE=4><B>Squad Cover</B></FONT> [+4 Defense while 3 allies with the same name as this character are within 6 squares]<BR><FONT SIZE=4><B>Twin Attack</B></FONT> [Whenever this character attacks, it makes 1 extra attack against the same target]
+SquadSuggestions=
+Description=
+FlavorText="I'm a fighter pilot.  It's what I do, and I'm good at it." - Vil Dance, Tie Fighter Pilot
+Number=27
+Damage=10
+PlayCost=18
+Attack=9
+HitPoints=50
+Defense=17
+ForcePoints=0
+Type=1
+Base=2
+FactionID=2
+SetID=32768
+MiniID=131099
+ReinforcementsAvailable=0
+UniqueIdentifier=0
+AbilitiesMask1=268439557
+AbilitiesMask2=148620986743390209
+AbilitiesMask3=0
+CEEligibility=4259907
+CELeadership=0
+
+[Darth Vader, Agent of Evil 28]
+Name=Darth Vader, Agent of Evil
+Set=Renegades and Rogues
+SetDisplay=Renegades and Rogues
+Faction=Imperial
+CharacterJPGImage=RaR_pics\RaR28_VaderAoE_RS21.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>Followers within 6 squares whose names contain Sandtrooper, Snowtrooper or Stormtrooper gain Careful Shot +6 [On this character's turn, if it doesn't move, it gets +6 Attack] and Double Attack.
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique. Melee Attack; Double Attack</B></FONT><BR><FONT SIZE=4><B>Immediate Imperial Reserves 20</B></FONT> [If you roll exactly 2, 7, 12 or 17 for initiative, you can add up to 20 points of Imperial trooper characters to your squad, adjacent to this character, immediately before your first activation of the round]<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 2. Force Renewal 1</B></FONT><BR><FONT SIZE=4><B>Master of the Force 2</B></FONT><BR><FONT SIZE=4><B>Lightsaber Defense</B></FONT> [Force 1:  When hit by an attack, this character takes no damage with a save of 11]<BR><FONT SIZE=4><B>Lightsaber Riposte</B></FONT> [Force 1: When hit by a melee attack, this character can make an immediate attack against that attacker]<BR><FONT SIZE=4><B>Lightsaber Sweep</B></FONT> [Force 1, replaces attacks: This character can attack every adjacent enemy once]<BR><FONT SIZE=4><B>Sith Rage 2</B></FONT> [Force 2: +20 Damage on all attacks this turn]<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>Followers within 6 squares whose names contain Sandtrooper, Snowtrooper or Stormtrooper gain <B>Careful Shot +6</B> [On this character's turn, if it doesn't move, it gets +6 Attack] and <B>Double Attack</B>.
+SquadSuggestions=
+Description=
+FlavorText="Commander, tear this ship apart until you've found those plans and bring me the passengers.  I want them alive!"
+Number=28
+Damage=20
+PlayCost=65
+Attack=14
+HitPoints=140
+Defense=21
+ForcePoints=2
+Type=8
+Base=2
+FactionID=2
+SetID=32768
+MiniID=131100
+ReinforcementsAvailable=0
+UniqueIdentifier=4
+AbilitiesMask1=8864846053659
+AbilitiesMask2=4505798785105921
+AbilitiesMask3=0
+CEEligibility=8193
+CELeadership=81920
+
+[General Rom Mohc 29]
+Name=General Rom Mohc
+Set=Renegades and Rogues
+SetDisplay=Renegades and Rogues
+Faction=Imperial
+CharacterJPGImage=RaR_pics\RaR29_Mohc_CS38.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>Droids are subject to this effect:  Allies whose names contain Dark Trooper get +4 Attack and gain <B>Advanced Shields 2</B> [When this character takes damage, make 2 saves; each roll of 6 reduces the damage dealt by 10]
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique. Twin Attack</B></FONT><BR><FONT SIZE=4><B>Damage Reduction 10</B></FONT> (Whenever this character would take damage, reduce the damage dealt by 10. Attacks with lightsabers ignore this special ability.<BR><FONT SIZE=4><B>Flight</B></FONT> [Ignores difficult terrain, enemy characters, low objects, and pits when moving]<BR><FONT SIZE=4><B>Missiles 20</B></FONT> [Replaces attacks: sight; 20 damage to target and to each character adjacent to that target; save 11]<BR><FONT SIZE=4><B>Rapport</B></FONT> [A character whose name contains Dark Trooper costs 1 less when in the same squad as this character]<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>Droids are subject to this effect:  Allies whose names contain Dark Trooper get +4 Attack and gain <B>Advanced Shields 2</B> [When this character takes damage, make 2 saves; each roll of 6 reduces the damage dealt by 10]
+SquadSuggestions=
+Description=
+FlavorText="The Emperor is most pleased with your project." - Darth Vader
+Number=29
+Damage=20
+PlayCost=39
+Attack=11
+HitPoints=90
+Defense=18
+ForcePoints=0
+Type=4
+Base=4
+FactionID=2
+SetID=32768
+MiniID=131101
+ReinforcementsAvailable=0
+UniqueIdentifier=1
+AbilitiesMask1=72061992084439123
+AbilitiesMask2=4505798667403265
+AbilitiesMask3=0
+CEEligibility=4194305
+CELeadership=536870913
+
+
+[General Weir 30]
+Name=General Weir
+Set=Renegades and Rogues
+SetDisplay=Renegades and Rogues
+Faction=Imperial
+CharacterJPGImage=RaR_pics\RaR30_Weir_CotF29.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>Characters in your squad named Storm Commando gain Shields 2 (When this character takes damage, make 2 saves, each needing 11; each success reduces the damage dealt by 10) and Twin Attack.<BR>Characters in your squad whose names contain Speeder gain Twin Attack.  
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique. Pilot</B></FONT><BR><FONT SIZE=4><B>Twin Attack</B></FONT><BR><FONT SIZE=4><B>Doctrine of Fear</B></FONT> [Enemy characters within 6 squares get -4 Attack]<BR><FONT SIZE=4><B>Opportunist +20</B></FONT> [+4 Attack and +20 Damage against an enemy who has activated this round]<BR><FONT SIZE=4><B>Stealth</B></FONT> [If this character has cover, he does not count as the nearest enemy for an attacker farther than 6 squares when choosing targets]<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>Characters in your squad named Storm Commando gain <B>Shields 2</B> [When this character takes damage, make 2 saves, each needing 11; each success reduces the damage dealt by 10] and <B>Twin Attack</B>.<BR> Characters in your squad whose names contain Speeder gain <B>Twin Attack</B>.  
+SquadSuggestions=
+Description=
+FlavorText="Welcome to my Empire. This is where you die, and where a new counter-Rebellion will be born."
+Number=30
+Damage=10
+PlayCost=28
+Attack=10
+HitPoints=70
+Defense=19
+ForcePoints=0
+Type=4
+Base=2
+FactionID=2
+SetID=32768
+MiniID=131102
+ReinforcementsAvailable=0
+UniqueIdentifier=1
+AbilitiesMask1=536870931
+AbilitiesMask2=148620986743259137
+AbilitiesMask3=0
+CEEligibility=4194385
+CELeadership=1
+
+[Purge Trooper 31]
+Name=Purge Trooper
+Set=Renegades and Rogues
+SetDisplay=Renegades and Rogues
+Faction=Imperial
+CharacterJPGImage=RaR_pics\RaR31_PurgeTrooper_CotF47.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>None
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Droid</B></FONT><BR><FONT SIZE=4><B>Dark Trooper</B></FONT> [Counts as a character named Dark Trooper]<BR><FONT SIZE=4><B>Melee Attack</B></FONT> [Can attack only adjacent enemies]<BR><FONT SIZE=4><B>Density Projector</B></FONT> [Ignores effects that force movement]<BR><FONT SIZE=4><B>Jedi Hunter</B></FONT> [+4 Attack and +10 Damage against enemies with Force ratings]<BR><FONT SIZE=4><B>Missiles 10</B></FONT> [Replaces attacks: sight; 10 damage to target and to each character adjacent to that target; save 11]
+SquadSuggestions=
+Description=
+FlavorText=
+Number=31
+Damage=20
+PlayCost=21
+Attack=9
+HitPoints=60
+Defense=16
+ForcePoints=0
+Type=1
+Base=4
+FactionID=2
+SetID=32768
+MiniID=131103
+ReinforcementsAvailable=0
+UniqueIdentifier=0
+AbilitiesMask1=72061992092827693
+AbilitiesMask2=0
+AbilitiesMask3=0
+CEEligibility=541196290
+CELeadership=0
+
+[Stormtrooper Advance Scout 32]
+Name=Stormtrooper Advance Scout
+Set=Renegades and Rogues
+SetDisplay=Renegades and Rogues
+Faction=Imperial
+CharacterJPGImage=RaR_pics\RaR32_StormAS_AE34.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>None
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Recon</B></FONT> [Roll twice for initiative once per round, choosing either roll, if any character with Recon in the same squad has line of sight to an enemy]<BR><FONT SIZE=4><B>Stealth</B></FONT> [If this character has cover, it does not count as the nearest enemy for an attacker farther than 6 squares when choosing targets]
+SquadSuggestions=
+Description=
+FlavorText=
+Number=32
+Damage=10
+PlayCost=11
+Attack=6
+HitPoints=30
+Defense=16
+ForcePoints=0
+Type=1
+Base=2
+FactionID=2
+SetID=32768
+MiniID=131104
+ReinforcementsAvailable=0
+UniqueIdentifier=0
+AbilitiesMask1=536870917
+AbilitiesMask2=5631698557599745
+AbilitiesMask3=0
+CEEligibility=4276243
+CELeadership=0
+
+[Gray Jedi 33]
+Name=Gray Jedi
+Set=Renegades and Rogues
+SetDisplay=Renegades and Rogues
+Faction=New Republic
+CharacterJPGImage=RaR_pics\RaR33_GrayJedi_DT01.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>None
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Melee Attack; Triple Attack</B></FONT><BR><FONT SIZE=4><B>Affinity</B></FONT> [May be in a Republic or Old Republic squad]<BR><FONT SIZE=4><B>Force Ascetic</B></FONT> [Cannot spend Force points to reroll or move faster]<BR><FONT SIZE=4><B>Internal Strife</B></FONT> [On an attack roll of natural 1, this character joins the opponent's squad until the end of the skirmish]<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 3</B></FONT><BR><FONT SIZE=4><B>Dark Temptation</B></FONT> [Force 1: +4 Attack and +20 Damage until the end of this character's turn. At the end of that turn, make a save of 11; if this save fails, this character joins the opponent's squad until the end of the skirmish.]<BR><FONT SIZE=4><B>Lightsaber Assault</B></FONT> [Force 1, replaces attacks: Make 2 attacks]
+SquadSuggestions=
+Description=
+FlavorText="Well, I assure you. I see more gray than dark or light. I'm just a stubborn old man, tired of the foolishness of others." - Jolee Bindo
+Number=33
+Damage=20
+PlayCost=30
+Attack=10
+HitPoints=80
+Defense=18
+ForcePoints=3
+Type=2
+Base=2
+FactionID=32
+SetID=32768
+MiniID=2097185
+ReinforcementsAvailable=0
+UniqueIdentifier=0
+AbilitiesMask1=17592186044685
+AbilitiesMask2=4505798651281409
+AbilitiesMask3=0
+CEEligibility=73731
+CELeadership=0
+
+[New Republic Elite Trooper 34]
+Name=New Republic Elite Trooper
+Set=Renegades and Rogues
+SetDisplay=Renegades and Rogues
+Faction=New Republic
+CharacterJPGImage=RaR_pics\RaR34_NRElite_DT15.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>None
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Deadeye</B></FONT> [On this character's turn, if it doesn't move, it gets +10 Damage]<BR><FONT SIZE=4><B>Deceptive</B></FONT> [+10 Damage against an enemy who has activated this round]<BR><FONT SIZE=4><B>Double Attack</B></FONT> [On its turn, this character can make 1 extra attack instead of moving]
+SquadSuggestions=
+Description=
+FlavorText=
+Number=34
+Damage=20
+PlayCost=18
+Attack=8
+HitPoints=50
+Defense=17
+ForcePoints=0
+Type=1
+Base=2
+FactionID=32
+SetID=32768
+MiniID=2097186
+ReinforcementsAvailable=0
+UniqueIdentifier=0
+AbilitiesMask1=9223372036854775813
+AbilitiesMask2=5631698557861889
+AbilitiesMask3=0
+CEEligibility=4276227
+CELeadership=0
+
+[New Republic Tactician 35]
+Name=New Republic Tactician
+Set=Renegades and Rogues
+SetDisplay=Renegades and Rogues
+Faction=New Republic
+CharacterJPGImage=RaR_pics\RaR35_NRTact_LotF03.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>New Republic non-Unique followers within 6 squares gain <B>Advantageous Attack</B> [+10 Damage against an enemy who has not activated this round].
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Spotter +30</B></FONT> [If this character combines fire against a target within 6 squares, the attacker gets +30 Damage against that target]<BR><FONT SIZE=4><B>Tactician +4</B></FONT> [Add +4 to the initiative roll except on a roll of 1]<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>New Republic non-Unique followers within 6 squares gain <B>Advantageous Attack</B> [+10 Damage against an enemy who has not activated this round].
+SquadSuggestions=
+Description=
+FlavorText="We've analyzed their attack, sir, and there is a danger."
+Number=35
+Damage=20
+PlayCost=19
+Attack=7
+HitPoints=60
+Defense=16
+ForcePoints=0
+Type=1
+Base=2
+FactionID=32
+SetID=32768
+MiniID=2097187
+ReinforcementsAvailable=0
+UniqueIdentifier=0
+AbilitiesMask1=67108885
+AbilitiesMask2=4505798650626049
+AbilitiesMask3=0
+CEEligibility=4194307
+CELeadership=65539
+
+
+[R2-D2 and C-3PO, Galactic Heroes 36]
+Name=R2-D2 and C-3PO, Galactic Heroes
+Set=Renegades and Rogues
+SetDisplay=Renegades and Rogues
+Faction=New Republic
+CharacterJPGImage=RaR_pics\RaR36_R2C3_AE05.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>None
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique </B></FONT>[Counts as both R2-D2 and C-3PO]<BR><FONT SIZE=4><B>Droid</B></FONT><BR><FONT SIZE=4><B>Blaster Upgrade</B></FONT> [Allies within 6 squares with nonmelee attacks that deal exactly 10 Damage gain <B>Twin Attack</B>]<BR><FONT SIZE=4><B>Bodyguard</B></FONT> [If an adjacent ally would take damage from an attack, this character can take the damage instead]<BR><FONT SIZE=4><B>Disruptive</B></FONT> [Suppresses enemy commander effects within 6 squares]<BR><FONT SIZE=4><B>Regeneration 10</B></FONT> [If this character doesn't move on its turn, remove 10 damage from it at the end of that turn]<BR><FONT SIZE=4><B>Relay Orders</B></FONT> [Each allied commander can count distance from this character as well as from itself for the purpose of commander effects]
+SquadSuggestions=
+Description=
+FlavorText="With all we've been through, I'm amazed we're in as good condition as we are."
+Number=36
+Damage=0
+PlayCost=22
+Attack=0
+HitPoints=60
+Defense=16
+ForcePoints=0
+Type=4
+Base=2
+FactionID=32
+SetID=32768
+MiniID=2097188
+ReinforcementsAvailable=0
+UniqueIdentifier=1
+AbilitiesMask1=4398046650403
+AbilitiesMask2=17592186044416
+AbilitiesMask3=0
+CEEligibility=541196288
+CELeadership=0
+
+[Rogue Squadron Rookie 37]
+Name=Rogue Squadron Rookie
+Set=Renegades and Rogues
+SetDisplay=Renegades and Rogues
+Faction=New Republic
+CharacterJPGImage=RaR_pics\RaR37_RogueRookie_AE20.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>None
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Pilot</B></FONT><BR><FONT SIZE=4><B>Rookie</B></FONT> [This character gets +2 Attack and +2 Defense while within 6 squares of an allied commander]<BR><FONT SIZE=4><B>Spotter +10</B></FONT> [If this character combines fire against a target within 6 squares, the attacker gets +10 Damage against that target]
+SquadSuggestions=
+Description=
+FlavorText=The dangerous nature of many Rogue Squadron missions required a nearly constant replacement of pilots in the ranks. Most rookies, wearing a red uniform to denote their status, never came back from that first mission.
+Number=37
+Damage=10
+PlayCost=6
+Attack=3
+HitPoints=10
+Defense=15
+ForcePoints=0
+Type=2
+Base=2
+FactionID=32
+SetID=32768
+MiniID=2097189
+ReinforcementsAvailable=0
+UniqueIdentifier=0
+AbilitiesMask1=67108869
+AbilitiesMask2=148620986726612993
+AbilitiesMask3=0
+CEEligibility=4259907
+CELeadership=0
+
+[Tycho Celchu 38]
+Name=Tycho Celchu
+Set=Renegades and Rogues
+SetDisplay=Renegades and Rogues
+Faction=New Republic
+CharacterJPGImage=RaR_pics\RaR38_Celchu_BH10.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>Pilot allies gain <B>Flanking Support</B> [If this character combines fire against an enemy within 6 squares and the attack hits, that enemy has -4 Defense until the end of the round against allies that do not have mounted weapon.]
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique. Pilot</B></FONT><BR><FONT SIZE=4><B>Twin Attack</B></FONT><BR><FONT SIZE=4><B>Affinity</B></FONT> [Rebel pilots may be in your squad regardless of faction]<BR><FONT SIZE=4><B>Evade</B></FONT> [When hit by an attack from a non-adjacent enemy, this character takes no damage with a save of 11]<BR><FONT SIZE=4><B>Resilient</B></FONT> [Immune to critical hits]<BR><FONT SIZE=4><B>Synergy +4</B></FONT> [+4 Attack and +4 Defense while an allied character whose name contains Wedge or Winter is within 6 squares]<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>Pilot allies gain <B>Flanking Support</B> [If this character combines fire against an enemy within 6 squares and the attack hits, that enemy has -4 Defense until the end of the round against allies that do not have Mounted Weapon.]
+SquadSuggestions=
+Description=
+FlavorText="I present Colonel Tycho Celchu, leader of Rogue Squadron" -Wedge Antilles
+Number=38
+Damage=10
+PlayCost=26
+Attack=9
+HitPoints=70
+Defense=16
+ForcePoints=0
+Type=4
+Base=2
+FactionID=32
+SetID=32768
+MiniID=2097190
+ReinforcementsAvailable=0
+UniqueIdentifier=1
+AbilitiesMask1=268435475
+AbilitiesMask2=148620986743259137
+AbilitiesMask3=0
+CEEligibility=4194369
+CELeadership=65
+
+[Winter 39]
+Name=Winter
+Set=Renegades and Rogues
+SetDisplay=Renegades and Rogues
+Faction=New Republic
+CharacterJPGImage=RaR_pics\RaR39_Winter_CW17.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>None
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique</B></FONT><BR><FONT SIZE=4><B>Pilot</B></FONT><BR><FONT SIZE=4><B>Door Gimmick</B></FONT> [At the end of its turn, this character can designate 1 door that she can see as open; it remains open until the end of this character's next turn or until she is defeated]<BR><FONT SIZE=4><B>Double Attack</B></FONT> [On her turn, this character can make 1 extra attack instead of moving]<BR><FONT SIZE=4><B>Leia's Decoy</B></FONT> [Whenever a small or medium ally within 6 squares whose name contains Leia is targeted, this character may switch positions with that character. This character becomes the target instead.]<BR><FONT SIZE=4><B>Protective +20</B></FONT> [+20 Damage while a wounded ally whose name contains Leia or Solo is within 6 squares]<BR><FONT SIZE=4><B>Stealth</B></FONT> [If this character has cover, she does not count as the nearest enemy for an attacker farther than 6 squares when choosing targets]<BR><FONT SIZE=4><B>Synergy +4</B></FONT> [+4 Attack while an allied character whose name contains Leia is within 6 squares]
+SquadSuggestions=
+Description=
+FlavorText="I'm beginning to see where you got your name. Agent Winter, you've got ice water running in your veins." - Tycho Celchu
+Number=39
+Damage=20
+PlayCost=29
+Attack=10
+HitPoints=80
+Defense=18
+ForcePoints=0
+Type=4
+Base=2
+FactionID=32
+SetID=32768
+MiniID=2097191
+ReinforcementsAvailable=0
+UniqueIdentifier=1
+AbilitiesMask1=536870915
+AbilitiesMask2=148620986726875649
+AbilitiesMask3=0
+CEEligibility=4259921
+CELeadership=0
+
+[Brianna 40]
+Name=Brianna
+Set=Renegades and Rogues
+SetDisplay=Renegades and Rogues
+Faction=Fringe
+CharacterJPGImage=RaR_pics\RaR40_Brianna_KotOR39.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>None
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique. Echani Handmaiden</B></FONT> <BR><FONT SIZE=4><B>Double Attack; Greater Mobile Attack</B></FONT> <BR><FONT SIZE=4><B>Lightsaber</B></FONT> [+10 Damage against adjacent enemies]<BR><FONT SIZE=4><B>Niman Style</B></FONT> [+2 Attack and +2 Defense while this character has more than half Hit Points remaining]<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 3</B></FONT><BR><FONT SIZE=4><B>Force Leap</B></FONT> [Force 1: This turn, this character can move through enemy characters without provoking attacks of opportunity]<BR><FONT SIZE=4><B>Lightsaber Deflect</B></FONT> [Force 1: When hit by a non-melee attack, this character takes no damage with a save of 11]<BR><FONT SIZE=4><B>Lightsaber Riposte</B></FONT> [Force 1: When hit by a melee attack, this character can make an immediate attack against that attacker]
+SquadSuggestions=
+Description=
+FlavorText="Duels among the Echani are rituals, and do not allow for armor or anything that restricts movement."
+Number=40
+Damage=10
+PlayCost=28
+Attack=9
+HitPoints=80
+Defense=17
+ForcePoints=3
+Type=4
+Base=2
+FactionID=16
+SetID=32768
+MiniID=1048616
+ReinforcementsAvailable=0
+UniqueIdentifier=1
+AbilitiesMask1=107374182659
+AbilitiesMask2=4506073528926209
+AbilitiesMask3=0
+CEEligibility=73729
+CELeadership=0
+
+[Celeste Morne 41]
+Name=Celeste Morne
+Set=Renegades and Rogues
+SetDisplay=Renegades and Rogues
+Faction=Fringe
+CharacterJPGImage=RaR_pics\RaR41_Morne_BH39.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>Savage characters are subject to this effect:  Allies with Savage get +4 Attack and +10 Damage.
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique. Melee Attack; Triple Attack</B></FONT><BR><FONT SIZE=4><B>Ambush</B></FONT> [This character can move and then make all her attacks against 1 enemy who has not activated this round)<BR><FONT SIZE=4><B>Jedi Hunter</B></FONT> [+4 Attack and +10 Damage against enemies with Force ratings]<BR><FONT SIZE=4><B>Lightsaber Duelist</B></FONT> [+4 Defense when attacked by an adjacent enemy with a Force rating]<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 2. Force Renewal 1</B></FONT><BR><FONT SIZE=4><B>Force Cloak</B></FONT> [Force 2, replaces turn: For the rest of the skirmish, this character gains <B>Cloaked</B>]<BR><FONT SIZE=4><B>Force Storm</B></FONT> [Force 2, replaces attacks: 20 damage to all adjacent characters]<BR><FONT SIZE=4><B>Sith Alchemy 2</B></FONT> [Force 2, replaces attacks: Target living medium or small enemy with 20 Hit Points or less remaining within 6 squares is defeated.  You can immediately add a character named Rakghoul to your squad.  The new character sets up in a square that enemy formerly occupied.]<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>Savage characters are subject to this effect:  Allies with Savage get +4 Attack and +10 Damage.
+SquadSuggestions=
+Description=
+FlavorText="We are one, Karness Muur.  As you once imprisoned me, I now imprison you."
+Number=41
+Damage=20
+PlayCost=51
+Attack=13
+HitPoints=110
+Defense=20
+ForcePoints=2
+Type=8
+Base=2
+FactionID=16
+SetID=32768
+MiniID=1048617
+ReinforcementsAvailable=0
+UniqueIdentifier=1
+AbilitiesMask1=42008859
+AbilitiesMask2=4505798651166721
+AbilitiesMask3=0
+CEEligibility=8193
+CELeadership=268435456
+
+[Chadra-Fan Pilot 42]
+Name=Chadra-Fan Pilot
+Set=Renegades and Rogues
+SetDisplay=Renegades and Rogues
+Faction=Fringe
+CharacterJPGImage=RaR_pics\RaR42_ChadraPilot_AE39.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>None
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Pilot</B></FONT><BR><FONT SIZE=4><B>Pheremones</B></FONT> [Cancel an attack from an enemy within 6 squares that targets this character; the attacker can avoid this effect with a save of 11.]<BR><FONT SIZE=4><B>Stealth</B></FONT> [If this character has cover, it does not count as the nearest enemy for an attacker farther than 6 squares when choosing targets]<BR><FONT SIZE=4><B>Sting Beam</B></FONT> [+10 Damage against adjacent enemies.  An enemy hit by this character's attack is considered activated this round; save 11.]
+SquadSuggestions=
+Description=
+FlavorText="I don't know what it does - that's the beauty of it!"
+Number=42
+Damage=10
+PlayCost=11
+Attack=6
+HitPoints=30
+Defense=14
+ForcePoints=0
+Type=1
+Base=2
+FactionID=16
+SetID=32768
+MiniID=1048618
+ReinforcementsAvailable=0
+UniqueIdentifier=0
+AbilitiesMask1=536870917
+AbilitiesMask2=148620986726612993
+AbilitiesMask3=0
+CEEligibility=4259923
+CELeadership=0
+
+[Devaronian Assassin 43]
+Name=Devaronian Assassin
+Set=Renegades and Rogues
+SetDisplay=Renegades and Rogues
+Faction=Fringe
+CharacterJPGImage=RaR_pics\RaR43_DevAssassin_CS51.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>None
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Assassin</B></FONT> [+4 Attack and +10 Damage against living enemies]<BR><FONT SIZE=4><B>Bounty Hunter +2</B></FONT> [+2 Attack against Unique enemies]<BR><FONT SIZE=4><B>Jolt</B></FONT> [An enemy hit by this character's attack if considered activated this round; save 11.  Huge and larger characters ignore this effect.]<BR><FONT SIZE=4><B>Sniper</B></FONT> [Other characters do not provide cover against this character's attack]<BR><FONT SIZE=4><B>Stealth</B></FONT> [If this character has cover, it does not count as the nearest enemy for an attacker farther than 6 squares when choosing targets]
+SquadSuggestions=
+Description=
+FlavorText="I know the difference between a demon and a Devaronian and I'd rather trust a demon." - Naradan D'ulin 
+Number=43
+Damage=10
+PlayCost=18
+Attack=8
+HitPoints=50
+Defense=16
+ForcePoints=0
+Type=2
+Base=2
+FactionID=16
+SetID=32768
+MiniID=1048619
+ReinforcementsAvailable=0
+UniqueIdentifier=0
+AbilitiesMask1=536887813
+AbilitiesMask2=4505798650757121
+AbilitiesMask3=0
+CEEligibility=4293139
+CELeadership=0
+
+[HK-47, Assassin Droid 44]
+Name=HK-47, Assassin Droid
+Set=Renegades and Rogues
+SetDisplay=Renegades and Rogues
+Faction=Fringe
+CharacterJPGImage=RaR_pics\RaR44_HK47_CotF57.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>Droids are subject to this effect:<BR>Droid followers within 6 squares get +4 Defense.
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique. Droid</B></FONT> <BR><FONT SIZE=4><B>Assassin</B></FONT> [+4 Attack and +10 Damage against living enemies]<BR><FONT SIZE=4><B>Disruptive</B></FONT> [Suppresses enemy commander effects within 6 squares]<BR><FONT SIZE=4><B>Double Attack</B></FONT> [On its turn, this character can make 1 extra attack instead of moving]<BR><FONT SIZE=4><B>Sniper</B></FONT> [Other characters do not provide cover against this character's attack]<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>Droids are subject to this effect:<BR>Droid followers within 6 squares get +4 Defense.
+SquadSuggestions=
+Description=
+FlavorText="I am an assassin droid. It is my primary function to burn holes through meatbags that you wish removed from the galaxy..."
+Number=44
+Damage=20
+PlayCost=39
+Attack=10
+HitPoints=90
+Defense=19
+ForcePoints=0
+Type=8
+Base=2
+FactionID=16
+SetID=32768
+MiniID=1048620
+ReinforcementsAvailable=0
+UniqueIdentifier=1
+AbilitiesMask1=4398046527539
+AbilitiesMask2=21990232817664
+AbilitiesMask3=0
+CEEligibility=541065728
+CELeadership=131072
+
+
+[Klatooinian Captain 45]
+Name=Klatooinian Captain
+Set=Renegades and Rogues
+SetDisplay=Renegades and Rogues
+Faction=Fringe
+CharacterJPGImage=RaR_pics\RaR45_Klatoon_BH38.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>Pilot followers gain <B>Speed 8</B> and <B>Evade</B>.
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Pilot. Speed 8</B></FONT><BR><FONT SIZE=4><B>Blast Cannon</B></FONT> [+10 Damage against targets within 6 squares]<BR><FONT SIZE=4><B>Evade</B></FONT> [When hit by an attack from a nonadjacent enemy, this character takes no damage with a save of 11]<BR><FONT SIZE=4><B>Splash 10</B></FONT> [If this character's attack hits, all characters adjacent to the target take 10 damage; save 11. If the attack misses, the target and all adjacent characters take 10 damage; save 11.]<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>Pilot followers gain <B>Speed 8</B> and <B>Evade</B>.
+SquadSuggestions=
+Description=
+FlavorText=
+Number=45
+Damage=20
+PlayCost=18
+Attack=7
+HitPoints=40
+Defense=16
+ForcePoints=0
+Type=2
+Base=2
+FactionID=16
+SetID=32768
+MiniID=1048621
+ReinforcementsAvailable=0
+UniqueIdentifier=0
+AbilitiesMask1=268435477
+AbilitiesMask2=148620986726486017
+AbilitiesMask3=0
+CEEligibility=4194371
+CELeadership=65600
+
+[Sullustan Pilot 46]
+Name=Sullustan Pilot
+Set=Renegades and Rogues
+SetDisplay=Renegades and Rogues
+Faction=Fringe
+CharacterJPGImage=RaR_pics\RaR46_SullPilot_MotF37.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>None
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Speed 8</B></FONT><BR><FONT SIZE=4><B>Cunning Attack +20</B></FONT> [+4 Attack and +20 Damage against an enemy who has not activated this round]<BR><FONT SIZE=4><B>Evade</B></FONT> [When hit by an attack from a nonadjacent enemy, this character takes no damage with a save of 11]
+SquadSuggestions=
+Description=
+FlavorText=Perhaps due to their diminutive stature, Sullustans excelled as pilots and copilots throughout the galaxy.
+Number=46
+Damage=10
+PlayCost=14
+Attack=7
+HitPoints=40
+Defense=14
+ForcePoints=0
+Type=1
+Base=2
+FactionID=16
+SetID=32768
+MiniID=1048622
+ReinforcementsAvailable=0
+UniqueIdentifier=0
+AbilitiesMask1=268439557
+AbilitiesMask2=148620986726617089
+AbilitiesMask3=0
+CEEligibility=4259907
+CELeadership=0
+
+
+
+[Talz Pirate 47]
+Name=Talz Pirate
+Set=Renegades and Rogues
+SetDisplay=Renegades and Rogues
+Faction=Fringe
+CharacterJPGImage=RaR_pics\RaR47_Talz_AE54.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>None
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Pilot</B></FONT><BR><FONT SIZE=4><B>Double Claw Attack</B></FONT> [On its turn, this character can make 1 extra attack instead of moving; both attacks must be against adjacent enemies]<BR><FONT SIZE=4><B>Opportunist</B></FONT> [+4 Attack and +10 Damage against an enemy who has activated this round]
+SquadSuggestions=
+Description=
+FlavorText=Most Talz professionals are thugs, although their gentle nature tends to cause them to refrain from actively bullying others.
+Number=47
+Damage=10
+PlayCost=19
+Attack=9
+HitPoints=70
+Defense=17
+ForcePoints=0
+Type=1
+Base=2
+FactionID=16
+SetID=32768
+MiniID=1048623
+ReinforcementsAvailable=0
+UniqueIdentifier=0
+AbilitiesMask1=1152921504606846981
+AbilitiesMask2=148629782819635201
+AbilitiesMask3=0
+CEEligibility=4259907
+CELeadership=0
+
+
+
+[Thracken Sal-Solo 48]
+Name=Thracken Sal-Solo
+Set=Renegades and Rogues
+SetDisplay=Renegades and Rogues
+Faction=Fringe
+CharacterJPGImage=RaR_pics\RaR48_Thracken_TFU45.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>Characters whose names contain Peace Brigade within 6 squares get +2 Attack and +2 Defense.
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique</B></FONT><BR><FONT SIZE=4><B>Double Attack</B></FONT><BR><FONT SIZE=4><B>Solo Hunter</B></FONT> [+4 Attack and +10 Damage against enemies whose names contain Solo]<BR><FONT SIZE=4><B>Yuuzhan Vong Collaborator</B></FONT> [Yuuzhan Vong get +1 Attack for each character with Yuuzhan Vong Collaborator within 4 squares of their target]<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>Characters whose names contain Peace Brigade within 6 squares get +2 Attack and +2 Defense.
+SquadSuggestions=
+Description=
+FlavorText="He is not a nice man, to put it mildly." - Han Solo
+Number=48
+Damage=10
+PlayCost=15
+Attack=6
+HitPoints=60
+Defense=15
+ForcePoints=0
+Type=4
+Base=2
+FactionID=16
+SetID=32768
+MiniID=1048624
+ReinforcementsAvailable=0
+UniqueIdentifier=1
+AbilitiesMask1=21
+AbilitiesMask2=4505798650888193
+AbilitiesMask3=0
+CEEligibility=4194307
+CELeadership=65536
+
+
+[Wookiee Thug 49]
+Name=Wookiee Thug
+Set=Renegades and Rogues
+SetDisplay=Renegades and Rogues
+Faction=Fringe
+CharacterJPGImage=RaR_pics\RaR49_WookThug_CW19.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>None
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Melee Attack; Double Attack</B></FONT><BR><FONT SIZE=4><B>Backlash</B></FONT> [This character can move and then make all its attacks against 1 enemy that has already activated this round]<BR><FONT SIZE=4><B>Charging Assault +10</B></FONT> [Replaces turn: Can move up to double speed, then make an attack at +10 Damage against an adjacent enemy]<BR><FONT SIZE=4><B>Cleave</B></FONT> [Once per turn, if this character defeats an adjacent enemy by making an attack, it can make 1 immediate attack against another adjacent enemy]<BR><FONT SIZE=4><B>Momentum</B></FONT> [If this character has moved this turn, it gets +4 Attack and +10 Damage against adjacent enemies]
+SquadSuggestions=
+Description=
+FlavorText=
+Number=49
+Damage=20
+PlayCost=23
+Attack=8
+HitPoints=70
+Defense=14
+ForcePoints=0
+Type=1
+Base=2
+FactionID=16
+SetID=32768
+MiniID=1048625
+ReinforcementsAvailable=0
+UniqueIdentifier=0
+AbilitiesMask1=153122387465863181
+AbilitiesMask2=4505798651019265
+AbilitiesMask3=0
+CEEligibility=4259847
+CELeadership=0
+
+
+
+[Zann Consortium Underboss 50]
+Name=Zann Consortium Underboss
+Set=Renegades and Rogues
+SetDisplay=Renegades and Rogues
+Faction=Fringe
+CharacterJPGImage=RaR_pics\RaR50_Underboss_RotS43.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>Pilot allies gain <B>Black Market Engine Modifications</B> and <B>Ground Pilot +2</B>.
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Zann Consortium</B></FONT> <BR><FONT SIZE=4><B>Black Market Engine Modifications</B></FONT> [Allied characters with Mounted Weapon within 6 squares gain <B>Stable Footing</B> (Not slowed by difficult terrain or low objects)]<BR><FONT SIZE=4><B>Ground Pilot +2</B></FONT> [Allied characters with Mounted Weapon who start their moves adjacent to this character get +2 Speed]<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>Pilot allies gain <B>Black Market Engine Modifications</B> and <B>Ground Pilot +2</B>.
+SquadSuggestions=
+Description=
+FlavorText="The Zann Consortium shall rule!" - Tyber Zann
+Number=50
+Damage=20
+PlayCost=15
+Attack=7
+HitPoints=50
+Defense=15
+ForcePoints=0
+Type=2
+Base=2
+FactionID=16
+SetID=32768
+MiniID=1048626
+ReinforcementsAvailable=0
+UniqueIdentifier=0
+AbilitiesMask1=21
+AbilitiesMask2=4505798650626049
+AbilitiesMask3=0
+CEEligibility=4194307
+CELeadership=65
+
+
+[Bardan Jusik 51]
+Name=Bardan Jusik
+Set=Renegades and Rogues
+SetDisplay=Renegades and Rogues
+Faction=Mandalorian
+CharacterJPGImage=RaR_pics\RaR51_Jusik_CWS01.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>None
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique</B></FONT><BR><FONT SIZE=4><B>Omega Squad</B></FONT> [Counts as a character with Order 66 for the purposes of Commander Effects and cannot be in an Imperial squad]<BR><FONT SIZE=4><B>Melee Attack; Double Attack</B></FONT><BR><FONT SIZE=4><B>Affinity</B></FONT> [May be in a Republic squad]<BR><FONT SIZE=4><B>Beskar'gam</B></FONT> [When this character takes damage, he reduces the damage dealt by 10 with a save of 11]<BR><FONT SIZE=4><B>Satchel Charge</B></FONT> [Replaces attacks: Designate 1 adjacent door as open; it remains open for the rest of the skirmish and cannot be closed]<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 2. Force Renewal 1</B></FONT><BR><FONT SIZE=4><B>Force Heal 20</B></FONT> [Force 2, replaces attacks: touch; remove 20 damage from a living character]<BR><FONT SIZE=4><B>Force Sense</B></FONT> [Force 1, usable only on this characters turn: Enemy characters lose Stealth for the rest of the round]<BR><FONT SIZE=4><B>Jedi Mind Trick 2</B></FONT> [Force 2, usable only on this character's turn: range 2; target living enemy and 2 living enemies adjacent to that target are considered activated this round and cannot make attacks of opportunity this turn; save 11]
+SquadSuggestions=
+Description=
+FlavorText=
+Number=51
+Damage=20
+PlayCost=36
+Attack=10
+HitPoints=80
+Defense=17
+ForcePoints=2
+Type=4
+Base=2
+FactionID=512
+SetID=32768
+MiniID=51
+ReinforcementsAvailable=0
+UniqueIdentifier=1
+AbilitiesMask1=33562891
+AbilitiesMask2=2310383992236802057
+AbilitiesMask3=0
+CEEligibility=75777
+CELeadership=0
+
+[Kal Skirata 52]
+Name=Kal Skirata
+Set=Renegades and Rogues
+SetDisplay=Renegades and Rogues
+Faction=Mandalorian
+CharacterJPGImage=RaR_pics\RaR52_Skirata_LotF09.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>Allied characters are treated as having the same name as each other, only for purposes of special abilities whose name contains Squad.<BR><BR>Allies whose names contain ARC Trooper or Republic Commando gain <B>Squad Assault</B> [+4 Attack while 3 allies with the same name as this character are within 6 squares] and <B>Squad Cover</B> [+4 Defense while 3 allies with the same name as this character are within 6 squares].
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique</B></FONT><BR><FONT SIZE=4><B>Affinity</B></FONT> [Characters whose names contain Arc Trooper or with the special ability Omega Squad or Yayax Squad may be in your squad regardless of faction]<BR><FONT SIZE=4><B>Gauntlet Knife +10</B></FONT> [+10 Damage to 1 adjacent target; this counts as a melee attack]<BR><FONT SIZE=4><B>Rapport</B></FONT> [Non-Unique characters whose names contain ARC Trooper cost 1 less when in a squad with this character]<BR><FONT SIZE=4><B>Stealth</B></FONT> [If this character has cover, he does not count as the nearest enemy for an attacker farther than 6 squares when choosing targets]<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>Allied characters are treated as having the same name as each other, only for purposes of special abilities whose name contains Squad.<BR><BR>Allies whose names contain ARC Trooper or Republic Commando gain <B>Squad Assault</B> [+4 Attack while 3 allies with the same name as this character are within 6 squares] and <B>Squad Cover</B> [+4 Defense while 3 allies with the same name as this character are within 6 squares].
+SquadSuggestions=
+Description=
+FlavorText=
+Number=52
+Damage=20
+PlayCost=30
+Attack=10
+HitPoints=80
+Defense=18
+ForcePoints=0
+Type=8
+Base=2
+FactionID=512
+SetID=32768
+MiniID=52
+ReinforcementsAvailable=0
+UniqueIdentifier=1
+AbilitiesMask1=536870931
+AbilitiesMask2=4505798650626049
+AbilitiesMask3=0
+CEEligibility=4196369
+CELeadership=1
+
+
+
+[Mandalorian Advance Scout 53]
+Name=Mandalorian Advance Scout
+Set=Renegades and Rogues
+SetDisplay=Renegades and Rogues
+Faction=Mandalorian
+CharacterJPGImage=RaR_pics\RaR53_M-AdvScout_TFU38.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>None
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Crack Shot</B></FONT> [Whenever this character combines fire against a target within 6 squares, damage from the attack cannot be prevented or redirected]<BR><FONT SIZE=4><B>Pathfinder</B></FONT> [Allies are not slowed by difficult terrain within 6 squares of this character]<BR><FONT SIZE=4><B>Spotter 10</B></FONT> [If this character combines fire against a target within 6 squares, the attacker gets +10 damage against that target]<BR><FONT SIZE=4><B>Stable Footing</B></FONT> [Not slowed by difficult terrain or low objects]<BR><FONT SIZE=4><B>Stealth</B></FONT> [If this character has cover, it does not count as the nearest enemy for an attacker farther than 6 squares when choosing targets]
+SquadSuggestions=
+Description=
+FlavorText=
+Number=53
+Damage=10
+PlayCost=16
+Attack=8
+HitPoints=60
+Defense=17
+ForcePoints=0
+Type=1
+Base=2
+FactionID=512
+SetID=32768
+MiniID=53
+ReinforcementsAvailable=0
+UniqueIdentifier=0
+AbilitiesMask1=603979781
+AbilitiesMask2=4505798650757121
+AbilitiesMask3=0
+CEEligibility=4261907
+CELeadership=0
+
+[Mandalorian Sniper 54]
+Name=Mandalorian Sniper
+Set=Renegades and Rogues
+SetDisplay=Renegades and Rogues
+Faction=Mandalorian
+CharacterJPGImage=RaR_pics\RaR54_ManSniper_TFU20.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>None
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Trooper</B></FONT> [Counts as a character named Mandalorian Trooper]<BR><FONT SIZE=4><B>Accurate Shot</B></FONT> [Can attack an enemy with cover even if it's not the nearest enemy]<BR><FONT SIZE=4><B>Deadeye</B></FONT> [On this character's turn, if it doesn't move, it gets +10 Damage]<BR><FONT SIZE=4><B>Old Republic Hunter</B></FONT> [+4 Attack and +10 Damage against Old Republic enemies]<BR><FONT SIZE=4><B>Sniper</B></FONT> [Other characters do not provide cover against this character's attack]
+SquadSuggestions=
+Description=
+FlavorText=
+Number=54
+Damage=10
+PlayCost=15
+Attack=7
+HitPoints=40
+Defense=15
+ForcePoints=0
+Type=2
+Base=2
+FactionID=512
+SetID=32768
+MiniID=54
+ReinforcementsAvailable=0
+UniqueIdentifier=0
+AbilitiesMask1=9223372036854792325
+AbilitiesMask2=5631698557599745
+AbilitiesMask3=0
+CEEligibility=4278787
+CELeadership=0
+
+
+
+
+[Chazrach 55]
+Name=Chazrach
+Set=Renegades and Rogues
+SetDisplay=Renegades and Rogues
+Faction=Yuuzhan Vong
+CharacterJPGImage=RaR_Pics\RaR55_Chazrach_CW39.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>None
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Melee Attack</B></FONT><BR><FONT SIZE=4><B>Charging Assault +10</B></FONT> [Replaces turn: Can move up to double speed, then make an attack at +10 Damage against an adjacent enemy]<BR><FONT SIZE=4><B>Slave</B></FONT> [This character has <B>Savage</B> and -2 Defense unless an allied commander is within 6 squares]<BR><FONT SIZE=4><B>Vonduun Crab Armor 11</B></FONT> [When this character takes damage, it can reduce the damage dealt by 10 with a save of 11]
+SquadSuggestions=
+Description=
+FlavorText=
+Number=55
+Damage=10
+PlayCost=10
+Attack=8
+HitPoints=50
+Defense=15
+ForcePoints=0
+Type=1
+Base=2
+FactionID=64
+SetID=32768
+MiniID=4194359
+ReinforcementsAvailable=0
+UniqueIdentifier=0
+AbilitiesMask1=144115188075855885
+AbilitiesMask2=4507997674012673
+AbilitiesMask3=0
+CEEligibility=1099650105347
+CELeadership=0
+
+[Jakan, Most High Priest 56]
+Name=Jakan, Most High Priest
+Set=Renegades and Rogues
+SetDisplay=Renegades and Rogues
+Faction=Yuuzhan Vong
+CharacterJPGImage=RaR_pics\RaR56_Jakan_JA38.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>Once per round, when an allied Yuuzhan Vong character is defeated, 1 ally may immediately move up to its Speed. (This does not count as an activation.) 
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique. Melee Attack</B></FONT><BR><FONT SIZE=4><B>Force Immunity</B></FONT> [Enemies cannot affect this character with Force powers, or spend Force points to reroll attacks against this character or to respond to this character's attacks and abilities]<BR><FONT SIZE=4><B>Scarification +10</B></FONT> [Wounded Yuuzhan Vong allies within 6 squares get +4 Attack and +10 Damage] <BR><FONT SIZE=4><B>Tactician +4</B></FONT> [Add +4 to the initiative roll except on a roll of 1] <BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>Once per round, when an allied Yuuzhan Vong character is defeated, 1 ally may immediately move up to its Speed. (This does not count as an activation.) 
+SquadSuggestions=
+Description=
+FlavorText="Taan Yun-forqana zhoi!"
+Number=56
+Damage=10
+PlayCost=27
+Attack=5
+HitPoints=60
+Defense=16
+ForcePoints=0
+Type=4
+Base=2
+FactionID=64
+SetID=32768
+MiniID=4194360
+ReinforcementsAvailable=0
+UniqueIdentifier=1
+AbilitiesMask1=281474976710683
+AbilitiesMask2=4505798650626049
+AbilitiesMask3=0
+CEEligibility=1099650039809
+CELeadership=1
+
+
+[Warmaster Nas Choka 57]
+Name=Warmaster Nas Choka
+Set=Renegades and Rogues
+SetDisplay=Renegades and Rogues
+Faction=Yuuzhan Vong
+CharacterJPGImage=RaR_pics\RaR57_Choka_JA39.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>Yuuzhan Vong followers may move 2 additional squares as part of their movement.
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique. Speed 8</B></FONT><BR><FONT SIZE=4><B>Melee Attack; Double Attack; Twin Attack</B></FONT><BR><FONT SIZE=4><B>Force Immunity</B></FONT> [Enemies cannot affect this character with Force powers, or spend Force points to reroll attacks against this character or to respond to this character's attacks and abilities]<BR><FONT SIZE=4><B>Tactician +4</B></FONT> [Add +4 to the initiative roll except on a roll of 1]<BR><FONT SIZE=4><B>Vonduun Crab Armor 6</B></FONT> [When this character takes damage, he can reduce the damage dealt by 10 with a save of 6]<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>Yuuzhan Vong followers may move 2 additional squares as part of their movement.
+SquadSuggestions=
+Description=
+FlavorText="It is a rare occasion when well-matched warriors have an opportunity to face each other a second time, in a different arena." -Nas Choka
+Number=57
+Damage=10
+PlayCost=60
+Attack=11
+HitPoints=150
+Defense=19
+ForcePoints=0
+Type=8
+Base=2
+FactionID=64
+SetID=32768
+MiniID=4194361
+ReinforcementsAvailable=0
+UniqueIdentifier=1
+AbilitiesMask1=281474976710683
+AbilitiesMask2=4505798667669505
+AbilitiesMask3=0
+CEEligibility=1099650039809
+CELeadership=134283264
+
+
+[Yun-Yammka Fanatic 58]
+Name=Yun-Yammka Fanatic
+Set=Renegades and Rogues
+SetDisplay=Renegades and Rogues
+Faction=Yuuzhan Vong
+CharacterJPGImage=RaR_pics\RaR58_YYFan_UH59.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>None
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Melee Attack; Twin Attack</B></FONT> <BR><FONT SIZE=4><B>Charging Assault +10</B></FONT> [Replaces turn: Can move up to double speed, then make an attack at +10 Damage against an adjacent enemy]<BR><FONT SIZE=4><B>Demolish</B></FONT> [Ignores Damage Reduction of adjacent targets]<BR><FONT SIZE=4><B>Droid Hunter</B></FONT> [+4 Attack +10 Damage against Droid enemies]<BR><FONT SIZE=4><B>Droid Fanaticism</B></FONT> [At the start of this character's turn, if a nonliving enemy with a printed Damage rating of 10 or more is within 12 squares, this character gains <B>Savage</B> until the end of its turn]<BR><FONT SIZE=4><B>Force Immunity</B></FONT> [Enemies cannot affect this character with Force powers, or spend Force points to reroll attacks against this character or to respond to this character's attacks and abilities]<BR><FONT SIZE=4><B>Razorbug</B></FONT> [Replaces attacks: sight; 10 damage; save 11]<BR><FONT SIZE=4><B>Vonduun Crab Armor 11</B></FONT> [When this character takes damage, it can reduce the damage dealt by 10 with a save of 11]
+SquadSuggestions=
+Description=
+FlavorText="To you. Yun-Yammka, accept these lives.  In return for that gift, grant us success." -Tsavong Lah
+Number=58
+Damage=10
+PlayCost=19
+Attack=10
+HitPoints=60
+Defense=15
+ForcePoints=0
+Type=2
+Base=2
+FactionID=64
+SetID=32768
+MiniID=4194362
+ReinforcementsAvailable=0
+UniqueIdentifier=0
+AbilitiesMask1=144396663052566541
+AbilitiesMask2=580966550970957825
+AbilitiesMask3=0
+CEEligibility=1099650105347
+CELeadership=0
+
+[Yuuzhan Vong Firebreather 59]
+Name=Yuuzhan Vong Firebreather
+Set=Renegades and Rogues
+SetDisplay=Renegades and Rogues
+Faction=Yuuzhan Vong
+CharacterJPGImage=RaR_pics\RaR59_Fire_UH13.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>None
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Savage</B></FONT><BR><FONT SIZE=4><B>Melee Attack; Twin Attack</B></FONT><BR><FONT SIZE=4><B>Charging Assault +10</B></FONT> [Replaces turn: Can move up to double speed, then make an attack at +10 Damage against an adjacent enemy]<BR><FONT SIZE=4><B>Fireproof</B></FONT> [Immune to Flamethrower]<BR><FONT SIZE=4><B>Flamethrower 40</B></FONT> [Replaces attacks: range 6; 40 damage to target and to each character adjacent to that target]<BR><FONT SIZE=4><B>Indiscriminate</B></FONT> [When this character attacks an adjacent enemy, it ignores enemy abilities and commander effects that prevent targeting and attacking. These attacks cannot be redirected.]<BR><FONT SIZE=4><B>Overwhelming Power</B></FONT> [Damage from this character's attacks cannot be prevented or redirected]<BR><FONT SIZE=4><B>Vonduun Crab Armor 2</B></FONT> [When this character takes damage, it can reduce the damage dealt by 10 with a save of 2]
+SquadSuggestions=
+Description=
+FlavorText=
+Number=59
+Damage=10
+PlayCost=46
+Attack=6
+HitPoints=140
+Defense=16
+ForcePoints=0
+Type=2
+Base=8
+FactionID=64
+SetID=32768
+MiniID=4194363
+ReinforcementsAvailable=0
+UniqueIdentifier=0
+AbilitiesMask1=144115188076118029
+AbilitiesMask2=4505798667534353
+AbilitiesMask3=0
+CEEligibility=1099918737410
+CELeadership=0
+
+[Yuuzhan Vong Slayer 60]
+Name=Yuuzhan Vong Slayer
+Set=Renegades and Rogues
+SetDisplay=Renegades and Rogues
+Faction=Yuuzhan Vong
+CharacterJPGImage=RaR_Pics\RaR60_Slayer_DT38.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>None
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Pilot</B></FONT><BR><FONT SIZE=4><B>Melee Attack; Double Attack</B></FONT><BR><FONT SIZE=4><B>Deadly Attack</B></FONT> [Scores a critical hit on an attack roll of natural 19 or 20]<BR><FONT SIZE=4><B>Force Immunity</B></FONT> [Enemies cannot affect this character with Force powers, or spend Force points to reroll attacks against this character or to respond to this character's attacks and abilities]<BR><FONT SIZE=4><B>Jedi Hunter</B></FONT> [+4 Attack and +10 Damage against enemies with Force ratings]<BR><FONT SIZE=4><B>Razorbug</B></FONT> [Replaces attacks: sight; 10 damage; save 11]<BR><FONT SIZE=4><B>Shimrra's Bodyguard</B></FONT> [If a character whose name contains Shimmra is an adjacent ally and would take damage from an attack, this character can take the damage instead]<BR><FONT SIZE=4><B>Vonduun Crab Armor 6</B></FONT> [When this character takes damage, it can reduce the damage dealt by 10 with a save of 6]
+SquadSuggestions=
+Description=
+FlavorText=
+Number=60
+Damage=20
+PlayCost=30
+Attack=11
+HitPoints=80
+Defense=18
+ForcePoints=0
+Type=2
+Base=2
+FactionID=64
+SetID=32768
+MiniID=4194364
+ReinforcementsAvailable=0
+UniqueIdentifier=0
+AbilitiesMask1=281474985099277
+AbilitiesMask2=148620986726907905
+AbilitiesMask3=0
+CEEligibility=138477635
+CELeadership=0

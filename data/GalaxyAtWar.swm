@@ -1,0 +1,1093 @@
+[Set Data]
+TotalInSet=40
+
+[Asajj Ventress, Strike Leader 1]
+Name=Asajj Ventress, Strike Leader
+Set=Galaxy At War
+SetDisplay=Galaxy At War
+Faction=Separatists
+CharacterJPGImage=GalaxyAtWar_Pics\Asajj_Ventress,Strike_Leader-GW01.jpg
+Number=1
+Damage=20
+PlayCost=57
+Attack=11
+HitPoints=120
+Defense=19
+ForcePoints=3
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique</B></FONT><BR><FONT SIZE=4><B>Melee Attack</B></FONT> (Can attack only adjacent enemies)<BR><FONT SIZE=4><B>Double Attack</B></FONT> (On her turn, this character can make 1 extra attack instead of moving)<BR><FONT SIZE=4><B>Evade</B></FONT> (When hit by an attack from a nonadjacent enemy, this character takes no damage with a save of 11)<BR><FONT SIZE=4><B>Niman Style</B></FONT> (+2 Attack and +2 Defense while this character has more than half Hit Points remaining)<BR><FONT SIZE=4><B>Twin Attack</B></FONT> (Whenever this character attacks, she makes 1 extra attack against the same target)<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 3</B></FONT><BR><FONT SIZE=4><B>Force Grip 1</B></FONT> (Force 1, replaces attacks: sight; 10 damage)<BR><FONT SIZE=4><B>Master Speed</B></FONT> (Force 1: Can move 6 extra squares on her turn as part of her move)<BR><FONT SIZE=4><B>Sith Rage</B></FONT> (Force 1: +10 Damage on all attacks this turn)<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>Followers within 6 squares score critical hits on attack rolls of natural 19 or 20 and deal triple damage instead of double on a critical hit.
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>Followers within 6 squares score critical hits on attack rolls of natural 19 or 20 and deal triple damage instead of double on a critical hit.
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+UniqueIdentifier=1
+MiniID=4194757
+FactionID=8
+Type=4
+Base=2
+AbilitiesMask1=140746346725658
+AbilitiesMask2=2199040360448
+CEEligibility=288230376151719937
+CELeadership=65536
+
+[Battle Droid 2]
+Name=Battle Droid
+Set=Galaxy At War
+SetDisplay=Galaxy At War
+Faction=Separatists
+CharacterJPGImage=GalaxyAtWar_Pics\02.jpg
+Number=2
+Damage=10
+PlayCost=4
+Attack=0
+HitPoints=10
+Defense=9
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Droid</B></FONT> (Immune to critical hits; not subject to commander effects)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText=""Have you ever killed a Jedi?"  "No, never."  "Me neither.""
+UniqueIdentifier=0
+MiniID=4194758
+FactionID=8
+Type=1
+Base=2
+AbilitiesMask1=36
+AbilitiesMask2=4507997674012672
+CEEligibility=541196290
+CELeadership=0
+
+[Battle Droid Sergeant 3]
+Name=Battle Droid Sergeant
+Set=Galaxy At War
+SetDisplay=Galaxy At War
+Faction=Separatists
+CharacterJPGImage=GalaxyAtWar_Pics\battle_droid_sergeant-GW03.jpg
+Number=3
+Damage=20
+PlayCost=16
+Attack=3
+HitPoints=20
+Defense=13
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Droid</B></FONT> (Immune to critical hits; not subject to commander effects)<BR><FONT SIZE=4><B>Roger Roger</B></FONT> (Non-Unique Droid allies within 6 squares get +10 Damage)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText=""But I just got promoted!""
+UniqueIdentifier=0
+MiniID=4194759
+FactionID=8
+Type=2
+Base=2
+AbilitiesMask1=36
+AbilitiesMask2=4507997674012672
+CEEligibility=541196290
+CELeadership=0
+
+[B3 Ultra Battle Droid 4]
+Name=B3 Ultra Battle Droid
+Set=Galaxy At War
+SetDisplay=Galaxy At War
+Faction=Separatists
+CharacterJPGImage=GalaxyAtWar_Pics\04.jpg
+Number=4
+Damage=20
+PlayCost=32
+Attack=8
+HitPoints=60
+Defense=17
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Droid</B></FONT> (Immune to critical hits; not subject to commander effects)<BR><FONT SIZE=4><B>Triple Attack</B></FONT> (On its turn, this character can make 2 extra attacks instead of moving)<BR><FONT SIZE=4><B>Damage Reduction 10</B></FONT> (Whenever this character takes damage, reduce the damage dealt by 10.  Attacks with lightsabers ignore this special ability.)<BR><FONT SIZE=4><B>Density Projector</B></FONT> (Ignores effects that force movement)<BR><FONT SIZE=4><B>Flamethrower 20</B></FONT> (Replaces attacks: range 6; 20 damage to target and to each character adjacent to that target)<BR><FONT SIZE=4><B>Missiles 30</B></FONT> (Replaces attacks: sight; 30 damage to target and to each character adjacent to that target; save 11)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+UniqueIdentifier=0
+MiniID=4194760
+FactionID=8
+Type=2
+Base=4
+AbilitiesMask1=72061992084439076
+AbilitiesMask2=4507997674536976
+CEEligibility=541196290
+CELeadership=0
+
+[Captain Mar Tuuk 5]
+Name=Captain Mar Tuuk
+Set=Galaxy At War
+SetDisplay=Galaxy At War
+Faction=Separatists
+CharacterJPGImage=GalaxyAtWar_Pics\05.jpg
+Number=5
+Damage=10
+PlayCost=14
+Attack=5
+HitPoints=40
+Defense=14
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique</B></FONT><BR><FONT SIZE=4><B>Opportunist</B></FONT> (+4 Attack and +10 Damage against an enemy who has activated this round)<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>If this character can see an enemy at the start of a phase, you can increase or decrease the number of characters you activate in that phase by 1 (minimum 1).  This can include Droid and Savage characters.
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>If this character can see an enemy at the start of a phase, you can increase or decrease the number of characters you activate in that phase by 1 (minimum 1).  This can include Droid and Savage characters.
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText=""Skywalker's record shows he is a great warrior, and I want him to know it is I who has beaten him.""
+UniqueIdentifier=1
+MiniID=4194761
+FactionID=8
+Type=8
+Base=2
+AbilitiesMask1=1152921504606846994
+AbilitiesMask2=4505798650626048
+CEEligibility=4194305
+CELeadership=1
+
+[Commando Droid 6]
+Name=Commando Droid
+Set=Galaxy At War
+SetDisplay=Galaxy At War
+Faction=Separatists
+CharacterJPGImage=GalaxyAtWar_Pics\06.jpg
+Number=6
+Damage=10
+PlayCost=17
+Attack=7
+HitPoints=30
+Defense=16
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Droid</B></FONT> (Immune to critical hits; not subject to commander effects)<BR><FONT SIZE=4><B>Squad Firepower</B></FONT> (+10 Damage while 3 allies with the same name as this character are within 6 squares)<BR><FONT SIZE=4><B>Twin Attack</B></FONT> (Whenever this character attacks, it makes 1 extra attack against the same target)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="Droid commandos are programmed to function in small groups, allowing them to effectively stage precise strikes."
+UniqueIdentifier=0
+MiniID=4194762
+FactionID=8
+Type=1
+Base=2
+AbilitiesMask1=36
+AbilitiesMask2=4507997690789888
+CEEligibility=9007199795937282
+CELeadership=0
+
+[Commando Droid 7]
+Name=Commando Droid
+Set=Galaxy At War
+SetDisplay=Galaxy At War
+Faction=Separatists
+CharacterJPGImage=GalaxyAtWar_Pics\07.jpg
+Number=7
+Damage=10
+PlayCost=17
+Attack=7
+HitPoints=30
+Defense=16
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Droid</B></FONT> (Immune to critical hits; not subject to commander effects)<BR><FONT SIZE=4><B>Squad Firepower</B></FONT> (+10 Damage while 3 allies with the same name as this character are within 6 squares)<BR><FONT SIZE=4><B>Twin Attack</B></FONT> (Whenever this character attacks, it makes 1 extra attack against the same target)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="The engineers at Baktoid Combat Automata produced the BX-Series droid commandos to carry out more subtle or delicate missions."
+UniqueIdentifier=0
+MiniID=4194763
+FactionID=8
+Type=1
+Base=2
+AbilitiesMask1=36
+AbilitiesMask2=4507997690789888
+CEEligibility=9007199795937282
+CELeadership=0
+
+[Commando Droid Captain 8]
+Name=Commando Droid Captain
+Set=Galaxy At War
+SetDisplay=Galaxy At War
+Faction=Separatists
+CharacterJPGImage=GalaxyAtWar_Pics\commando_droid_captain-GW08.jpg
+Number=8
+Damage=20
+PlayCost=24
+Attack=9
+HitPoints=50
+Defense=18
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Droid</B></FONT> (Immune to critical hits; not subject to commander effects)<BR><FONT SIZE=4><B>Double Attack</B></FONT> (On its turn, this character can make 1 extra attack instead of moving)<BR><FONT SIZE=4><B>Deadeye</B></FONT> (On this character's turn, if it doesn't move, it gets +10 Damage)<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>Droids are subject to this effect: Droid followers within 6 squares gain <B>Double Attack</B>.
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>Droids are subject to this effect: Droid followers within 6 squares gain <B>Double Attack</B>.
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="Commando droid captains direct squads of three to six commando droids and come loaded with tactical and strategic information."
+UniqueIdentifier=0
+MiniID=4194764
+FactionID=8
+Type=2
+Base=2
+AbilitiesMask1=9223372036854775860
+AbilitiesMask2=4507997674143744
+CEEligibility=9007199795806210
+CELeadership=131072
+
+[A4-Series Lab Droid 9]
+Name=A4-Series Lab Droid
+Set=Galaxy At War
+SetDisplay=Galaxy At War
+Faction=Separatists
+CharacterJPGImage=GalaxyAtWar_Pics\09.jpg
+Number=9
+Damage=10
+PlayCost=16
+Attack=0
+HitPoints=30
+Defense=15
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Droid</B></FONT> (Immune to critical hits; not subject to commander effects)<BR><FONT SIZE=4><B>Melee Attack</B></FONT> (Can attack only adjacent enemies)<BR><FONT SIZE=4><B>Repair 30</B></FONT> (Replaces attacks: touch; remove 30 damage from 1 Droid character)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="MerenData modified their EV-series droids to produce the A4-series assistants.  Fortunately, they corrected the programming glitch that produced sadistic streaks in so many droids."
+UniqueIdentifier=0
+MiniID=4194765
+FactionID=8
+Type=2
+Base=2
+AbilitiesMask1=44
+AbilitiesMask2=4432406380544
+CEEligibility=1100052824066
+CELeadership=0
+
+[General Grievous, Scourge of the Jedi 10]
+Name=General Grievous, Scourge of the Jedi
+Set=Galaxy At War
+SetDisplay=Galaxy At War
+Faction=Separatists
+CharacterJPGImage=GalaxyAtWar_Pics\10.jpg
+Number=10
+Damage=20
+PlayCost=63
+Attack=11
+HitPoints=130
+Defense=19
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique</B></FONT><BR><FONT SIZE=4><B>Melee Attack</B></FONT> (Can attack only adjacent enemies)<BR><FONT SIZE=4><B>Double Attack</B></FONT> (On his turn, this character can make 1 extra attack instead of moving)<BR><FONT SIZE=4><B>Cyborg</B></FONT> (Counts as both a Droid and a non-Droid; living; subject to critical hits and commander effects)<BR><FONT SIZE=4><B>Jedi Hunter</B></FONT> (+4 Attack and +10 Damage against enemies with Force ratings)<BR><FONT SIZE=4><B>Twin Attack</B></FONT> (Whenever this character attacks, he makes 1 extra attack against the same target)<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>Droids are subject to this effect: Droid followers within 6 squares get +4 Attack and gain <B>Extra Attack</B> (On its turn, this character can make 1 cumulative extra attack instead of moving).
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>Droids are subject to this effect: Droid followers within 6 squares get +4 Attack and gain <B>Extra Attack</B> (On its turn, this character can make 1 cumulative extra attack instead of moving).
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText=""I will rest when the Jedi are dead.""
+UniqueIdentifier=512
+MiniID=4194766
+FactionID=8
+Type=4
+Base=2
+AbilitiesMask1=8388666
+AbilitiesMask2=2199040303104
+CEEligibility=541065217
+CELeadership=131072
+
+[General Whorm Loathsom 11]
+Name=General Whorm Loathsom
+Set=Galaxy At War
+SetDisplay=Galaxy At War
+Faction=Separatists
+CharacterJPGImage=GalaxyAtWar_Pics\11.jpg
+Number=11
+Damage=10
+PlayCost=20
+Attack=11
+HitPoints=70
+Defense=17
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique</B></FONT><BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>Droids are subject to this effect: Followers within 6 squares gain <B>Twin Attack</B> (Whenever this character attacks, it makes 1 extra attack against the same target).
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>Droids are subject to this effect: Followers within 6 squares gain <B>Twin Attack</B> (Whenever this character attacks, it makes 1 extra attack against the same target).
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="The brilliant but vain General Loathsom's ego was his undoing at the Battle of Christophsis."
+UniqueIdentifier=1
+MiniID=4194767
+FactionID=8
+Type=8
+Base=2
+AbilitiesMask1=18
+AbilitiesMask2=4505798650626048
+CEEligibility=4194305
+CELeadership=65536
+
+[IG-100 MagnaGuard 12]
+Name=IG-100 MagnaGuard
+Set=Galaxy At War
+SetDisplay=Galaxy At War
+Faction=Separatists
+CharacterJPGImage=GalaxyAtWar_Pics\ig_100_magnaguard-GW12.jpg
+Number=12
+Damage=20
+PlayCost=16
+Attack=8
+HitPoints=60
+Defense=18
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Droid</B></FONT> (Immune to critical hits; not subject to commander effects)<BR><FONT SIZE=4><B>Melee Attack</B></FONT> (Can attack only adjacent enemies)<BR><FONT SIZE=4><B>Lightsaber Resistance</B></FONT> (+2 Defense when attacked by an adjacent enemy with a Force rating)<BR><FONT SIZE=4><B>Electrostaff +10</B></FONT> (+10 Damage against adjacent nonliving enemies.  An adjacent living enemy hit by this character's attack is considered activated this round; save 11.)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="Droid bodyguards ensure that no living being need give up its life for its charge."
+UniqueIdentifier=0
+MiniID=4194768
+FactionID=8
+Type=2
+Base=2
+AbilitiesMask1=44
+AbilitiesMask2=4398046642176
+CEEligibility=541196290
+CELeadership=0
+
+[IG-100 MagnaGuard Artillerist 13]
+Name=IG-100 MagnaGuard Artillerist
+Set=Galaxy At War
+SetDisplay=Galaxy At War
+Faction=Separatists
+CharacterJPGImage=GalaxyAtWar_Pics\13.jpg
+Number=13
+Damage=20
+PlayCost=21
+Attack=8
+HitPoints=60
+Defense=16
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Droid</B></FONT> (Immune to critical hits; not subject to commander effects)<BR><FONT SIZE=4><B>Melee Attack</B></FONT> (Can attack only adjacent enemies)<BR><FONT SIZE=4><B>Lightsaber Resistance</B></FONT> (+2 Defense when attacked by an adjacent enemy with a Force rating)<BR><FONT SIZE=4><B>Electrostaff +10</B></FONT> (+10 Damage against adjacent nonliving enemies.  An adjacent living enemy hit by this character's attack is considered activated this round; save 11.)<BR><FONT SIZE=4><B>Missiles 30</B></FONT> (Replaces attacks: sight; 30 damage to target and to each character adjacent to that target; save 11)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="General Grievous commissioned several models of MagnaGuard droids to serve as his personal entourage."
+UniqueIdentifier=0
+MiniID=4194769
+FactionID=8
+Type=2
+Base=2
+AbilitiesMask1=72057594037927980
+AbilitiesMask2=4398046642176
+CEEligibility=541196290
+CELeadership=0
+
+[LR-57 Combat Droid 14]
+Name=LR-57 Combat Droid
+Set=Galaxy At War
+SetDisplay=Galaxy At War
+Faction=Separatists
+CharacterJPGImage=GalaxyAtWar_Pics\14.jpg
+Number=14
+Damage=20
+PlayCost=30
+Attack=6
+HitPoints=70
+Defense=16
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Droid</B></FONT> (Immune to critical hits; not subject to commander effects)<BR><FONT SIZE=4><B>Double Attack</B></FONT> (On its turn, this character can make 1 extra attack instead of moving)<BR><FONT SIZE=4><B>Ambush</B></FONT> (This character can move and then make all its attacks against 1 enemy who has not activated this round)<BR><FONT SIZE=4><B>Twin Attack</B></FONT> (Whenever this character attacks, it makes 1 extra attack against the same target)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="The separatist Retail Caucus employed these modified battle droids as sentinels.  Among other roles, they guarded the enemy shield projector at the Battle of Christophsis."
+UniqueIdentifier=0
+MiniID=4194770
+FactionID=8
+Type=2
+Base=4
+AbilitiesMask1=36
+AbilitiesMask2=4507997691052032
+AbilitiesMask3=4
+CEEligibility=541196290
+CELeadership=0
+
+[Wat Tambor, Techno Union Foreman 15]
+Name=Wat Tambor, Techno Union Foreman
+Set=Galaxy At War
+SetDisplay=Galaxy At War
+Faction=Separatists
+CharacterJPGImage=GalaxyAtWar_Pics\wat_tambor,techno_union_foreman-GW15.jpg
+Number=15
+Damage=20
+PlayCost=43
+Attack=9
+HitPoints=70
+Defense=19
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique</B></FONT><BR><FONT SIZE=4><B>Droid Mark</B></FONT> (When this character activates, you can choose an allied Droid character within 6 squares.  Until the start of the next round, that character gains <B>Draw Fire</B> [If an enemy targets an ally within 6 squares of this character, you can force that enemy to target this character instead if it can; save 11])<BR><FONT SIZE=4><B>Evade</B></FONT> (When hit by an attack from a nonadjacent enemy, this character takes no damage with a save of 11)<BR><FONT SIZE=4><B>Immediate Droid Reserves 20</B></FONT> (If you roll exactly 5, 10, 15, or 20 for initiative, you can add up to 20 points of non-Unique Droid characters from any faction to your squad, adjacent to this character, immediately before your first activation of the round.)<BR><FONT SIZE=4><B>Repair 20</B></FONT> (Replaces attacks: touch; remove 20 damage from 1 Droid character)<BR><FONT SIZE=4><B>Twin Attack</B></FONT> (Whenever this character attacks, he makes 1 extra attack against the same target)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+UniqueIdentifier=1
+MiniID=4194771
+FactionID=8
+Type=8
+Base=2
+AbilitiesMask1=2199291691010
+AbilitiesMask2=4505833027272704
+CEEligibility=288230376155971585
+CELeadership=0
+
+[Admiral Yularen 16]
+Name=Admiral Yularen
+Set=Galaxy At War
+SetDisplay=Galaxy At War
+Faction=Republic
+CharacterJPGImage=GalaxyAtWar_Pics\16.jpg
+Number=16
+Damage=10
+PlayCost=21
+Attack=7
+HitPoints=40
+Defense=16
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique</B></FONT><BR><FONT SIZE=4><B>It's a Trap!</B></FONT> (Enemies with Stealth within 6 squares lose Stealth)<BR><FONT SIZE=4><B>Opportunist +20</B></FONT> (+4 Attack and +20 Damage against an enemy who has activated this round)<BR><FONT SIZE=4><B>Recon</B></FONT> (Roll twice for initiative once per round, choosing either roll, if any character with Recon in the same squad has line of sight to an enemy)<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>Followers without the Melee Attack special ability gain <B>Opportunist +10</B> (+4 Attack and +10 Damage against an enemy who has activated this round).
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>Followers without the Melee Attack special ability gain <B>Opportunist +10</B> (+4 Attack and +10 Damage against an enemy who has activated this round).
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="A dedicated former Intelligence officer, Admiral Yularen faithfully served Palpatine in the Clone Wars and afterward."
+UniqueIdentifier=1
+MiniID=4194772
+FactionID=4
+Type=8
+Base=2
+AbilitiesMask1=1153484454560268306
+AbilitiesMask2=4505798650626048
+AbilitiesMask3=128
+CEEligibility=4194305
+CELeadership=65536
+
+[ARF Trooper 17]
+Name=ARF Trooper
+Set=Galaxy At War
+SetDisplay=Galaxy At War
+Faction=Republic
+CharacterJPGImage=GalaxyAtWar_Pics\17.jpg
+Number=17
+Damage=20
+PlayCost=11
+Attack=8
+HitPoints=10
+Defense=15
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Order 66</B></FONT><BR><FONT SIZE=4><B>Recon</B></FONT> (Roll twice for initiative once per round, choosing either roll, if any character with Recon in the same squad has line of sight to an enemy)<BR><FONT SIZE=4><B>Squad Cover</B></FONT> (+4 Defense while 3 allies with the same name as this character are within 6 squares)<BR><FONT SIZE=4><B>Stealth</B></FONT> (If this character has cover, he does not count as the nearest enemy for an attacker farther than 6 squares when choosing targets)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="The Advanced Reconnaissance Fighter (ARF) Trooper is trained for a variety of roles, including forward scouting and piloting AT-RT units."
+UniqueIdentifier=0
+MiniID=4194773
+FactionID=4
+Type=1
+Base=2
+AbilitiesMask1=562950490324996
+AbilitiesMask2=5631698557599744
+CEEligibility=5324819
+CELeadership=0
+
+[AT-TE Driver 18]
+Name=AT-TE Driver
+Set=Galaxy At War
+SetDisplay=Galaxy At War
+Faction=Republic
+CharacterJPGImage=GalaxyAtWar_Pics\18.jpg
+Number=18
+Damage=20
+PlayCost=9
+Attack=6
+HitPoints=10
+Defense=16
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Order 66</B></FONT><BR><FONT SIZE=4><B>Ground Pilot +2</B></FONT> (Allies with Mounted Weapon who start their moves adjacent to this character get +2 Speed)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="Specially trained clone troopers pilot the massive, six-legged AT-TE walkers in combat."
+UniqueIdentifier=0
+MiniID=4194774
+FactionID=4
+Type=1
+Base=2
+AbilitiesMask1=32772
+AbilitiesMask2=4505798650757120
+CEEligibility=5308419
+CELeadership=0
+
+[Captain Argyus 19]
+Name=Captain Argyus
+Set=Galaxy At War
+SetDisplay=Galaxy At War
+Faction=Republic
+CharacterJPGImage=GalaxyAtWar_Pics\19.jpg
+Number=19
+Damage=20
+PlayCost=29
+Attack=10
+HitPoints=70
+Defense=19
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique</B></FONT><BR><FONT SIZE=4><B>Close-Quarters Fighting</B></FONT> (+4 Attack against adjacent enemies)<BR><FONT SIZE=4><B>Twin Attack</B></FONT> (Whenever this character attacks, he makes 1 extra attack against the same target)<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>Followers whose names contain Senate gain <B>Close-Quarters Fighting</B> and <B>Twin Attack</B>.
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>Followers whose names contain Senate gain <B>Close-Quarters Fighting</B> and <B>Twin Attack</B>.
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText=""As successful a rescue as one could hope for, Viceroy.  I'll be a legend for this.""
+UniqueIdentifier=1
+MiniID=4194775
+FactionID=4
+Type=8
+Base=2
+AbilitiesMask1=18
+AbilitiesMask2=4505798667403264
+CEEligibility=4194305
+CELeadership=65536
+
+[Clone Trooper Pilot 20]
+Name=Clone Trooper Pilot
+Set=Galaxy At War
+SetDisplay=Galaxy At War
+Faction=Republic
+CharacterJPGImage=GalaxyAtWar_Pics\20.jpg
+Number=20
+Damage=10
+PlayCost=9
+Attack=8
+HitPoints=20
+Defense=15
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Order 66</B></FONT><BR><FONT SIZE=4><B>Pilot</B></FONT><BR><FONT SIZE=4><B>Evade</B></FONT> (When hit by an attack from a nonadjacent enemy, this character takes no damage with a save of 11)<BR><FONT SIZE=4><B>Gunner +20</B></FONT> (Can combine fire with adjacent allies who have Mounted Weapon, granting +20 Damage)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="Clone troopers piloting ARC-170 and V-wing fighters were an integral part of the Republic war effort."
+UniqueIdentifier=0
+MiniID=4194776
+FactionID=4
+Type=1
+Base=2
+AbilitiesMask1=36028797287432196
+AbilitiesMask2=149746886633455616
+CEEligibility=288230376157036611
+CELeadership=0
+
+[Clone Trooper Sergeant 21]
+Name=Clone Trooper Sergeant
+Set=Galaxy At War
+SetDisplay=Galaxy At War
+Faction=Republic
+CharacterJPGImage=GalaxyAtWar_Pics\21.jpg
+Number=21
+Damage=10
+PlayCost=10
+Attack=10
+HitPoints=20
+Defense=14
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Order 66</B></FONT><BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>Trooper followers within 6 squares score critical hits on attack rolls of natural 19 or 20.
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>Trooper followers within 6 squares score critical hits on attack rolls of natural 19 or 20.
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="Clone sergeants lead squads of nine troopers and assist clone lieutenants in trooper platoons.  Clones almost always follow this rigid command structure."
+UniqueIdentifier=0
+MiniID=4194777
+FactionID=4
+Type=2
+Base=2
+AbilitiesMask1=32788
+AbilitiesMask2=5631698557468672
+CEEligibility=5259267
+CELeadership=81920
+
+[Clone Trooper with Night Vision 22]
+Name=Clone Trooper with Night Vision
+Set=Galaxy At War
+SetDisplay=Galaxy At War
+Faction=Republic
+CharacterJPGImage=GalaxyAtWar_Pics\22.jpg
+Number=22
+Damage=20
+PlayCost=13
+Attack=6
+HitPoints=10
+Defense=13
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Order 66</B></FONT><BR><FONT SIZE=4><B>Accurate Shot</B></FONT> (Can attack an enemy with cover even if it's not the nearest enemy)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="Just because you never see them coming doesn't mean they don't see you."
+UniqueIdentifier=0
+MiniID=4194778
+FactionID=4
+Type=1
+Base=2
+AbilitiesMask1=32900
+AbilitiesMask2=5631698557599744
+CEEligibility=5324803
+CELeadership=0
+
+[Clone Trooper with Repeating Blaster 23]
+Name=Clone Trooper with Repeating Blaster
+Set=Galaxy At War
+SetDisplay=Galaxy At War
+Faction=Republic
+CharacterJPGImage=GalaxyAtWar_Pics\clone_trooper_with_repeating_blaster-GW23.jpg
+Number=23
+Damage=20
+PlayCost=23
+Attack=8
+HitPoints=20
+Defense=14
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Order 66</B></FONT><BR><FONT SIZE=4><B>Quadruple Attack</B></FONT> (On his turn, this character can make 3 extra attacks instead of moving)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="Clones armed with repeating blasters lay down suppression fire and eliminate large groups of tightly packed enemies."
+UniqueIdentifier=0
+MiniID=4194779
+FactionID=4
+Type=2
+Base=2
+AbilitiesMask1=32772
+AbilitiesMask2=5631698558648320
+CEEligibility=5324803
+CELeadership=0
+
+[Commander Ahsoka 24]
+Name=Commander Ahsoka
+Set=Galaxy At War
+SetDisplay=Galaxy At War
+Faction=Republic
+CharacterJPGImage=GalaxyAtWar_Pics\commander_ahsoka-GW24.jpg
+Number=24
+Damage=20
+PlayCost=24
+Attack=9
+HitPoints=70
+Defense=20
+ForcePoints=3
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique</B></FONT><BR><FONT SIZE=4><B>Melee Attack</B></FONT> (Can attack only adjacent enemies)<BR><FONT SIZE=4><B>Double Attack</B></FONT> (On her turn, this character can make 1 extra attack instead of moving)<BR><FONT SIZE=4><B>Rolling Cleave</B></FONT> (Once per turn, if this character defeats an adjacent enemy by making an attack, she can immediately move 1 square and then make 1 attack against another adjacent enemy without provoking an attack of opportunity)<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 3</B></FONT><BR><FONT SIZE=4><B>Lightsaber Defense</B></FONT> (Force 1: When hit by an attack, takes no damage with a save of 11)<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>Followers within 6 squares gain <B>Rolling Cleave</B>.
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>Followers within 6 squares gain <B>Rolling Cleave</B>.
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+UniqueIdentifier=1
+MiniID=4194780
+FactionID=4
+Type=4
+Base=2
+AbilitiesMask1=9007199254741274
+AbilitiesMask2=2199023517696
+CEEligibility=8193
+CELeadership=65536
+
+[Commander Cody 25]
+Name=Commander Cody
+Set=Galaxy At War
+SetDisplay=Galaxy At War
+Faction=Republic
+CharacterJPGImage=GalaxyAtWar_Pics\25.jpg
+Number=25
+Damage=20
+PlayCost=23
+Attack=11
+HitPoints=50
+Defense=16
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique</B></FONT><BR><FONT SIZE=4><B>Order 66</B></FONT><BR><FONT SIZE=4><B>Accurate Shot</B></FONT> (Can attack an enemy with cover even if it's not the nearest enemy)<BR><FONT SIZE=4><B>Deadly Attack</B></FONT> (Scores a critical hit on an attack roll of natural 19 or 20)<BR><FONT SIZE=4><B>Flurry Attack</B></FONT> (When this character scores a critical hit, he can make 1 immediate extra attack)<BR><FONT SIZE=4><B>Rapport</B></FONT> (Characters named Clone Trooper cost 1 less when in the same squad as this character)<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>Followers with Order 66 within 6 squares gain <B>Deadly Attack</B> and <B>Flurry Attack</B>.
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>Followers with Order 66 within 6 squares gain <B>Deadly Attack</B> and <B>Flurry Attack</B>.
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+UniqueIdentifier=1
+MiniID=4194781
+FactionID=4
+Type=4
+Base=2
+AbilitiesMask1=32914
+AbilitiesMask2=40534595669622788
+CEEligibility=5242881
+CELeadership=1114112
+
+[Captain Rex, 501st Commander 26]
+Name=Captain Rex, 501st Commander
+Set=Galaxy At War
+SetDisplay=Galaxy At War
+Faction=Republic
+CharacterJPGImage=GalaxyAtWar_Pics\26.jpg
+Number=26
+Damage=30
+PlayCost=41
+Attack=13
+HitPoints=80
+Defense=16
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique</B></FONT><BR><FONT SIZE=4><B>Order 66</B></FONT><BR><FONT SIZE=4><B>Flight</B></FONT> (Ignores difficult terrain, enemy characters, low objects, and pits when moving)<BR><FONT SIZE=4><B>Double Attack</B></FONT> (On his turn, this character can make 1 extra attack instead of moving)<BR><FONT SIZE=4><B>Greater Mobile Attack</B></FONT> (Can move both before and after attacking.  This character can make extra attacks even if he moves this turn, but he must make them all before resuming movement.)<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>Allies with Order 66 that end their moves within 6 squares of this character can move 2 extra squares at the end of their turns.
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>Allies with Order 66 that end their moves within 6 squares of this character can move 2 extra squares at the end of their turns.
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+UniqueIdentifier=1
+MiniID=4194782
+FactionID=4
+Type=4
+Base=2
+AbilitiesMask1=2130002
+AbilitiesMask2=4505798650888192
+CEEligibility=5242881
+CELeadership=1048577
+
+[Elite Senate Guard 27]
+Name=Elite Senate Guard
+Set=Galaxy At War
+SetDisplay=Galaxy At War
+Faction=Republic
+CharacterJPGImage=GalaxyAtWar_Pics\elite_senate_guard-GW27.jpg
+Number=27
+Damage=30
+PlayCost=18
+Attack=8
+HitPoints=50
+Defense=17
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Double Attack</B></FONT> (On his turn, this character can make 1 extra attack instead of moving)<BR><FONT SIZE=4><B>Bodyguard</B></FONT> (If an adjacent ally would take damage from an attack, this character can take the damage instead)<BR><FONT SIZE=4><B>Heavy Weapon</B></FONT> (Can't attack and move in the same turn)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="The distinctive blue garb of the Senate Guard symbolized order and security throughout Galactic City for thousands of years."
+UniqueIdentifier=0
+MiniID=4194783
+FactionID=4
+Type=2
+Base=2
+AbilitiesMask1=131076
+AbilitiesMask2=4505798651019266
+CEEligibility=4259843
+CELeadership=0
+
+[501st Clone Trooper 28]
+Name=501st Clone Trooper
+Set=Galaxy At War
+SetDisplay=Galaxy At War
+Faction=Republic
+CharacterJPGImage=GalaxyAtWar_Pics\501st_clone_trooper-GW28.jpg
+Number=28
+Damage=20
+PlayCost=13
+Attack=8
+HitPoints=20
+Defense=14
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Order 66</B></FONT><BR><FONT SIZE=4><B>Double Attack</B></FONT> (On his turn, this character can make 1 extra attack instead of moving)<BR><FONT SIZE=4><B>Squad Assault</B></FONT> (+4 Attack while 3 allies with the same name as this character are within 6 squares)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="The elite 501st Legion, led by Captain Rex, served under Anakin Skywalker in the early battles of the Clone Wars."
+UniqueIdentifier=0
+MiniID=4194784
+FactionID=4
+Type=1
+Base=2
+AbilitiesMask1=32772
+AbilitiesMask2=5631698557861888
+CEEligibility=5324803
+CELeadership=0
+
+[General Skywalker 29]
+Name=General Skywalker
+Set=Galaxy At War
+SetDisplay=Galaxy At War
+Faction=Republic
+CharacterJPGImage=GalaxyAtWar_Pics\29.jpg
+Number=29
+Damage=20
+PlayCost=47
+Attack=12
+HitPoints=100
+Defense=20
+ForcePoints=5
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique</B></FONT><BR><FONT SIZE=4><B>Melee Attack</B></FONT> (Can attack only adjacent enemies)<BR><FONT SIZE=4><B>Double Attack</B></FONT> (On his turn, this character can make 1 extra attack instead of moving)<BR><FONT SIZE=4><B>Djem So Style</B></FONT> (Whenever this character is hit by a melee attack, make a save of 11.  On a success, this character can make an immediate attack against that attacker.)<BR><FONT SIZE=4><B>Greater Mobile Attack</B></FONT> (Can move both before and after attacking.  This character can make extra attacks even if he moves this turn, but he must make them all before resuming movement.)<BR><FONT SIZE=4><B>Momentum</B></FONT> (If this character has moved this turn, he gets +4 Attack and +10 Damage against adjacent enemies)<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 5</B></FONT><BR><FONT SIZE=4><B>Force Push 2</B></FONT> (Force 2, replaces attacks: range 6; 20 damage; push back target 2 squares if Huge or smaller)<BR><FONT SIZE=4><B>Knight Speed</B></FONT> (Force 1: Can move 4 extra squares on his turn as part of his move)<BR><FONT SIZE=4><B>Lightsaber Defense</B></FONT> (Force 1: When hit by an attack, takes no damage with a save of 11)<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>Followers who end their move within 6 squares of this character gain <B>Momentum</B>.
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>Followers who end their move within 6 squares of this character gain <B>Momentum</B>.
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+UniqueIdentifier=4
+MiniID=4194785
+FactionID=4
+Type=4
+Base=2
+AbilitiesMask1=3146010
+AbilitiesMask2=1152923703630364672
+AbilitiesMask3=2129920
+CEEligibility=8193
+CELeadership=65536
+
+[Jedi Master Kit Fisto 30]
+Name=Jedi Master Kit Fisto
+Set=Galaxy At War
+SetDisplay=Galaxy At War
+Faction=Republic
+CharacterJPGImage=GalaxyAtWar_Pics\30.jpg
+Number=30
+Damage=20
+PlayCost=60
+Attack=11
+HitPoints=130
+Defense=20
+ForcePoints=4
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique</B></FONT><BR><FONT SIZE=4><B>Melee Attack</B></FONT> (Can attack only adjacent enemies)<BR><FONT SIZE=4><B>Double Attack</B></FONT> (On his turn, this character can make 1 extra attack instead of moving)<BR><FONT SIZE=4><B>Shii-Cho Style</B></FONT> (+4 Attack and +4 Defense when 3 or more enemies are within 6 squares)<BR><FONT SIZE=4><B>Twin Attack</B></FONT> (Whenever this character attacks, he makes 1 extra attack against the same target)<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 4</B></FONT><BR><FONT SIZE=4><B>Lightsaber Precision</B></FONT> (Force 1: This character gets +10 Damage on his next attack)<BR><FONT SIZE=4><B>Surprise Move</B></FONT> (Force 1: Once per round, after initiative is determined, this character can immediately move up to his Speed before any other character activates)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+UniqueIdentifier=1
+MiniID=4194786
+FactionID=4
+Type=4
+Base=2
+AbilitiesMask1=137438953738
+AbilitiesMask2=2199040425984
+AbilitiesMask3=4194304
+CEEligibility=73729
+CELeadership=0
+
+[Nahdar Vebb 31]
+Name=Nahdar Vebb
+Set=Galaxy At War
+SetDisplay=Galaxy At War
+Faction=Republic
+CharacterJPGImage=GalaxyAtWar_Pics\31.jpg
+Number=31
+Damage=20
+PlayCost=17
+Attack=8
+HitPoints=60
+Defense=17
+ForcePoints=2
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique</B></FONT><BR><FONT SIZE=4><B>Melee Attack</B></FONT> (Can attack only adjacent enemies)<BR><FONT SIZE=4><B>Double Attack</B></FONT> (On his turn, this character can make 1 extra attack instead of moving)<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 2</B></FONT><BR><FONT SIZE=4><B>Force Push 1</B></FONT> (Force 1, replaces attacks: range 6; 10 damage; push back target 1 square if Huge or smaller)<BR><FONT SIZE=4><B>Lightsaber Deflect</B></FONT> (Force 1: When hit by a nonmelee attack, this character takes no damage with a save of 11)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="This young Mon Calamari was Padawan to Kit Fisto, but as a Jedi Knight he was impetuous and given to using the Force recklessly."
+UniqueIdentifier=1
+MiniID=4194787
+FactionID=4
+Type=8
+Base=2
+AbilitiesMask1=34359738634
+AbilitiesMask2=1152923703630495744
+CEEligibility=73729
+CELeadership=0
+
+[Obi-Wan Kenobi, Jedi General 32]
+Name=Obi-Wan Kenobi, Jedi General
+Set=Galaxy At War
+SetDisplay=Galaxy At War
+Faction=Republic
+CharacterJPGImage=GalaxyAtWar_Pics\obi-wan_kenobi,jedi_general-GW32.jpg
+Number=32
+Damage=20
+PlayCost=66
+Attack=14
+HitPoints=120
+Defense=22
+ForcePoints=5
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique</B></FONT><BR><FONT SIZE=4><B>Flight</B></FONT> (Ignores difficult terrain, enemy characters, low objects, and pits when moving)<BR><FONT SIZE=4><B>Melee Attack</B></FONT> (Can attack only adjacent enemies)<BR><FONT SIZE=4><B>Double Attack</B></FONT> (On his turn, this character can make 1 extra attack instead of moving)<BR><FONT SIZE=4><B>Mettle</B></FONT> (If this character spends 1 Force point to reroll, add +4 to the result)<BR><FONT SIZE=4><B>Soresu Style Mastery</B></FONT> (When hit by an attack, this character takes no damage with a save of 11)<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 5</B></FONT><BR><FONT SIZE=4><B>Surprise Move</B></FONT> (Force 1: Once per round, after initiative is determined, this character can immediately move up to his Speed before any other character activates)<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>Allies within 6 squares gain <B>Extra Attack</B> (On its turn, this character can make 1 cumulative extra attack instead of moving).
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>Allies within 6 squares gain <B>Extra Attack</B> (On its turn, this character can make 1 cumulative extra attack instead of moving).
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+UniqueIdentifier=65536
+MiniID=4194788
+FactionID=4
+Type=4
+Base=2
+AbilitiesMask1=346
+AbilitiesMask2=2199023517696
+AbilitiesMask3=71368704
+CEEligibility=8193
+CELeadership=1
+
+[Senate Commando 33]
+Name=Senate Commando
+Set=Galaxy At War
+SetDisplay=Galaxy At War
+Faction=Republic
+CharacterJPGImage=GalaxyAtWar_Pics\33.jpg
+Number=33
+Damage=30
+PlayCost=20
+Attack=9
+HitPoints=50
+Defense=18
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Double Attack</B></FONT> (On his turn, this character can make 1 extra attack instead of moving)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="Elite operatives of the Senate Guard, Senate commandos pursued fugitives to distant worlds.  They also served as Palpatine's bodyguards until the creation of his Royal Guards."
+UniqueIdentifier=0
+MiniID=4194789
+FactionID=4
+Type=1
+Base=2
+AbilitiesMask1=4
+AbilitiesMask2=4505798651019264
+CEEligibility=9007199259000835
+CELeadership=0
+
+[Aqualish Technician 34]
+Name=Aqualish Technician
+Set=Galaxy At War
+SetDisplay=Galaxy At War
+Faction=Fringe
+CharacterJPGImage=GalaxyAtWar_Pics\34.jpg
+Number=34
+Damage=10
+PlayCost=8
+Attack=3
+HitPoints=10
+Defense=13
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Melee Attack</B></FONT> (Can attack only adjacent enemies)<BR><FONT SIZE=4><B>Bloodthirsty</B></FONT> (+10 Damage on melee attacks against enemies at half Hit Points or less)<BR><FONT SIZE=4><B>It's a Trap!</B></FONT> (Enemies with Stealth within 6 squares lose Stealth)<BR><FONT SIZE=4><B>Rangefinder</B></FONT> (Replaces attacks: Adjacent allies who do not move get +4 Attack against nonadjacent enemies this round)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText=""Just bang on it with the hydrospanner!""
+UniqueIdentifier=0
+MiniID=4194790
+FactionID=16
+Type=1
+Base=2
+AbilitiesMask1=12
+AbilitiesMask2=2199023386624
+AbilitiesMask3=128
+CEEligibility=1099515887619
+CELeadership=0
+
+[Cad Bane 35]
+Name=Cad Bane
+Set=Galaxy At War
+SetDisplay=Galaxy At War
+Faction=Fringe
+CharacterJPGImage=GalaxyAtWar_Pics\cad_bane-GW35.jpg
+Number=35
+Damage=20
+PlayCost=54
+Attack=10
+HitPoints=80
+Defense=19
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique</B></FONT><BR><FONT SIZE=4><B>Flight</B></FONT> (Ignores difficult terrain, enemy characters, low objects, and pits when moving)<BR><FONT SIZE=4><B>Double Attack</B></FONT> (On his turn, this character can make 1 extra attack instead of moving)<BR><FONT SIZE=4><B>Bounty Hunter +6</B></FONT> (+6 Attack against Unique enemies)<BR><FONT SIZE=4><B>Evade</B></FONT> (When hit by an attack from a nonadjacent enemy, this character takes no damage with a save of 11)<BR><FONT SIZE=4><B>Greater Mobile Attack</B></FONT> (Can move both before and after attacking.  This character can make extra attacks even if he moves this turn, but he must make them all before resuming movement.)<BR><FONT SIZE=4><B>Stealth</B></FONT> (If this character has cover, he does not count as the nearest enemy for an attacker farther than 6 squares when choosing targets)<BR><FONT SIZE=4><B>Twin Attack</B></FONT> (Whenever this character attacks, he makes 1 extra attack against the same target)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+UniqueIdentifier=1
+MiniID=4194791
+FactionID=16
+Type=8
+Base=2
+AbilitiesMask1=807404098
+AbilitiesMask2=4505798667796480
+CEEligibility=288230376156004369
+CELeadership=0
+
+[Hondo Ohnaka 36]
+Name=Hondo Ohnaka
+Set=Galaxy At War
+SetDisplay=Galaxy At War
+Faction=Fringe
+CharacterJPGImage=GalaxyAtWar_Pics\hondo_ohnaka-GW36.jpg
+Number=36
+Damage=20
+PlayCost=35
+Attack=10
+HitPoints=70
+Defense=18
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique</B></FONT><BR><FONT SIZE=4><B>Accurate Shot</B></FONT> (Can attack an enemy with cover even if it's not the nearest enemy)<BR><FONT SIZE=4><B>Cunning Attack +20</B></FONT> (+4 Attack and +20 Damage against an enemy who has not activated this round)<BR><FONT SIZE=4><B>Deadeye</B></FONT> (On this character's turn, if he doesn't move, he gets +10 Damage)<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>Followers whose name contains Pirate gain <B>Accurate Shot</B>.
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>Followers whose name contains Pirate gain <B>Accurate Shot</B>.
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText=""Even a Sith Lord is no match for my warriors.  Put up quite a fight!  Blasters.  Cannons.  That glowy thing.  Vmm!  Vmmm!""
+UniqueIdentifier=1
+MiniID=4194792
+FactionID=16
+Type=8
+Base=2
+AbilitiesMask1=9223372036854780050
+AbilitiesMask2=4505798650626048
+CEEligibility=4194305
+CELeadership=65536
+
+[R7 Astromech Droid 37]
+Name=R7 Astromech Droid
+Set=Galaxy At War
+SetDisplay=Galaxy At War
+Faction=Fringe
+CharacterJPGImage=GalaxyAtWar_Pics\r7_astromech_droid-GW34.jpg
+Number=37
+Damage=0
+PlayCost=8
+Attack=0
+HitPoints=40
+Defense=16
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Droid</B></FONT> (Immune to critical hits; not subject to commander effects)<BR><FONT SIZE=4><B>Ion Shielding</B></FONT> (Can ignore special abilities that affect only nonliving targets)<BR><FONT SIZE=4><B>Override</B></FONT> (At the end of its turn, this character can designate 1 door that it can see as open or closed; it remains open or closed until the end of this character's next turn, or until it is defeated)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="Plo Koon and Ahsoka Tano both used prototype R7 droids during the Clone Wars."
+UniqueIdentifier=0
+MiniID=4194793
+FactionID=16
+Type=2
+Base=1
+AbilitiesMask1=18014398509482020
+AbilitiesMask2=4507997674012672
+CEEligibility=541196290
+CELeadership=0
+
+[Rodian Trader 38]
+Name=Rodian Trader
+Set=Galaxy At War
+SetDisplay=Galaxy At War
+Faction=Fringe
+CharacterJPGImage=GalaxyAtWar_Pics\38.jpg
+Number=38
+Damage=10
+PlayCost=10
+Attack=4
+HitPoints=10
+Defense=14
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Medical Supplies</B></FONT> (Replaces turn: Choose 1 adjacent ally to gain <B>Heal 10</B> [Replaces attacks: touch; remove 10 damage from a living character] for the rest of the skirmish)<BR><FONT SIZE=4><B>Munitions Supplies</B></FONT> (Replaces turn: Choose 1 adjacent ally to gain <B>Grenades 10</B> [Replaces attacks: range 6; 10 damage to target and to each character adjacent to that target; save 11] for the rest of the skirmish)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="Traders and merchants who are willing to risk their necks to travel into war zones can usually make a tidy profit during times of conflict."
+UniqueIdentifier=0
+MiniID=4194794
+FactionID=16
+Type=1
+Base=2
+AbilitiesMask1=532484
+AbilitiesMask2=4505798650757120
+CEEligibility=4259843
+CELeadership=0
+
+[Treadwell Droid 39]
+Name=Treadwell Droid
+Set=Galaxy At War
+SetDisplay=Galaxy At War
+Faction=Fringe
+CharacterJPGImage=GalaxyAtWar_Pics\39.jpg
+Number=39
+Damage=0
+PlayCost=10
+Attack=0
+HitPoints=30
+Defense=16
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Droid</B></FONT> (Immune to critical hits; not subject to commander effects)<BR><FONT SIZE=4><B>It's a Trap!</B></FONT> (Enemies with Stealth within 6 squares lose Stealth)<BR><FONT SIZE=4><B>Targeting</B></FONT> (Until the end of the round, target enemy has -4 Defense)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="This modified WED Treadwell droid is outfitted for long-range detection."
+UniqueIdentifier=0
+MiniID=4194795
+FactionID=16
+Type=2
+Base=1
+AbilitiesMask1=36
+AbilitiesMask2=4507997674012672
+AbilitiesMask3=128
+CEEligibility=541196290
+CELeadership=0
+
+[Weequay Pirate 40]
+Name=Weequay Pirate
+Set=Galaxy At War
+SetDisplay=Galaxy At War
+Faction=Fringe
+CharacterJPGImage=GalaxyAtWar_Pics\40.jpg
+Number=40
+Damage=10
+PlayCost=10
+Attack=8
+HitPoints=10
+Defense=15
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Cunning Attack +10</B></FONT> (+4 Attack and +10 Damage against an enemy who has not activated this round)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="The devious Weequay take to a life of piracy with disturbing ease."
+UniqueIdentifier=0
+MiniID=4194796
+FactionID=16
+Type=1
+Base=2
+AbilitiesMask1=4100
+AbilitiesMask2=4505798650757120
+CEEligibility=4259843
+CELeadership=0

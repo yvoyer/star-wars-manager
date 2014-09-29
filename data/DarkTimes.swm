@@ -1,0 +1,1087 @@
+[Set Data]
+TotalInSet=40
+
+[Jedi Watchman 1]
+Name=Jedi Watchman
+Set=The Dark Times
+SetDisplay=Dark Times
+Faction=Old Republic
+CharacterJPGImage=DarkTimes_Pics\01.jpg
+Number=1
+Damage=20
+PlayCost=24
+Attack=9
+HitPoints=70
+Defense=17
+ForcePoints=2
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Melee Attack</B></FONT> (Can attack only adjacent enemies)<BR><FONT SIZE=4><B>Double Attack</B></FONT> (On his turn, this character can make 1 extra attack instead of moving)<BR><FONT SIZE=4><B>Cloaked</B></FONT> (If this character has cover, he cannot be targeted by nonadjacent enemies)<BR><FONT SIZE=4><B>Lightsaber Duelist</B></FONT> (+4 Defense when attacked by an adjacent enemy with a Force rating)<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 2</B></FONT><BR><FONT SIZE=4><B>Lightsaber Block</B></FONT> (Force 1: When hit by a melee attack, this character takes no damage with a save of 11)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="Jedi Watchmen are the highest authorities on the worlds to which they are assigned and are responsible for identifying candidates for the Jedi Order."
+UniqueIdentifier=0
+MiniID=4194857
+FactionID=128
+Type=1
+Base=2
+AbilitiesMask1=274877907212
+AbilitiesMask2=2199023665152
+AbilitiesMask3=524288
+CEEligibility=73731
+CELeadership=0
+
+[Elite Sith Assassin 2]
+Name=Elite Sith Assassin
+Set=The Dark Times
+SetDisplay=Dark Times
+Faction=Sith
+CharacterJPGImage=DarkTimes_Pics\02.jpg
+Number=2
+Damage=20
+PlayCost=23
+Attack=9
+HitPoints=80
+Defense=18
+ForcePoints=1
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Melee Attack</B></FONT> (Can attack only adjacent enemies)<BR><FONT SIZE=4><B>Cunning Attack +10</B></FONT> (+4 Attack and +10 Damage against an enemy who has not activated this round)<BR><FONT SIZE=4><B>Stealth</B></FONT> (If this character has cover, he does not count as the nearest enemy for an attacker farther than 6 squares when choosing targets)<BR><FONT SIZE=4><B>Steal Force</B></FONT> (Replaces attacks: touch; 1 adjacent character with a Force rating loses 1 Force point and this character gains 1 Force point)<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 1</B></FONT><BR><FONT SIZE=4><B>Sith Rage</B></FONT> (Force 1: +10 Damage on all attacks this turn)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+UniqueIdentifier=0
+MiniID=4194858
+FactionID=256
+Type=1
+Base=2
+AbilitiesMask1=140738025230604
+AbilitiesMask2=2199023386624
+CEEligibility=73747
+CELeadership=0
+
+[ARF Trooper 3]
+Name=ARF Trooper
+Set=The Dark Times
+SetDisplay=Dark Times
+Faction=Republic
+CharacterJPGImage=DarkTimes_Pics\03.jpg
+Number=3
+Damage=20
+PlayCost=11
+Attack=8
+HitPoints=10
+Defense=15
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Order 66</B></FONT><BR><FONT SIZE=4><B>Recon</B></FONT> (Roll twice for initiative once per round, choosing either roll, if any character with Recon in the same squad has line of sight to an enemy)<BR><FONT SIZE=4><B>Squad Cover</B></FONT> (+4 Defense while 3 allies with the same name as this character are within 6 squares)<BR><FONT SIZE=4><B>Stealth</B></FONT> (If this character has cover, he does not count as the nearest enemy for an attacker farther than 6 squares when choosing targets)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="Mace Windu led Lightning Squadron, a force of ARF Troopers trained in piloting AT-RT units, in the battle to liberate Ryloth."
+UniqueIdentifier=0
+MiniID=4194859
+FactionID=4
+Type=2
+Base=2
+AbilitiesMask1=562950490324996
+AbilitiesMask2=5631698557599744
+CEEligibility=5324819
+CELeadership=0
+
+[A'Sharad Hett 4]
+Name=A'Sharad Hett
+Set=The Dark Times
+SetDisplay=Dark Times
+Faction=Republic
+CharacterJPGImage=DarkTimes_Pics\04.jpg
+Number=4
+Damage=20
+PlayCost=32
+Attack=11
+HitPoints=80
+Defense=18
+ForcePoints=2
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique</B></FONT><BR><FONT SIZE=4><B>Melee Attack</B></FONT> (Can attack only adjacent enemies)<BR><FONT SIZE=4><B>Niman Style</B></FONT> (+2 Attack and +2 Defense while this character has more than half Hit Points remaining)<BR><FONT SIZE=4><B>Twin Attack</B></FONT> (Whenever this character attacks, he makes 1 extra attack against the same target)<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 2</B></FONT><BR><FONT SIZE=4><B>Force Renewal 1</B></FONT> (This character gets 1 Force point each time he activates)<BR><FONT SIZE=4><B>Force Repulse 2</B></FONT> (Force 2, replaces attacks: 20 damage to all characters within 2 squares; push back Huge or smaller characters to 3 squares from this character)<BR><FONT SIZE=4><B>Lightsaber Deflect</B></FONT> (Force 1: When hit by a nonmelee attack, this character takes no damage with a save of 11)<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>Each follower whose name contains Tusken Raider gets +4 Attack and gains <B>Evade</B> (When hit by an attack from a nonadjacent enemy, this character takes no damage with a save of 11).
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>Each follower whose name contains Tusken Raider gets +4 Attack and gains <B>Evade</B> (When hit by an attack from a nonadjacent enemy, this character takes no damage with a save of 11).
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+UniqueIdentifier=1
+MiniID=4194860
+FactionID=4
+Type=8
+Base=2
+AbilitiesMask1=34393293082
+AbilitiesMask2=2199040032768
+AbilitiesMask3=8192
+CEEligibility=8193
+CELeadership=8590000128
+
+[501st Legion Clone Commander 5]
+Name=501st Legion Clone Commander
+Set=The Dark Times
+SetDisplay=Dark Times
+Faction=Republic
+CharacterJPGImage=DarkTimes_Pics\05.jpg
+Number=5
+Damage=10
+PlayCost=15
+Attack=10
+HitPoints=50
+Defense=16
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Order 66</B></FONT><BR><FONT SIZE=4><B>Trooper</B></FONT> (Counts as a character named 501st Clone Trooper)<BR><FONT SIZE=4><B>Twin Attack</B></FONT> (Whenever this character attacks, he makes 1 extra attack against the same target)<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>Followers whose name contains 501st get +10 Damage against enemies with Force ratings.
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>Followers whose name contains 501st get +10 Damage against enemies with Force ratings.
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="The 501st Legion was distinguished by exceptional discipline and coordination."
+UniqueIdentifier=0
+MiniID=4194861
+FactionID=4
+Type=2
+Base=2
+AbilitiesMask1=32788
+AbilitiesMask2=5631698574245888
+CEEligibility=5259267
+CELeadership=65536
+
+[501st Legion Clone Trooper 6]
+Name=501st Legion Clone Trooper
+Set=The Dark Times
+SetDisplay=Dark Times
+Faction=Republic
+CharacterJPGImage=DarkTimes_Pics\06.jpg
+Number=6
+Damage=20
+PlayCost=8
+Attack=5
+HitPoints=10
+Defense=14
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Order 66</B></FONT><BR><FONT SIZE=4><B>Trooper</B></FONT> (Counts as a character named 501st Clone Trooper)<BR><FONT SIZE=4><B>Squad Assault</B></FONT> (+4 Attack while 3 allies with the same name as this character are within 6 squares)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="Troopers of the 501st Legion received special training at a secret base on Coruscant, overseen by Chancellor Palpatine's command staff."
+UniqueIdentifier=0
+MiniID=4194862
+FactionID=4
+Type=1
+Base=2
+AbilitiesMask1=32772
+AbilitiesMask2=5631698557599744
+CEEligibility=5324803
+CELeadership=0
+
+[K'Kruhk, Jedi Master 7]
+Name=K'Kruhk, Jedi Master
+Set=The Dark Times
+SetDisplay=Dark Times
+Faction=Republic
+CharacterJPGImage=DarkTimes_Pics\07.jpg
+Number=7
+Damage=20
+PlayCost=33
+Attack=10
+HitPoints=100
+Defense=18
+ForcePoints=2
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique</B></FONT><BR><FONT SIZE=4><B>Melee Attack</B></FONT> (Can attack only adjacent enemies)<BR><FONT SIZE=4><B>Double Attack</B></FONT> (On his turn, this character can make 1 extra attack instead of moving)<BR><FONT SIZE=4><B>Impulsive Advance</B></FONT> (Whenever a Unique allied character is defeated, this character can immediately move 3 squares)<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 2</B></FONT><BR><FONT SIZE=4><B>Force Renewal 1</B></FONT> (This character gets 1 Force point each time he activates)<BR><FONT SIZE=4><B>Force Leap</B></FONT> (Force 1: This turn, this character can move through enemies without provoking attacks of opportunity)<BR><FONT SIZE=4><B>Indiscriminate Rage</B></FONT> (Force 1: +2 Attack and +10 Damage until the end of this character's turn.  At the end of that turn, make a save of 11; if the save fails, this character gains <B>Savage</B> until the end of the skirmish.)<BR><FONT SIZE=4><B>Lightsaber Deflect</B></FONT> (Force 1: When hit by a nonmelee attack, this character takes no damage with a save of 11)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+UniqueIdentifier=1
+MiniID=4194863
+FactionID=4
+Type=8
+Base=2
+AbilitiesMask1=38688522506
+AbilitiesMask2=2336462602240
+CEEligibility=73729
+CELeadership=0
+
+[Merumeru 8]
+Name=Merumeru
+Set=The Dark Times
+SetDisplay=Dark Times
+Faction=Republic
+CharacterJPGImage=DarkTimes_Pics\08.jpg
+Number=8
+Damage=20
+PlayCost=38
+Attack=8
+HitPoints=140
+Defense=18
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique</B></FONT><BR><FONT SIZE=4><B>Wookiee</B></FONT><BR><FONT SIZE=4><B>Double Attack</B></FONT> (On his turn, this character can make 1 extra attack instead of moving)<BR><FONT SIZE=4><B>Close-Quarters Fighting</B></FONT> (+4 Attack against adjacent enemies)<BR><FONT SIZE=4><B>Demolish</B></FONT> (Ignores Damage Reduction of adjacent targets)<BR><FONT SIZE=4><B>Mighty Swing</B></FONT> (On his turn, if this character doesn't move, he gets +10 Damage against adjacent enemies)<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>Your squad may include Wookiee characters of any faction.  Allied Wookiee characters gain <B>Close-Quarters Fighting</B>, <B>Demolish</B>, and <B>Mighty Swing</B>.
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>Your squad may include Wookiee characters of any faction.  Allied Wookiee characters gain <B>Close-Quarters Fighting</B>, <B>Demolish</B>, and <B>Mighty Swing</B>.
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="Under the leadership of Elder Merumeru, Wookiee warriors defended their homeworld against Separatist attacks."
+UniqueIdentifier=1
+MiniID=4194864
+FactionID=4
+Type=4
+Base=2
+AbilitiesMask1=4611686018561605650
+AbilitiesMask2=580966550954311680
+CEEligibility=4194433
+CELeadership=5
+
+[EG-05 Jedi Hunter Droid 9]
+Name=EG-05 Jedi Hunter Droid
+Set=The Dark Times
+SetDisplay=Dark Times
+Faction=Separatists
+CharacterJPGImage=DarkTimes_Pics\09.jpg
+Number=9
+Damage=20
+PlayCost=27
+Attack=10
+HitPoints=80
+Defense=19
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Droid</B></FONT> (Immune to critical hits; not subject to commander effects)<BR><FONT SIZE=4><B>Melee Attack</B></FONT> (Can attack only adjacent enemies)<BR><FONT SIZE=4><B>Jedi Hunter</B></FONT> (+4 Attack and +10 Damage against enemies with Force ratings)<BR><FONT SIZE=4><B>Lightsaber Resistance</B></FONT> (+2 Defense when attacked by an adjacent enemy with a Force rating)<BR><FONT SIZE=4><B>Twin Attack</B></FONT> (Whenever this character attacks, it makes 1 extra attack against the same target)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="The deadly EG-05 droid boasts incredible speed and dexterity, and it can wield two lightsabers with perfect form."
+UniqueIdentifier=0
+MiniID=4194865
+FactionID=8
+Type=2
+Base=2
+AbilitiesMask1=8388652
+AbilitiesMask2=4398063419392
+CEEligibility=541196290
+CELeadership=0
+
+[Chewbacca, Fearless Scout 10]
+Name=Chewbacca, Fearless Scout
+Set=The Dark Times
+SetDisplay=Dark Times
+Faction=Rebel
+CharacterJPGImage=DarkTimes_Pics\10.jpg
+Number=10
+Damage=20
+PlayCost=23
+Attack=9
+HitPoints=110
+Defense=17
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique</B></FONT><BR><FONT SIZE=4><B>Wookiee</B></FONT><BR><FONT SIZE=4><B>Artillerist</B></FONT> (+4 Attack against enemies with Flight)<BR><FONT SIZE=4><B>Breath Mask</B></FONT> (Not affected by abilities or Force powers whose name contains Poison)<BR><FONT SIZE=4><B>Stable Footing</B></FONT> (Not slowed by difficult terrain)<BR><FONT SIZE=4><B>Stealth</B></FONT> (If this character has cover, he does not count as the nearest enemy for an attacker farther than 6 squares when choosing targets)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="Chewbacca donned breathing gear to hunt and remove mynocks that had attached themselves to the Millennium Falcon."
+UniqueIdentifier=256
+MiniID=4194866
+FactionID=1
+Type=8
+Base=2
+AbilitiesMask1=671088642
+AbilitiesMask2=4505798650757120
+CEEligibility=4259985
+CELeadership=0
+
+[Dass Jennir 11]
+Name=Dass Jennir
+Set=The Dark Times
+SetDisplay=Dark Times
+Faction=Rebel
+CharacterJPGImage=DarkTimes_Pics\11.jpg
+Number=11
+Damage=10
+PlayCost=32
+Attack=9
+HitPoints=80
+Defense=18
+ForcePoints=2
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique</B></FONT><BR><FONT SIZE=4><B>Double Attack</B></FONT> (On his turn, this character can make 1 extra attack instead of moving)<BR><FONT SIZE=4><B>Affinity</B></FONT> (May be in a Republic squad)<BR><FONT SIZE=4><B>Lightsaber</B></FONT> (+10 Damage against adjacent enemies)<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 2</B></FONT><BR><FONT SIZE=4><B>Force Renewal 1</B></FONT> (This character gets 1 Force point each time he activates)<BR><FONT SIZE=4><B>Dispassionate Killer</B></FONT> (Force 1: +4 Attack and +20 Damage until the end of this character's turn.  At the end of that turn, make a save of 11.  If the save fails, this character is immediately defeated.)<BR><FONT SIZE=4><B>Force Leap</B></FONT> (Force 1: This turn, this character can move through enemies without provoking attacks of opportunity)<BR><FONT SIZE=4><B>Jedi Mind Trick</B></FONT> (Force 1, usable only on this character's turn: range 2; target living enemy is considered activated this round and cannot make attacks of opportunity this turn; save 11)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+UniqueIdentifier=1
+MiniID=4194867
+FactionID=1
+Type=8
+Base=2
+AbilitiesMask1=4328521986
+AbilitiesMask2=4541257901015296
+CEEligibility=73729
+CELeadership=0
+
+[Ferus Olin 12]
+Name=Ferus Olin
+Set=The Dark Times
+SetDisplay=Dark Times
+Faction=Rebel
+CharacterJPGImage=DarkTimes_Pics\12.jpg
+Number=12
+Damage=20
+PlayCost=27
+Attack=11
+HitPoints=100
+Defense=19
+ForcePoints=2
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique</B></FONT><BR><FONT SIZE=4><B>Melee Attack</B></FONT> (Can attack only adjacent enemies)<BR><FONT SIZE=4><B>Double Attack</B></FONT> (On his turn, this character can make 1 extra attack instead of moving)<BR><FONT SIZE=4><B>Affinity</B></FONT> (May be in a Republic squad)<BR><FONT SIZE=4><B>Jedi Bodyguard</B></FONT> (If an adjacent ally with a Force rating would take damage from an attack, this character can take the damage instead)<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 2</B></FONT><BR><FONT SIZE=4><B>Force Renewal 1</B></FONT> (This character gets 1 Force point each time he activates)<BR><FONT SIZE=4><B>Lightsaber Block</B></FONT> (Force 1: When hit by a melee attack, this character takes no damage with a save of 11)<BR><FONT SIZE=4><B>Dark Temptation</B></FONT> (Force 1: +4 Attack and +20 Damage until the end of this character's turn.  At the end of that turn, make a save of 11; if the save fails, this character joins the opponent's squad until the end of the skirmish.)<BR><FONT SIZE=4><B>Lightsaber Precision</B></FONT> (Force 1: This character gets +10 Damage on his next attack)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText=""If the Jedi ever need me, I will be there.""
+UniqueIdentifier=1
+MiniID=4194868
+FactionID=1
+Type=8
+Base=2
+AbilitiesMask1=412350546186
+AbilitiesMask2=2199023649024
+CEEligibility=73729
+CELeadership=0
+
+[Jax Pavan 13]
+Name=Jax Pavan
+Set=The Dark Times
+SetDisplay=Dark Times
+Faction=Rebel
+CharacterJPGImage=DarkTimes_Pics\13.jpg
+Number=13
+Damage=10
+PlayCost=16
+Attack=10
+HitPoints=70
+Defense=17
+ForcePoints=2
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique</B></FONT><BR><FONT SIZE=4><B>Affinity</B></FONT> (May be in a Republic squad)<BR><FONT SIZE=4><B>Lightsaber</B></FONT> (+10 Damage against adjacent enemies)<BR><FONT SIZE=4><B>Mettle</B></FONT> (If this character spends 1 Force point to reroll, add +4 to the result)<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 2</B></FONT><BR><FONT SIZE=4><B>Lightsaber Deflect</B></FONT> (Force 1: When hit by a nonmelee attack, this character takes no damage with a save of 11)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="As a private investigator on the mean streets of Coruscant, the refugee Jedi Jax Pavan continues to fight for the downtrodden and the desperate."
+UniqueIdentifier=1
+MiniID=4194869
+FactionID=1
+Type=8
+Base=2
+AbilitiesMask1=34359738626
+AbilitiesMask2=4506073528664320
+AbilitiesMask3=65536
+CEEligibility=73729
+CELeadership=0
+
+[Kota's Elite Militia 14]
+Name=Kota's Elite Militia
+Set=The Dark Times
+SetDisplay=Dark Times
+Faction=Rebel
+CharacterJPGImage=DarkTimes_Pics\14.jpg
+Number=14
+Damage=20
+PlayCost=14
+Attack=9
+HitPoints=40
+Defense=17
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Affinity</B></FONT> (May be in a Republic squad that does not contain any characters with Order 66)<BR><FONT SIZE=4><B>Grenades 10</B></FONT> (Replaces attacks: range 6; 10 damage to target and to each character adjacent to that target; save 11)<BR><FONT SIZE=4><B>Independent Outfit</B></FONT> (Also counts as a Fringe character for the purpose of commander effects)<BR><FONT SIZE=4><B>Rapport</B></FONT> (Costs 1 less when in the same squad as a character named Master Kota)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="Elite soldiers of Kota's militia wield computer-controlled lanvaroks that fire a spray of metal discs at deadly velocities."
+UniqueIdentifier=0
+MiniID=4194870
+FactionID=1
+Type=2
+Base=2
+AbilitiesMask1=524292
+AbilitiesMask2=4505798650757380
+CEEligibility=4259875
+CELeadership=0
+
+[Kota's Militia 15]
+Name=Kota's Militia
+Set=The Dark Times
+SetDisplay=Dark Times
+Faction=Rebel
+CharacterJPGImage=DarkTimes_Pics\15.jpg
+Number=15
+Damage=10
+PlayCost=9
+Attack=6
+HitPoints=20
+Defense=14
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Affinity</B></FONT> (May be in a Republic squad that does not contain any characters with Order 66)<BR><FONT SIZE=4><B>Grenades 10</B></FONT> (Replaces attacks: range 6; 10 damage to target and to each character adjacent to that target; save 11)<BR><FONT SIZE=4><B>Independent Outfit</B></FONT> (Also counts as a Fringe character for the purpose of commander effects)<BR><FONT SIZE=4><B>Rapport</B></FONT> (Costs 1 less when in the same squad as a character named Master Kota)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="As a Republic general during the Clone Wars, Master Kota did not trust the clone troopers, instead forming his own unit of hardened veterans."
+UniqueIdentifier=0
+MiniID=4194871
+FactionID=1
+Type=1
+Base=2
+AbilitiesMask1=524292
+AbilitiesMask2=4505798650757380
+CEEligibility=4259875
+CELeadership=0
+
+[Emperor's Hand 16]
+Name=Emperor's Hand
+Set=The Dark Times
+SetDisplay=Dark Times
+Faction=Imperial
+CharacterJPGImage=DarkTimes_Pics\16.jpg
+Number=16
+Damage=20
+PlayCost=20
+Attack=9
+HitPoints=80
+Defense=20
+ForcePoints=1
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Melee Attack</B></FONT> (Can attack only adjacent enemies)<BR><FONT SIZE=4><B>Hand of the Emperor</B></FONT> (This character can spend his own Force points once per turn and spend Force points from a character whose name contains Emperor Palpatine once per turn)<BR><FONT SIZE=4><B>Jedi Hunter</B></FONT> (+4 Attack and +10 Damage against enemies with Force ratings)<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 1</B></FONT><BR><FONT SIZE=4><B>Lightsaber Block</B></FONT> (Force 1: When hit by a melee attack, this character takes no damage with a save of 11)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="These specialized assassins, in constant psychic contact with Emperor Palpatine, carry out his orders throughout the galaxy."
+UniqueIdentifier=0
+MiniID=4194872
+FactionID=2
+Type=2
+Base=2
+AbilitiesMask1=274886295820
+AbilitiesMask2=2199023386624
+CEEligibility=73731
+CELeadership=0
+
+[501st Legion Stormtrooper 17]
+Name=501st Legion Stormtrooper
+Set=The Dark Times
+SetDisplay=Dark Times
+Faction=Imperial
+CharacterJPGImage=DarkTimes_Pics\17.jpg
+Number=17
+Damage=20
+PlayCost=11
+Attack=8
+HitPoints=20
+Defense=16
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Rapport</B></FONT> (Costs 1 less when in the same squad as a character whose name contains Vader)<BR><FONT SIZE=4><B>Squad Assault</B></FONT> (+4 Attack while 3 allies with the same name as this character are within 6 squares)<BR><FONT SIZE=4><B>Squad Firepower</B></FONT> (+10 Damage while 3 allies with the same name as this character are within 6 squares)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="After Anakin Skywalker turned to the dark side, his 501st Legion clone troopers remained loyal to him.  For their brutality and efficiency, they became known as "Vader's Fist.""
+UniqueIdentifier=0
+MiniID=4194873
+FactionID=2
+Type=1
+Base=2
+AbilitiesMask1=4
+AbilitiesMask2=5631698557599748
+CEEligibility=4276227
+CELeadership=0
+
+[Imperial Engineer 18]
+Name=Imperial Engineer
+Set=The Dark Times
+SetDisplay=Dark Times
+Faction=Imperial
+CharacterJPGImage=DarkTimes_Pics\18.jpg
+Number=18
+Damage=10
+PlayCost=9
+Attack=3
+HitPoints=10
+Defense=14
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Blast Cannon</B></FONT> (+10 Damage against targets within 6 squares)<BR><FONT SIZE=4><B>Satchel Charge</B></FONT> (Replaces attacks: Designate 1 adjacent door as open; it remains open for the rest of the skirmish and cannot be closed)<BR><FONT SIZE=4><B>Splash 10</B></FONT> (If this character's attack hits, all characters adjacent to the target take 10 damage; save 11.  If the attack misses, the target and all adjacent characters take 10 damage; save 11.)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText=""If it moves, shoot it.  If it doesn't, blow it up.""
+UniqueIdentifier=0
+MiniID=4194874
+FactionID=2
+Type=1
+Base=2
+AbilitiesMask1=4
+AbilitiesMask2=4505798650757128
+AbilitiesMask3=2048
+CEEligibility=4259843
+CELeadership=0
+
+[Imperial Inquisitor 19]
+Name=Imperial Inquisitor
+Set=The Dark Times
+SetDisplay=Dark Times
+Faction=Imperial
+CharacterJPGImage=DarkTimes_Pics\19.jpg
+Number=19
+Damage=0
+PlayCost=22
+Attack=0
+HitPoints=70
+Defense=17
+ForcePoints=3
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Turn to the Dark Side</B></FONT> (Replaces attacks: range 6; 20 damage to 1 target with a Force rating.  The target can choose to negate this damage and instead make a save of 11; if the save fails, the target joins this character's squad until the end of the skirmish.)<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 3</B></FONT><BR><FONT SIZE=4><B>Force Push 1</B></FONT> (Force 1, replaces attacks: range 6; 10 damage; push back target 1 square if Huge or smaller)<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>Allies with a Force rating within 6 squares get +4 Attack against enemies without a Force rating.
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>Allies with a Force rating within 6 squares get +4 Attack against enemies without a Force rating.
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="Imperial inquisitors force Jedi to embrace the dark side or die."
+UniqueIdentifier=0
+MiniID=4194875
+FactionID=2
+Type=2
+Base=2
+AbilitiesMask1=276
+AbilitiesMask2=1157427303257473024
+CEEligibility=8195
+CELeadership=8193
+
+[Imperial Sovereign Protector 20]
+Name=Imperial Sovereign Protector
+Set=The Dark Times
+SetDisplay=Dark Times
+Faction=Imperial
+CharacterJPGImage=DarkTimes_Pics\20.jpg
+Number=20
+Damage=20
+PlayCost=25
+Attack=12
+HitPoints=100
+Defense=20
+ForcePoints=1
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Melee Attack</B></FONT> (Can attack only adjacent enemies)<BR><FONT SIZE=4><B>Double Attack</B></FONT> (On his turn, this character can make 1 extra attack instead of moving)<BR><FONT SIZE=4><B>Palpatine's Bodyguard</B></FONT> (If a character whose name contains Emperor Palpatine is an adjacent ally and would take damage from an attack, this character can take the damage instead)<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 1</B></FONT><BR><FONT SIZE=4><B>Force Sense</B></FONT> (Force 1, usable only on this character's turn: Enemies lose Stealth for the rest of the round)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="These exceptionally brutal warriors, trained in dark-side Force techniques, commanded the Imperial Royal Guard."
+UniqueIdentifier=0
+MiniID=4194876
+FactionID=2
+Type=2
+Base=2
+AbilitiesMask1=131340
+AbilitiesMask2=2305845208237342720
+CEEligibility=73731
+CELeadership=0
+
+[Kir Kanos 21]
+Name=Kir Kanos
+Set=The Dark Times
+SetDisplay=Dark Times
+Faction=Imperial
+CharacterJPGImage=DarkTimes_Pics\21.jpg
+Number=21
+Damage=20
+PlayCost=34
+Attack=13
+HitPoints=110
+Defense=21
+ForcePoints=2
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique</B></FONT><BR><FONT SIZE=4><B>Melee Attack</B></FONT> (Can attack only adjacent enemies)<BR><FONT SIZE=4><B>Palpatine's Bodyguard</B></FONT> (If a character whose name contains Emperor Palpatine is an adjacent ally and would take damage from an attack, this character can take the damage instead)<BR><FONT SIZE=4><B>Loner</B></FONT> (+4 Attack if no allies are within 6 squares)<BR><FONT SIZE=4><B>Twin Attack</B></FONT> (Whenever this character attacks, he makes 1 extra attack against the same target)<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 2</B></FONT><BR><FONT SIZE=4><B>Force Sense</B></FONT> (Force 1, usable only on this character's turn: Enemies lose Stealth for the rest of the round)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+UniqueIdentifier=1
+MiniID=4194877
+FactionID=2
+Type=8
+Base=2
+AbilitiesMask1=133386
+AbilitiesMask2=2305845208253857792
+CEEligibility=73729
+CELeadership=0
+
+[Major Maximilian Veers 22]
+Name=Major Maximilian Veers
+Set=The Dark Times
+SetDisplay=Dark Times
+Faction=Imperial
+CharacterJPGImage=DarkTimes_Pics\22.jpg
+Number=22
+Damage=10
+PlayCost=12
+Attack=5
+HitPoints=50
+Defense=15
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique</B></FONT><BR><FONT SIZE=4><B>Crack Gunner +10</B></FONT> (Can combine fire with adjacent allies who have Mounted Weapon, granting +10 Damage.  The attack cannot be prevented or redirected.)<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>Whenever a non-Unique follower within 6 squares is missed by an attack, it can immediately move 2 squares.
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>Whenever a non-Unique follower within 6 squares is missed by an attack, it can immediately move 2 squares.
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="Veers' quick thinking on Culrron III saved a legion of stormtroopers and rewarded him with a promotion to major."
+UniqueIdentifier=1073741824
+MiniID=4194878
+FactionID=2
+Type=4
+Base=2
+AbilitiesMask1=36028797018963986
+AbilitiesMask2=4505798650626048
+CEEligibility=4194305
+CELeadership=65538
+
+[Bomo Greenbark 23]
+Name=Bomo Greenbark
+Set=The Dark Times
+SetDisplay=Dark Times
+Faction=Fringe
+CharacterJPGImage=DarkTimes_Pics\23.jpg
+Number=23
+Damage=10
+PlayCost=18
+Attack=6
+HitPoints=50
+Defense=17
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique</B></FONT><BR><FONT SIZE=4><B>Impulsive Reprisal</B></FONT> (If a Unique allied character is defeated, for the remainder of the skirmish this character has +4 Attack and +10 Damage)<BR><FONT SIZE=4><B>Stealth</B></FONT> (If this character has cover, he does not count as the nearest enemy for an attacker farther than 6 squares when choosing targets)<BR><FONT SIZE=4><B>Twin Attack</B></FONT> (Whenever this character attacks, he makes 1 extra attack against the same target)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="A Nosaurian originally in the service of the Separatists, Bomo Greenbark later stood with the Jedi Master Dass Jennir against Imperial stormtroopers at the Battle of Half-Axe Pass."
+UniqueIdentifier=1
+MiniID=4194879
+FactionID=16
+Type=8
+Base=1
+AbilitiesMask1=536870914
+AbilitiesMask2=4505936106487808
+CEEligibility=4259857
+CELeadership=0
+
+[Bossk, Trandoshan Hunter 24]
+Name=Bossk, Trandoshan Hunter
+Set=The Dark Times
+SetDisplay=Dark Times
+Faction=Fringe
+CharacterJPGImage=DarkTimes_Pics\24.jpg
+Number=24
+Damage=20
+PlayCost=29
+Attack=10
+HitPoints=110
+Defense=18
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique</B></FONT><BR><FONT SIZE=4><B>Bounty Hunter +4</B></FONT> (+4 Attack against Unique enemies)<BR><FONT SIZE=4><B>Double Claw Attack</B></FONT> (On his turn, this character can make 1 extra attack instead of moving; both attacks must be against adjacent enemies)<BR><FONT SIZE=4><B>Regeneration 10</B></FONT> (If this character doesn't move on his turn, remove 10 damage from him at the end of that turn)<BR><FONT SIZE=4><B>Stun Mortar</B></FONT> (Replaces attacks: sight; living target and each living character adjacent to that target are considered activated this round; save 11 negates.  Huge and larger characters ignore this special ability.)<BR><FONT SIZE=4><B>Rend +20</B></FONT> (If both of his attacks hit the same adjacent enemy, this character's second attack gets +20 Damage)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+UniqueIdentifier=2097152
+MiniID=4194880
+FactionID=16
+Type=4
+Base=2
+AbilitiesMask1=8706
+AbilitiesMask2=4514594743779328
+CEEligibility=4292609
+CELeadership=0
+
+[Boushh, Ubese Hunter 25]
+Name=Boushh, Ubese Hunter
+Set=The Dark Times
+SetDisplay=Dark Times
+Faction=Fringe
+CharacterJPGImage=DarkTimes_Pics\25.jpg
+Number=25
+Damage=20
+PlayCost=26
+Attack=10
+HitPoints=80
+Defense=18
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique</B></FONT><BR><FONT SIZE=4><B>Bounty Hunter +4</B></FONT> (+4 Attack against Unique enemies)<BR><FONT SIZE=4><B>Grenades 40</B></FONT> (Replaces attacks: range 6; 40 damage to target and to each character adjacent to that target; save 11)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="A freelance bounty hunter, Boushh preferred heavy explosives and had a reputation for near suicidal violence."
+UniqueIdentifier=1
+MiniID=4194881
+FactionID=16
+Type=4
+Base=2
+AbilitiesMask1=524802
+AbilitiesMask2=4505798650757120
+CEEligibility=4292609
+CELeadership=0
+
+[Dengar, Hired Killer 26]
+Name=Dengar, Hired Killer
+Set=The Dark Times
+SetDisplay=Dark Times
+Faction=Fringe
+CharacterJPGImage=DarkTimes_Pics\26.jpg
+Number=26
+Damage=20
+PlayCost=31
+Attack=12
+HitPoints=90
+Defense=19
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique</B></FONT><BR><FONT SIZE=4><B>Bounty Hunter +4</B></FONT> (+4 Attack against Unique enemies)<BR><FONT SIZE=4><B>Final Shot</B></FONT> (On this character's turn, if he doesn't move, he gets +30 Damage against enemies with 50 or fewer Hit Points remaining)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="After a devastating swoop-race crash, Dengar was rebuilt as a remorseless killer by the Empire.  He became a bounty hunter to collect the reward on Han Solo, whom he blamed for his disfigurement."
+UniqueIdentifier=16777216
+MiniID=4194882
+FactionID=16
+Type=4
+Base=2
+AbilitiesMask1=514
+AbilitiesMask2=4505798650757120
+CEEligibility=4292609
+CELeadership=0
+
+[4-LOM, Droid Mercenary 27]
+Name=4-LOM, Droid Mercenary
+Set=The Dark Times
+SetDisplay=Dark Times
+Faction=Fringe
+CharacterJPGImage=DarkTimes_Pics\27.jpg
+Number=27
+Damage=30
+PlayCost=35
+Attack=10
+HitPoints=110
+Defense=20
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique</B></FONT><BR><FONT SIZE=4><B>Droid</B></FONT> (Immune to critical hits; not subject to commander effects)<BR><FONT SIZE=4><B>Bounty Hunter +4</B></FONT> (+4 Attack against Unique enemies)<BR><FONT SIZE=4><B>Careful Shot +4</B></FONT> (On this character's turn, if it doesn't move, it gets +4 Attack)<BR><FONT SIZE=4><B>Rapport</B></FONT> (A character whose name contains Zuckuss costs 1 less when in the same squad as this character)<BR><FONT SIZE=4><B>Stun Gas</B></FONT> (Replaces attacks: adjacent living targets are considered activated this round and cannot make attacks of opportunity this turn; save 11 negates.  Huge and larger characters ignore this special ability.)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="The former protocol droid 4-LOM worked for Jabba the Hutt alongside the Gand bounty hunter Zuckuss."
+UniqueIdentifier=8388608
+MiniID=4194883
+FactionID=16
+Type=4
+Base=2
+AbilitiesMask1=4194850
+AbilitiesMask2=4507997674012676
+CEEligibility=541229056
+CELeadership=0
+
+[Gungan Bounty Hunter 28]
+Name=Gungan Bounty Hunter
+Set=The Dark Times
+SetDisplay=Dark Times
+Faction=Fringe
+CharacterJPGImage=DarkTimes_Pics\28.jpg
+Number=28
+Damage=10
+PlayCost=9
+Attack=6
+HitPoints=40
+Defense=16
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Bounty Hunter +4</B></FONT> (+4 Attack against Unique enemies)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="Gungans' strong warrior tradition makes them prized as mercenaries.  Those with the drive to travel the galaxy sometimes become independent operatives."
+UniqueIdentifier=0
+MiniID=4194884
+FactionID=16
+Type=2
+Base=2
+AbilitiesMask1=516
+AbilitiesMask2=4505798650757120
+CEEligibility=17184161795
+CELeadership=0
+
+[Human Engineer 29]
+Name=Human Engineer
+Set=The Dark Times
+SetDisplay=Dark Times
+Faction=Fringe
+CharacterJPGImage=DarkTimes_Pics\29.jpg
+Number=29
+Damage=10
+PlayCost=13
+Attack=2
+HitPoints=10
+Defense=14
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Industrial Repair 20</B></FONT> (Replaces attacks: touch; remove 20 damage from 1 character with Mounted Weapon)<BR><FONT SIZE=4><B>Repair 10</B></FONT> (Replaces attacks: touch; remove 10 damage from 1 Droid character)<BR><FONT SIZE=4><B>Satchel Charge</B></FONT> (Replaces attacks: Designate 1 adjacent door as open; it remains open for the rest of the skirmish and cannot be closed)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="Those with technical skills were called into service on both sides of the Clone Wars; many were forced to abandon their old jobs to work for the military."
+UniqueIdentifier=0
+MiniID=4194885
+FactionID=16
+Type=1
+Base=2
+AbilitiesMask1=4
+AbilitiesMask2=13513032265236488
+CEEligibility=4259843
+CELeadership=0
+
+[IG-88, Assassin Droid 30]
+Name=IG-88, Assassin Droid
+Set=The Dark Times
+SetDisplay=Dark Times
+Faction=Fringe
+CharacterJPGImage=DarkTimes_Pics\30.jpg
+Number=30
+Damage=20
+PlayCost=43
+Attack=9
+HitPoints=120
+Defense=20
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique</B></FONT><BR><FONT SIZE=4><B>Droid</B></FONT> (Immune to critical hits; not subject to commander effects)<BR><FONT SIZE=4><B>Double Attack</B></FONT> (On his turn, this character can make 1 extra attack instead of moving)<BR><FONT SIZE=4><B>Bounty Hunter +6</B></FONT> (+6 Attack against Unique enemies)<BR><FONT SIZE=4><B>Opportunist</B></FONT> (+4 Attack and +10 Damage against an enemy who has activated this round)<BR><FONT SIZE=4><B>Pulse Cannon 40</B></FONT> (Replaces attacks: sight; 40 damage to target and to each character adjacent to that target; on a save of 11, reduce the damage to 10)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="After achieving sentience, the war droid IG-88 immediately slaughtered his creators and embarked on a program of galactic mayhem."
+UniqueIdentifier=4194304
+MiniID=4194886
+FactionID=16
+Type=4
+Base=2
+AbilitiesMask1=1152921504606847522
+AbilitiesMask2=4507997674274816
+CEEligibility=541229056
+CELeadership=0
+
+[Rodian Brute 31]
+Name=Rodian Brute
+Set=The Dark Times
+SetDisplay=Dark Times
+Faction=Fringe
+CharacterJPGImage=DarkTimes_Pics\31.jpg
+Number=31
+Damage=10
+PlayCost=3
+Attack=4
+HitPoints=10
+Defense=14
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Melee Attack</B></FONT> (Can attack only adjacent enemies)<BR><FONT SIZE=4><B>Stable Footing</B></FONT> (Not slowed by difficult terrain)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="A long history of hunting turned the Rodians into ferocious combatants who warred against themselves as much as they did others."
+UniqueIdentifier=0
+MiniID=4194887
+FactionID=16
+Type=1
+Base=2
+AbilitiesMask1=12
+AbilitiesMask2=2199023386624
+CEEligibility=1099515887619
+CELeadership=0
+
+[Rodian Raider 32]
+Name=Rodian Raider
+Set=The Dark Times
+SetDisplay=Dark Times
+Faction=Fringe
+CharacterJPGImage=DarkTimes_Pics\32.jpg
+Number=32
+Damage=10
+PlayCost=10
+Attack=5
+HitPoints=20
+Defense=14
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Triple Attack</B></FONT> (On his turn, this character can make 2 extra attacks instead of moving)<BR><FONT SIZE=4><B>Stable Footing</B></FONT> (Not slowed by difficult terrain)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="On the junk world of Raxus Prime, Rodian scavengers competed with transplanted Jawas and Imperial shipbuilders for valuable salvage."
+UniqueIdentifier=0
+MiniID=4194888
+FactionID=16
+Type=1
+Base=2
+AbilitiesMask1=4
+AbilitiesMask2=4505798651281408
+CEEligibility=4259843
+CELeadership=0
+
+[Talz Chieftain 33]
+Name=Talz Chieftain
+Set=The Dark Times
+SetDisplay=Dark Times
+Faction=Fringe
+CharacterJPGImage=DarkTimes_Pics\33.jpg
+Number=33
+Damage=10
+PlayCost=16
+Attack=9
+HitPoints=60
+Defense=17
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Melee Attack</B></FONT> (Can attack only adjacent enemies)<BR><FONT SIZE=4><B>Double Attack</B></FONT> (On his turn, this character can make 1 extra attack instead of moving)<BR><FONT SIZE=4><B>Advantageous Attack</B></FONT> (+10 Damage against an enemy who has not activated this round)<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>Non-Unique Fringe followers within 6 squares get +4 Attack and +10 Damage against non-Unique enemies.
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>Non-Unique Fringe followers within 6 squares get +4 Attack and +10 Damage against non-Unique enemies.
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="Talz clan chiefs led devastating attacks against both Separatist and Republic forces that intruded on their isolated world."
+UniqueIdentifier=0
+MiniID=4194889
+FactionID=16
+Type=2
+Base=2
+AbilitiesMask1=28
+AbilitiesMask2=2199291953152
+CEEligibility=1099515822083
+CELeadership=65538
+
+[Talz Warrior 34]
+Name=Talz Warrior
+Set=The Dark Times
+SetDisplay=Dark Times
+Faction=Fringe
+CharacterJPGImage=DarkTimes_Pics\34.jpg
+Number=34
+Damage=10
+PlayCost=7
+Attack=6
+HitPoints=20
+Defense=14
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Melee Attack</B></FONT> (Can attack only adjacent enemies)<BR><FONT SIZE=4><B>Double Attack</B></FONT> (On his turn, this character can make 1 extra attack instead of moving)<BR><FONT SIZE=4><B>Advantageous Attack</B></FONT> (+10 Damage against an enemy who has not activated this round)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="The hulking, primitive Talz are admirably adapted to harsh conditions on the icy world of Orto Plutonia."
+UniqueIdentifier=0
+MiniID=4194890
+FactionID=16
+Type=1
+Base=2
+AbilitiesMask1=12
+AbilitiesMask2=2199292084224
+CEEligibility=1099515887747
+CELeadership=0
+
+[Togorian Soldier 35]
+Name=Togorian Soldier
+Set=The Dark Times
+SetDisplay=Dark Times
+Faction=Fringe
+CharacterJPGImage=DarkTimes_Pics\35.jpg
+Number=35
+Damage=10
+PlayCost=12
+Attack=5
+HitPoints=30
+Defense=15
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Bravado</B></FONT> (+4 Attack and +20 Damage against an adjacent enemy with a higher point cost)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="These massive carnivores live for battle, and Togorian pirate fleets are the scourge of the galaxy."
+UniqueIdentifier=0
+MiniID=4194891
+FactionID=16
+Type=2
+Base=4
+AbilitiesMask1=4
+AbilitiesMask2=4505798650757120
+CEEligibility=4260099
+CELeadership=0
+
+[Trandoshan Elite Mercenary 36]
+Name=Trandoshan Elite Mercenary
+Set=The Dark Times
+SetDisplay=Dark Times
+Faction=Fringe
+CharacterJPGImage=DarkTimes_Pics\36.jpg
+Number=36
+Damage=20
+PlayCost=17
+Attack=7
+HitPoints=50
+Defense=17
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Double Claw Attack</B></FONT> (On his turn, this character can make 1 extra attack instead of moving; both attacks must be against adjacent enemies)<BR><FONT SIZE=4><B>Mercenary</B></FONT> (This character can move only if he cannot make an attack from his starting space)<BR><FONT SIZE=4><B>Mighty Swing</B></FONT> (On his turn, if this character doesn't move, he gets +10 Damage against adjacent enemies)<BR><FONT SIZE=4><B>Regeneration 10</B></FONT> (If this character doesn't move on his turn, remove 10 damage from him at the end of that turn)<BR><FONT SIZE=4><B>Rend +10</B></FONT> (If both of his attacks hit the same adjacent enemy, this character's second attack gets +10 Damage)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="The powerful Trandoshans are superbly fitted to the profession of bounty hunter."
+UniqueIdentifier=0
+MiniID=4194892
+FactionID=16
+Type=2
+Base=2
+AbilitiesMask1=4611686018427396100
+AbilitiesMask2=4514594747973632
+CEEligibility=1078001667
+CELeadership=0
+
+[Trianii Scout 37]
+Name=Trianii Scout
+Set=The Dark Times
+SetDisplay=Dark Times
+Faction=Fringe
+CharacterJPGImage=DarkTimes_Pics\37.jpg
+Number=37
+Damage=20
+PlayCost=14
+Attack=6
+HitPoints=40
+Defense=16
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Evade</B></FONT> (When hit by an attack from a nonadjacent enemy, this character takes no damage with a save of 11)<BR><FONT SIZE=4><B>Flurry Attack</B></FONT> (When this character scores a critical hit, he can make 1 immediate extra attack)<BR><FONT SIZE=4><B>Quick Reactions</B></FONT> (+6 Attack when making attacks of opportunity)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="The feline Trianii are fiercely independent and deeply spiritual."
+UniqueIdentifier=0
+MiniID=4194893
+FactionID=16
+Type=2
+Base=2
+AbilitiesMask1=268435460
+AbilitiesMask2=40534595669721088
+CEEligibility=288230376155971587
+CELeadership=0
+
+[T'surr 38]
+Name=T'surr
+Set=The Dark Times
+SetDisplay=Dark Times
+Faction=Fringe
+CharacterJPGImage=DarkTimes_Pics\38.jpg
+Number=38
+Damage=30
+PlayCost=8
+Attack=2
+HitPoints=20
+Defense=14
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Melee Attack</B></FONT> (Can attack only adjacent enemies)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="Native to a cold desert world, the T'surr are consummate survivors who rely on brute strength and ruthless cunning to enslave weaker species."
+UniqueIdentifier=0
+MiniID=4194894
+FactionID=16
+Type=1
+Base=2
+AbilitiesMask1=12
+AbilitiesMask2=2199023386624
+CEEligibility=4259843
+CELeadership=0
+
+[Zuckuss, Bounty Hunter 39]
+Name=Zuckuss, Bounty Hunter
+Set=The Dark Times
+SetDisplay=Dark Times
+Faction=Fringe
+CharacterJPGImage=DarkTimes_Pics\39.jpg
+Number=39
+Damage=20
+PlayCost=35
+Attack=9
+HitPoints=90
+Defense=20
+ForcePoints=2
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique</B></FONT><BR><FONT SIZE=4><B>Accurate Shot</B></FONT> (Can attack an enemy with cover even if it's not the nearest enemy)<BR><FONT SIZE=4><B>Bounty Hunter +4</B></FONT> (+4 Attack against Unique enemies)<BR><FONT SIZE=4><B>Intuition</B></FONT> (Once per round, after initiative is determined, this character can immediately move up to 6 squares before any other character activates)<BR><FONT SIZE=4><B>Rapport</B></FONT> (A character whose name contains 4-LOM costs 1 less when in the same squad as this character)<BR><FONT SIZE=4><B>Snare Rifle</B></FONT> (A character hit by this character's attacks cannot move until the end of the round)<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 2</B></FONT><BR><FONT SIZE=4><B>Anticipation</B></FONT> (Force 1: Reroll initiative once per round)<BR><FONT SIZE=4><B>Force Sense</B></FONT> (Force 1, usable only on this character's turn: Enemies lose Stealth for the rest of the round)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+UniqueIdentifier=1
+MiniID=4194895
+FactionID=16
+Type=4
+Base=2
+AbilitiesMask1=898
+AbilitiesMask2=2310348876583927812
+AbilitiesMask3=4096
+CEEligibility=106497
+CELeadership=0
+
+[Mandalorian Jedi Hunter 40]
+Name=Mandalorian Jedi Hunter
+Set=The Dark Times
+SetDisplay=Dark Times
+Faction=Mandalorian
+CharacterJPGImage=DarkTimes_Pics\40.jpg
+Number=40
+Damage=20
+PlayCost=24
+Attack=8
+HitPoints=60
+Defense=17
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Melee Attack</B></FONT> (Can attack only adjacent enemies)<BR><FONT SIZE=4><B>Jedi Hunter</B></FONT> (+4 Attack and +10 Damage against enemies with Force ratings)<BR><FONT SIZE=4><B>Parry</B></FONT> (When hit by a melee attack, this character takes no damage with a save of 11)<BR><FONT SIZE=4><B>Stealth</B></FONT> (If this character has cover, he does not count as the nearest enemy for an attacker farther than 6 squares when choosing targets)<BR><FONT SIZE=4><B>Twin Attack</B></FONT> (Whenever this character attacks, he makes 1 extra attack against the same target)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="Some of the scattered survivors of the Mandalorian Wars seek out Jedi to punish for their humiliation."
+UniqueIdentifier=0
+MiniID=4194896
+FactionID=512
+Type=1
+Base=2
+AbilitiesMask1=545259532
+AbilitiesMask2=2199040163840
+AbilitiesMask3=32
+CEEligibility=4261907
+CELeadership=0

@@ -1,0 +1,388 @@
+[Set Data]
+TotalInSet=12
+
+
+[Lord Hoth, Leader of the Army of Light 1]
+Name=Lord Hoth, Leader of the Army of Light
+Set=Epic Set 1
+SetDisplay=Epic Set 1
+Faction=Old Republic
+CharacterJPGImage=Epic_Pics\Epic01_Hoth_MotF05.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>Old Republic allies gain <B>Furious Assault</B> [Replaces turn: Can move up to 12 squares, then attack each legal target once].<BR><BR>Old Republic allies within 6 squares get +10 Damage against adjacent enemies.
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique. Melee Attack</B></FONT><BR><FONT SIZE=4><B>Double Attack; Twin Attack</B></FONT><BR><FONT SIZE=4><B>Charging Assault +10</B></FONT> [Replaces turn: Can move up to double speed, then make an attack at +10 Damage against an adjacent enemy]<BR><FONT SIZE=4><B>Impulsive Jedi Hunter</B></FONT> [If a Unique allied character is defeated, for the remainder of the skirmish this character has <B>Jedi Hunter</B> (+4 Attack and +10 Damage against enemies with Force ratings)]<BR><FONT SIZE=4><B>Mettle</B></FONT> [If this character spends 1 Force point to reroll, add +4 to the result]<BR><FONT SIZE=4><B>Niman Style Mastery</B></FONT> [+4 Attack and +4 Defense while this character has more than half Hit Points remaining]<BR><FONT SIZE=4><B>Old Republic Conscription</B></FONT> [All characters in your squad are considered Old Republic for the rest of the skirmish]<BR><FONT SIZE=4><B>Sith Hunter</B></FONT> [+4 Attack and +10 Damage against Sith enemies]<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 2. Force Renewal 2</B></FONT><BR><FONT SIZE=4><B>Master of the Force 2</B></FONT> <BR><FONT SIZE=4><B>Force Alter</B></FONT> [Force 1: range 6; any 1 enemy rerolls its last attack]<BR><FONT SIZE=4><B>Lightsaber Defense</B></FONT> [Force 1: When hit by an attack, this character takes no damage with a save of 11]<BR><FONT SIZE=4><B>Lightsaber Precision</B></FONT> [Force 1: +10 Damage on his next attack]<BR><FONT SIZE=4><B>Lightsaber Sweep</B></FONT> [Force 1, replaces attacks: Can attack each adjacent enemy once]<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>Old Republic allies gain <B>Furious Assault</B> [Replaces turn: Can move up to 12 squares, then attack each legal target once].<BR><BR>Old Republic allies within 6 squares get +10 Damage against adjacent enemies.
+SquadSuggestions=
+Description=
+FlavorText=
+Number=1
+Damage=20
+PlayCost=138
+Attack=17
+HitPoints=160
+Defense=22
+ForcePoints=2
+Type=8
+Base=2
+FactionID=128
+SetID=32768
+MiniID=8388609
+ReinforcementsAvailable=0
+UniqueIdentifier=1
+AbilitiesMask1=144124121641386267
+AbilitiesMask2=4505815981752321
+AbilitiesMask3=0
+CEEligibility=8193
+CELeadership=1
+
+[Darth Bane in Orbalisk Armor 2]
+Name=Darth Bane in Orbalisk Armor
+Set=Epic Set 1
+SetDisplay=Epic Set 1
+Faction=Sith
+CharacterJPGImage=Epic_Pics\Epic02_Bane_CotF10.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>At the start of the skirmish, if your squad contains only one other character with a Force rating, that ally gains <B>Sith Rage 2</B> and can spend Force points from Darth Bane in Orbalisk Armor.  (That character still can't spend Force points more than once per turn and can't combine its own Force points with those from Darth Bane.)
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique. Melee Attack; Double Attack</B> </FONT> <BR><FONT SIZE=4><B>Avoid Defeat</B></FONT> [Whenever this character would be defeated, make 2 saves, each needing 11. If both succeed, this character has 10 Hit Points instead of being defeated]<BR><FONT SIZE=4><B>Djem So Style</B></FONT> [Whenever this character is hit by a melee attack, make a save of 11. On a success, this character can make an immediate attack against that attacker.]<BR><FONT SIZE=4><B>Orbalisk Armor</B></FONT> [When this character takes damage, make 2 saves, each needing 11; each success reduces the damage dealt by 10.  Force powers whose names contain Lightning ignore this special ability.]<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 2. Force Renewal 2</B></FONT><BR><FONT SIZE=4><B>Master of the Force 2</B></FONT><BR><FONT SIZE=4><B>Force Lighting 2</B></FONT> [Force 2, replaces attacks: range 6; 30 damage to target and 2 characters adjacent to that target]<BR><FONT SIZE=4><B>Lightsaber Throw 2</B></FONT> [Force 2, replaces attacks: Choose 1 target enemy within range 6. Make 2 attacks against that target.]<BR><FONT SIZE=4><B>Sith Rage 2</B></FONT> [Force 2: +20 Damage on all his attacks this turn]<BR><FONT SIZE=4><B>Sith Sorcery</B></FONT> [Force 2, usable only on this character’s turn: Enemy characters within 6 squares are considered activated this round; save 11]<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>At the start of the skirmish, if your squad contains only one other character with a Force rating, that ally gains <B>Sith Rage 2</B> and can spend Force points from Darth Bane in Orbalisk Armor.  (That character still can't spend Force points more than once per turn and can't combine its own Force points with those from Darth Bane.)
+SquadSuggestions=
+Description=
+FlavorText=
+Number=2
+Damage=30
+PlayCost=142
+Attack=18
+HitPoints=200
+Defense=22
+ForcePoints=2
+Type=8
+Base=2
+FactionID=256
+SetID=32768
+MiniID=2
+ReinforcementsAvailable=0
+UniqueIdentifier=1
+AbilitiesMask1=140754701779227
+AbilitiesMask2=4506348540919809
+AbilitiesMask3=0
+CEEligibility=8193
+CELeadership=8193
+
+[The Phantom Menace 3]
+Name=The Phantom Menace
+Set=Epic Set 1
+SetDisplay=Epic Set 1
+Faction=Separatists
+CharacterJPGImage=Epic_Pics\Epic03_Menace_CotF41.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>Non-Unique allies within 6 squares gain <B>Extra Attack</B>.<BR><BR>At the end of this character's turn, one non-Unique ally may take an immediate turn. At the end of that turn, that character is defeated.
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique</B></FONT> [Darth Sidious\Emperor Palpatine]<BR><FONT SIZE=4><B>Melee Attack; Double Attack; Twin Attack</B></FONT><BR><FONT SIZE=4><B>Affinity</B></FONT> [Sith or Imperial squads]<BR><FONT SIZE=4><B>Ambush</B></FONT> [see glossary]<BR><FONT SIZE=4><B>Execute Order 66</B></FONT> [see glossary]<BR><FONT SIZE=4><B>Tactician +8</B></FONT> [Add +8 to the initiative roll except on a roll of 1]<BR><FONT SIZE=4><B>The Phantom Menace</B></FONT> [Doesn't count as a legal target for enemies farther than 6 squares away]<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 3. Force Renewal 2; Master of the Force 2</B></FONT><BR><FONT SIZE=4><B>Force Leap</B></FONT> [Force 1: This turn, this character can move through enemy characters without provoking attacks of opportunity]<BR><FONT SIZE=4><B>Force Lighting 2</B></FONT> [Force 2, replaces attacks: range 6; 30 damage to target and 2 characters adjacent to that target]<BR><FONT SIZE=4><B>Force Lighting 4</B></FONT> [Force 4, replaces attacks: range 6; 50 damage to target. Huge or smaller characters are considered activated this round, save 16.]<BR><FONT SIZE=4><B>Force Withdrawal</B></FONT> [Force 1, useable only on this character's turn: Until the start of this character's next turn or until it spends a Force point, it gains <B>Force Immunity</B>]<BR><FONT SIZE=4><B>Lightsaber Defense</B></FONT> [Force 1:  When hit by an attack, this character takes no damage with a save of 11.]<BR><FONT SIZE=4><B>Lightsaber Riposte</B></FONT> [Force 1: When hit by a melee attack, this character can make an immediate attack against that attacker]<BR><FONT SIZE=4><B>Sith Rage</B></FONT> [Force 1: +10 Damage on all his attacks this turn]<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>Non-Unique allies within 6 squares gain <B>Extra Attack</B>.<BR><BR>At the end of this character's turn, one non-Unique ally may take an immediate turn. At the end of that turn, that character is defeated.
+SquadSuggestions=
+Description=
+FlavorText=
+Number=3
+Damage=20
+PlayCost=144
+Attack=16
+HitPoints=160
+Defense=23
+ForcePoints=3
+Type=8
+Base=2
+FactionID=8
+SetID=32768
+MiniID=524291
+ReinforcementsAvailable=0
+UniqueIdentifier=2
+AbilitiesMask1=140827716256027
+AbilitiesMask2=4505798801883137
+AbilitiesMask3=0
+CEEligibility=1056769
+CELeadership=3
+
+[Darth Maul, Shadow Hunter 4]
+Name=Darth Maul, Shadow Hunter
+Set=Epic Set 1
+SetDisplay=Epic Set 1
+Faction=Separatists
+CharacterJPGImage=Epic_Pics\Epic04_Maul_CS35.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>None
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique. Melee Attack</B></FONT><BR><FONT SIZE=4><B>Double Attack; Twin Attack</B></FONT><BR><FONT SIZE=4><B>Greater Mobile Attack</B></FONT> <BR><FONT SIZE=4><B>Intimidation</B></FONT> [Living non-Unique enemies within 6 squares get -2 Attack and -2 Defense.  Living allies within 6 squares get +2 Attack and +2 Defense.]<BR><FONT SIZE=4><B>Juyo Style Mastery</B></FONT> [Scores a critical hit on an attack roll of natural 17, 18, 19, or 20.<BR>Whenever this character scores a critical hit, make a save of 11; on a success, this character can make 1 immediate extra attack.]<BR><FONT SIZE=4><B>Lightsaber Duelist</B></FONT> [+4 Defense when attacked by an adjacent character with a Force rating]<BR><FONT SIZE=4><B>Loner</B></FONT> [+4 Attack if no allies are within 6 squares]<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 2. Force Renewal 1</B></FONT><BR><FONT SIZE=4><B>Master of the Force 2</B></FONT><BR><FONT SIZE=4><B>Force Cloak</B></FONT> [Force 2, replaces turn: For the rest of the skirmish, this character gains <B>Cloaked</B>]<BR><FONT SIZE=4><B>Lightsaber Block</B></FONT> [Force 1: When hit by a melee attack, this character takes no damage with a save of 11]<BR><FONT SIZE=4><B>Lightsaber Riposte</B></FONT> [Force 1: When hit by a melee attack, this character can make an immediate attack against that attacker]<BR><FONT SIZE=4><B>Sith Rage</B></FONT> [Force 1: This character gets +10 Damage on all of his attacks this turn]
+SquadSuggestions=
+Description=
+FlavorText=
+Number=4
+Damage=20
+PlayCost=132
+Attack=16
+HitPoints=160
+Defense=23
+ForcePoints=2
+Type=8
+Base=2
+FactionID=8
+SetID=32768
+MiniID=524292
+ReinforcementsAvailable=0
+UniqueIdentifier=1
+AbilitiesMask1=141081119295755
+AbilitiesMask2=4505798802030593
+AbilitiesMask3=0
+CEEligibility=73729
+CELeadership=0
+
+
+
+
+
+
+[Mace Windu, Master of the Order 5]
+Name=Mace Windu, Master of the Order
+Set=Epic Set 1
+SetDisplay=Epic Set 1
+Faction=Republic
+CharacterJPGImage=Epic_Pics\Epic05_Mace_CotF26.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>Characters in your squad with a Force rating (including this character) do not provoke attacks of opportunity.
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique. Melee Attack</B></FONT><BR><FONT SIZE=4><B>Quadruple Attack; Greater Mobile Attack</B></FONT> <BR><FONT SIZE=4><B>Flurry Attack </B></FONT> [When this character scores a critical hit, he may make 1 immediate extra attack]<BR><FONT SIZE=4><B>Vaapad Style Mastery</B></FONT> [Scores a critical hit on an attack roll of natural 17, 18, 19, or 20 and does triple damage instead of double on a critical hit]<BR> <BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 3. Force Renewal 2.</B></FONT> <BR><FONT SIZE=4><B>Master of the Force 2</B></FONT><BR><FONT SIZE=4><B>Force Absorb</B></FONT> [Force 2: Cancel a Force power used by an adjacent character]<BR><FONT SIZE=4><B>Force Repulse 3</B></FONT> [Force 3, replaces turn: 30 damage to all characters within 3 squares; push back Huge or smaller characters to 4 squares from this character. Huge or smaller characters are considered activated this round; save 11.]<BR> <FONT SIZE=4><B>Lightsaber Precision 2</B></FONT> [Force 2: +20 Damage on next attack]<BR><FONT SIZE=4><B>Lightsaber Reflect</B></FONT> [Force 2: When hit by a non-melee attack, this character takes no damage with a save of 11 and the attacker takes damage equal to the prevented damage; save 11]<BR><FONT SIZE=4><B>Lightsaber Riposte</B></FONT> [Force 1: When hit by a melee attack, this character can make an immediate attack against that attacker]<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>Characters in your squad with a Force rating (including this character) do not provoke attacks of opportunity.
+SquadSuggestions=
+Description=
+FlavorText=
+Number=5
+Damage=20
+PlayCost=140
+Attack=19
+HitPoints=160
+Defense=24
+ForcePoints=3
+Type=8
+Base=2
+FactionID=4
+SetID=32768
+MiniID=262149
+ReinforcementsAvailable=0
+UniqueIdentifier=4096
+AbilitiesMask1=755947799835
+AbilitiesMask2=40535695315435521
+AbilitiesMask3=0
+CEEligibility=8193
+CELeadership=8193
+
+
+[Yoda, Legend of the Light Side 6]
+Name=Yoda, Legend of the Light Side
+Set=Epic Set 1
+SetDisplay=Epic Set 1
+Faction=Republic
+CharacterJPGImage=Epic_Pics\Epic06_Yoda_RotS24.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>Followers with a Force rating who start their moves within 6 squares gain <B>Double Attack</B> and <B>Greater Mobile Attack</B> [Can move both before and after attacking. This character can make extra attacks even if it moves this turn, but it must make them all before resuming movement.].
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique. Melee Attack; Triple Attack</B></FONT><BR><FONT SIZE=4><B>Ataru Style Mastery</B></FONT> [+4 Attack and Twin Attack if exactly 1 enemy is within 6 squares]<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 3. Force Renewal 3<BR><B>Master of the Force 3</B></FONT><BR><FONT SIZE=4><B>Force Defense</B></FONT> [Force 3: Cancel a force power used by a character within 6 squares]<BR><FONT SIZE=4><B>Force Shield</B></FONT> [Force 4, replaces turn:  For the rest of the skirmish, this character gains the following Force ability:  Whenever this character takes damage, make 2 saves, each needing 11; each success reduces the damage dealt by 10.  Characters with Force Immunity ignore this ability.]<BR><FONT SIZE=4><B>Lightsaber Defense</B></FONT> [Force 1:  When hit by an attack, this character takes no damage with a save of 11]<BR><FONT SIZE=4><B>Lightsaber Precision 2</B></FONT> [Force 2: +20 Damage on his next attack]<BR><FONT SIZE=4><B>Lightsaber Throw 5</B></FONT> [Force 5, replaces turn: Choose 1 enemy within line of sight, ignoring cover. Make 2 attacks against the chosen enemy and against each character adjacent to that enemy.]<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>Followers with a Force rating who start their moves within 6 squares gain <B>Double Attack</B> and <B>Greater Mobile Attack</B> [Can move both before and after attacking. This character can make extra attacks even if it moves this turn, but it must make them all before resuming movement.].
+SquadSuggestions=
+Description=
+FlavorText=
+Number=6
+Damage=20
+PlayCost=144
+Attack=15
+HitPoints=160
+Defense=23
+ForcePoints=3
+Type=8
+Base=1
+FactionID=4
+SetID=32768
+MiniID=262150
+ReinforcementsAvailable=0
+UniqueIdentifier=2048
+AbilitiesMask1=2251937286193435
+AbilitiesMask2=4505798785368065
+AbilitiesMask3=0
+CEEligibility=8193
+CELeadership=73728
+
+[Luke Skywalker, First of the New Order 7]
+Name=Luke Skywalker, First of the New Order
+Set=Epic Set 1
+SetDisplay=Epic Set 1
+Faction=Rebel
+CharacterJPGImage=Epic_Pics\Epic07_Luke_AE11.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>None
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique. Pilot</B></FONT><BR><FONT SIZE=4><B>Melee Attack; Triple Attack</B></FONT><BR><FONT SIZE=4><B>Djem So Style</B></FONT> [Whenever this character is hit by a melee attack, make a save of 11.  On a success, this character can make an immediate attack against that attacker.]<BR><FONT SIZE=4><B>First of the New Order</B></FONT> [At the start of the skirmish, choose one Unique ally. That ally gains <B>Force 1</B> and <B>Lightsaber Deflect</B>; it is considered to have a Force rating for the rest of the skirmish.  While within 6 squares of this character, the ally gets +4 Attack and +10 Damage.]<BR><FONT SIZE=4><B>Flurry Attack</B></FONT> [When this character scores a critical hit, he can make 1 immediate extra attack]<BR><FONT SIZE=4><B>Impulsive Reprisal</B></FONT> [If a Unique allied character is defeated, for the remainder of the skirmish this character has +4 Attack and +10 Damage.]<BR><FONT SIZE=4><B>Twin Blaster 20</B></FONT> [Replaces attacks, sight: Make 2 attacks against 1 enemy at +11 Attack and 20 Damage.  These count as nonmelee attacks.]<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 2. Force Renewal 2</B></FONT><BR><FONT SIZE=4><B>Master of the Force 2</B></FONT> <BR><FONT SIZE=4><B>Force Absorb</B></FONT> [Force 2: Cancel a Force power used by an adjacent character]<BR><FONT SIZE=4><B>Lightsaber Deflect</B></FONT> [Force 1: When hit by a non-melee attack, this character takes no damage with a save of 11]<BR><FONT SIZE=4><B>Lightsaber Sweep</B></FONT> [Force 1, replaces attacks: Can attack each adjacent enemy once]<BR><FONT SIZE=4><B>Master Recovery</B></FONT> [Force 8, replaces turn: Remove all damage from this character.]<BR><FONT SIZE=4><B>Surprise Move</B></FONT> [Force 1: Once per round, after initiative is determined, this character can immediately move up to his speed before any other character activates]<BR><FONT SIZE=4><B>Use the Force</B></FONT> [Force 3: This character's next attack is a critical hit]
+SquadSuggestions=
+Description=
+FlavorText=
+Number=7
+Damage=20
+PlayCost=154
+Attack=14
+HitPoints=160
+Defense=21
+ForcePoints=2
+Type=8
+Base=2
+FactionID=1
+SetID=32768
+MiniID=65543
+ReinforcementsAvailable=0
+UniqueIdentifier=8
+AbilitiesMask1=8830486315275
+AbilitiesMask2=184650883391946753
+AbilitiesMask3=0
+CEEligibility=34359812161
+CELeadership=0
+
+
+
+[Darth Vader, Legend of the Dark Side 8]
+Name=Darth Vader, Legend of the Dark Side
+Set=Epic Set 1
+SetDisplay=Epic Set 1
+Faction=Imperial
+CharacterJPGImage=Epic_Pics\Epic08_Vader_CotF49.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>Once per round, after initiative is determined, you may remove one Unique allied commander to grant all other non-Unique allies +10 Damage for the rest of the round.
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique. Melee Attack; Triple Attack</B></FONT><BR><FONT SIZE=4><B>Dark Armor</B></FONT> [Whenever this character takes damage, he reduces the damage dealt by 10 with a save of 11. Attacks with lightsabers ignore this special ability.]<BR><FONT SIZE=4><B>Jedi Hunter</B></FONT> [+4 Attack and +10 Damage against enemies with Force ratings]<BR><FONT SIZE=4><B>No Disintegrations</B></FONT> [Damage dealt by critical hits cannot be increased. Commander effects and special abilities that trigger based on a critical hit or the attack number rolled are suppressed.]<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 2. Force Renewal 2</B></FONT><BR><FONT SIZE=4><B>Master of the Force 2</B></FONT><BR><FONT SIZE=4><B>Dark Assault 2</B></FONT> [Force 2: If this character doesn't move this turn, he gets +4 Attack and +10 Damage on all his attacks this turn]<BR><FONT SIZE=4><B>Force Grip 4</B></FONT> [Force 4, replaces attacks: sight; 40 damage]<BR><FONT SIZE=4><B>Lightsaber Defense</B></FONT> [Force 1:  When hit by an attack, this character takes no damage with a save of 11.]<BR><FONT SIZE=4><B>Lightsaber Sweep</B></FONT> [Force 1, replaces attacks: Can attack each adjacent enemy once]<BR><FONT SIZE=4><B>Overwhelming Force 2</B></FONT> [Force 2: This character's attacks cannot be prevented or redirected this turn, and special abilities that trigger as the result of being hit by an attack are suppressed. Ignore bonuses to Defense when determining whether the attack hit.]<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>Once per round, after initiative is determined, you may remove one Unique allied commander to grant all other non-Unique allies +10 Damage for the rest of the round.
+SquadSuggestions=
+Description=
+FlavorText=
+Number=8
+Damage=20
+PlayCost=152
+Attack=16
+HitPoints=160
+Defense=23
+ForcePoints=2
+Type=8
+Base=2
+FactionID=2
+SetID=32768
+MiniID=131080
+ReinforcementsAvailable=0
+UniqueIdentifier=4
+AbilitiesMask1=8804724900123
+AbilitiesMask2=4505798785369089
+AbilitiesMask3=0
+CEEligibility=8193
+CELeadership=3
+
+
+[Terentatek 9]
+Name=Terentatek
+Set=Epic Set 1
+SetDisplay=Epic Set 1
+Faction=Fringe
+CharacterJPGImage=Epic_Pics\Epic09_Terentatek_UH26.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>None
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Savage. Speed 8</B></FONT><BR><FONT SIZE=4><B>Melee Attack; Melee Reach 3; Quadruple Attack</B></FONT><BR><FONT SIZE=4><B>Force Immunity</B></FONT> [Enemies cannot affect this character with Force powers, or spend Force points to reroll attacks against this character or to respond to this character's attacks and abilities]<BR><FONT SIZE=4><B>Indiscriminate</B></FONT> [When this character attacks an adjacent enemy, it ignores enemy abilities and commander effects that prevent targeting and attacking.  These attacks cannot be redirected.]<BR><FONT SIZE=4><B>Jedi Hunter</B></FONT> [+4 Attack and +10 Damage against enemies with Force ratings]<BR><FONT SIZE=4><B>Overwhelming Power</B></FONT> [Damage from this character's attacks cannot be prevented or redirected]<BR><FONT SIZE=4><B>Rapport</B></FONT> [Costs 10 less when in a Sith squad]<BR><FONT SIZE=4><B>Stable Footing</B></FONT> [Not slowed by difficult terrain or low objects]<BR><FONT SIZE=4><B>Virulent Poison +20</B></FONT> [+20 Damage to living enemies; save 16]
+SquadSuggestions=
+Description=
+FlavorText=
+Number=9
+Damage=10
+PlayCost=146
+Attack=12
+HitPoints=300
+Defense=18
+ForcePoints=0
+Type=8
+Base=8
+FactionID=16
+SetID=32768
+MiniID=1048585
+ReinforcementsAvailable=0
+UniqueIdentifier=0
+AbilitiesMask1=281474985361421
+AbilitiesMask2=4505798651809793
+AbilitiesMask3=0
+CEEligibility=1099784519682
+CELeadership=0
+
+
+[Mara Jade Skywalker, Galactic Hero 10]
+Name=Mara Jade Skywalker, Galactic Hero
+Set=Epic Set 1
+SetDisplay=Epic Set 1
+Faction=New Republic
+CharacterJPGImage=Epic_Pics\Epic10_Mara_AE37.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>An ally whose name contains Luke Skywalker gains <B>Synergy</B> [+4 Attack and +4 Defense while an allied character whose name contains Mara Jade is within 6 squares] and <B>Master of the Force 2</B>.<BR><BR>Followers within 6 gain <B>Stealth</B>.
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique. Pilot. Stealth</B></FONT><BR><FONT SIZE=4><B>Mobile Attack; Twin Attack</B></FONT> <BR><FONT SIZE=4><B>Cunning Attack +20</B></FONT> [This character gets +4 Attack and +20 Damage against an enemy who has not activated this round]<BR><FONT SIZE=4><B>Deadly Attack</B></FONT> [Scores a critical hit on an attack roll of natural 19 or 20]<BR><FONT SIZE=4><B>Master Slicer</B></FONT> [Replaces attacks: This turn, this character can ignore doors while moving]<BR><FONT SIZE=4><B>Spy</B></FONT> [This character does not count as a legal target until she makes an attack or uses an ability that deals damage]<BR><FONT SIZE=4><B>Synergy +4</B></FONT> [+4 Attack and +4 Defense while an allied character whose name contains Luke Skywalker is within 6 squares]<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 3. Force Renewal 1</B></FONT><BR><FONT SIZE=4><B>Master of the Force 2</B></FONT><BR><FONT SIZE=4><B>Force Absorb</B></FONT> [Force 2: Cancel a Force power used by an adjacent character]<BR><FONT SIZE=4><B>Force Leap</B></FONT> [Force 1: This turn, this character can move through enemy characters without provoking attacks of opportunity]<BR><FONT SIZE=4><B>Lightsaber Assault</B></FONT> [Force 1, replaces attacks: Make 2 attacks]<BR><FONT SIZE=4><B>Lightsaber Block</B></FONT> [Force 1: When hit by a melee attack, this character takes no damage with a save of 11]<BR><FONT SIZE=4><B>Master Speed</B></FONT> [Force 1: This character can move 6 extra squares on her turn as part of her move]<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>An ally whose name contains Luke Skywalker gains <B>Synergy</B> [+4 Attack and +4 Defense while an allied character whose name contains Mara Jade is within 6 squares] and <B>Master of the Force 2</B>.<BR><BR>Followers within 6 squares gain <B>Stealth</B>.
+SquadSuggestions=
+Description=
+FlavorText=
+Number=10
+Damage=20
+PlayCost=126
+Attack=14
+HitPoints=140
+Defense=21
+ForcePoints=3
+Type=8
+Base=2
+FactionID=32
+SetID=32768
+MiniID=2097162
+ReinforcementsAvailable=0
+UniqueIdentifier=131072
+AbilitiesMask1=17871931445523
+AbilitiesMask2=148622086389202945
+AbilitiesMask3=0
+CEEligibility=33562705
+CELeadership=65536
+
+
+[Mandalore the First 11]
+Name=Mandalore the First
+Set=Epic Set 1
+SetDisplay=Epic Set 1
+Faction=Mandalorian
+CharacterJPGImage=Epic_Pics\Epic11_Mandalore_MotF40.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>Mandalorian allies gain <B>Beskar'gam</B> and <B>Cortosis Weave 20</B> [Whenever this character rolls 20 or better on a save to reduce the damage dealt by an adjacent enemy with a lightsaber, that enemy gets -20 Damage for the rest of the skirmish].
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique. Flight</B></FONT><BR><FONT SIZE=4><B>Melee Attack; Double Attack; Twin Attack</B></FONT><BR><FONT SIZE=4><B>Beskar'gam</B></FONT> [When this character takes damage, he reduces the damage dealt by 10 with a save of 11]<BR><FONT SIZE=4><B>Cortosis Weave 18</B></FONT> [Whenever this character rolls 18 or better on a save to reduce the damage dealt by an adjacent enemy with a lightsaber, that enemy gets -20 Damage for the rest of the skirmish]<BR><FONT SIZE=4><B>Mandalorian Conscription</B></FONT> [All characters in your squad are considered Mandalorian for the rest of the skirmish]<BR><FONT SIZE=4><B>Momentum</B></FONT> [If this character has moved this turn, he gets +4 Attack and +10 damage against adjacent enemies]<BR><FONT SIZE=4><B>Virulent Poison Dart</B></FONT> [Replaces turn: range 6; 40 Damage to target living enemy; save 16]<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>Mandalorian allies gain <B>Beskar'gam</B> and <B>Cortosis Weave 20</B> [Whenever this character rolls 20 or better on a save to reduce the damage dealt by an adjacent enemy with a lightsaber, that enemy gets -20 Damage for the rest of the skirmish].
+SquadSuggestions=
+Description=
+FlavorText=
+Number=11
+Damage=20
+PlayCost=143
+Attack=16
+HitPoints=170
+Defense=24
+ForcePoints=0
+Type=8
+Base=2
+FactionID=512
+SetID=32768
+MiniID=11
+ReinforcementsAvailable=0
+UniqueIdentifier=1
+AbilitiesMask1=1048667
+AbilitiesMask2=4505798667665409
+AbilitiesMask3=0
+CEEligibility=4196353
+CELeadership=2049
+
+
+
+[Czulkang Lah 12]
+Name=Czulkang Lah
+Set=Epic Set 1
+SetDisplay=Epic Set 1
+Faction=Yuuzhan Vong
+CharacterJPGImage=Epic_Pics\Epic12_Lah_UH60.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>Yuuzhan Vong allies who start their move within 6 squares gain <B>Charging Assault +10.</B><BR>Allies whose name contains Lah get +4 Attack and +10 Damage.
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique. Melee Attack.</B></FONT><BR> <FONT SIZE=4><B>Double Attack; Twin Attack</B></FONT> <BR><FONT SIZE=4><B>Charging Assault +10</B></FONT> [Replaces turn: Can move up to double speed, then make an attack at +10 damage against an adjacent enemy]<BR><FONT SIZE=4><B>Counterattack</B></FONT> [Whenever this character is hit by a melee attack, make a save of 11. On a success, this character can make an immediate attack against that attacker.]<BR><FONT SIZE=4><B>Force Immunity</B></FONT> [Enemies cannot affect this character with Force powers, or spend Force points to reroll attacks against this character or to respond to this character's attacks and abilities]<BR><FONT SIZE=4><B>Ritual Scarring</B></FONT> [This character ignores special abilities from allies that alter his printed Attack or Damage rating]<BR><FONT SIZE=4><B>Vonduun Crab Armor 2</B></FONT> [When this character takes damage, he can reduce the damage dealt by 10 with a save of 2]<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR><BR>Yuuzhan Vong allies who start their move within 6 squares gain <B>Charging Assault +10.</B><BR>Allies whose name contains Lah get +4 Attack and +10 Damage.
+SquadSuggestions=
+Description=
+FlavorText=
+Number=12
+Damage=30
+PlayCost=137
+Attack=17
+HitPoints=230
+Defense=20
+ForcePoints=0
+Type=8
+Base=2
+FactionID=64
+SetID=32768
+MiniID=4194316
+ReinforcementsAvailable=0
+UniqueIdentifier=1
+AbilitiesMask1=144396663052566555
+AbilitiesMask2=4505798667403265
+AbilitiesMask3=0
+CEEligibility=138412033
+CELeadership=134217729

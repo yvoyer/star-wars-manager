@@ -1,0 +1,320 @@
+[Set Data]
+TotalInSet=10
+Set=The Battle of Theed Palace
+SetDisplay=Battle of Theed
+
+[Captain Panaka of Theed 1]
+Name=Captain Panaka of Theed
+Set=The Battle of Theed Palace
+SetDisplay=Battle of Theed
+Faction=Republic
+CharacterJPGImage=Theed_Pics\BoT01_Panaka_KotOR122.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>Allies whose names contain Naboo gain <B>Twin Attack</B>.
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique. Royal Naboo Security Forces</B></FONT> <BR><FONT SIZE=4><B>Cunning Attack</B></FONT> [+4 Attack and +10 Damage against an enemy who has not activated this round]<BR><FONT SIZE=4><B>Padmé's Bodyguard</B></FONT> [If a character whose name contains Padmé or Amidala is an adjacent ally and would take damage from an attack, this character can take the damage instead]<BR><FONT SIZE=4><B>Rapport</B></FONT> Non-Unique Republic Naboo followers cost 1 less when in the same squad as this character]<BR><FONT SIZE=4><B>Twin Attack</B></FONT> [Whenever this character attacks, it makes 1 extra attack against the same target]<BR><FONT SIZE=4><B>Wall Climber</B></FONT> [This character ignores difficult terrain, enemy characters, low obstacles, and pits when moving as long as the square it occupies and the square it's moving into are adjacent to a wall.]<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>Allies whose names contain Naboo gain <B>Twin Attack</B>.
+SquadSuggestions=
+Description=
+FlavorText=
+Number=1
+Damage=10
+PlayCost=20
+Attack=9
+HitPoints=70
+Defense=17
+ForcePoints=0
+Type=4
+Base=2
+FactionID=4
+SetID=32768
+MiniID=262145
+ReinforcementsAvailable=0
+UniqueIdentifier=1
+AbilitiesMask1=4115
+AbilitiesMask2=4505798667403393
+AbilitiesMask3=0
+CEEligibility=4194305
+CELeadership=1
+
+
+[Naboo Pilot 2]
+Name=Naboo Pilot
+Set=The Battle of Theed Palace
+SetDisplay=Battle of Theed
+Faction=Republic
+CharacterJPGImage=Theed_Pics\BoT02_NabooPilot_BH35.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>None
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Pilot</B></FONT><BR><FONT SIZE=4><B>Bravado +20</B></FONT> [+4 Attack and +20 Damage against an adjacent enemy with a higher point cost]<BR><FONT SIZE=4><B>Squad Cover</B></FONT> [+4 Defense while 3 allies with the same name as this character are within 6 squares]
+SquadSuggestions=
+Description=
+FlavorText=
+Number=2
+Damage=10
+PlayCost=11
+Attack=7
+HitPoints=30
+Defense=15
+ForcePoints=0
+Type=2
+Base=2
+FactionID=4
+SetID=32768
+MiniID=262146
+ReinforcementsAvailable=0
+UniqueIdentifier=0
+AbilitiesMask1=5
+AbilitiesMask2=148620986726612993
+AbilitiesMask3=0
+CEEligibility=4259907
+CELeadership=0
+
+
+[Naboo Trooper 3]
+Name=Naboo Trooper
+Set=The Battle of Theed Palace
+SetDisplay=Battle of Theed
+Faction=Republic
+CharacterJPGImage=Theed_Pics\BoT03_NabooTrooper_IE27.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>None
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Royal Naboo Security Forces</B></FONT> <BR><FONT SIZE=4><B>Deceptive</B></FONT> [+10 Damage against an enemy who has activated this round]
+SquadSuggestions=
+Description=
+FlavorText=
+Number=3
+Damage=10
+PlayCost=7
+Attack=5
+HitPoints=30
+Defense=15
+ForcePoints=0
+Type=1
+Base=2
+FactionID=4
+SetID=32768
+MiniID=262147
+ReinforcementsAvailable=0
+UniqueIdentifier=0
+AbilitiesMask1=5
+AbilitiesMask2=5631698557599745
+AbilitiesMask3=0
+CEEligibility=4276227
+CELeadership=0
+
+
+[Obi-Wan Kenobi, Jedi Padawan 4]
+Name=Obi-Wan Kenobi, Jedi Padawan
+Set=The Battle of Theed Palace
+SetDisplay=Battle of Theed
+Faction=Republic
+CharacterJPGImage=Theed_Pics\BoT04_Kenobi_KotOR28.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>None
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique. Melee Attack; Double Attack</B></FONT><BR><FONT SIZE=4><B>Ataru Style</B></FONT> [+4 Attack if exactly 1 enemy is within 6 squares]<BR><FONT SIZE=4><B>Impulsive Overwhelming Force</B></FONT> [If a Unique allied character is defeated, for the remainder of the skirmish this character has <B>Overwhelming Force</B> (Force 1: This character's attacks cannot be prevented or redirected this turn)]<BR><FONT SIZE=4><B>Jedi Reflexes</B></FONT> [This character can make an attack of opportunity against an enemy character that moves into or out of an adjacent square. Characters with special abilities that ignore characters while moving are subject to this ability.]<BR><FONT SIZE=4><B>Synergy +4</B></FONT> [+4 Attack and +4 Defense while an allied character whose name contains Qui-Gon Jinn is within 6 squares]<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 4</B></FONT><BR><FONT SIZE=4><B>Lightsaber Assault</B></FONT> [Force 1, replaces attacks: Make 2 attacks]<BR><FONT SIZE=4><B>Use the Force</B></FONT> [Force 3: This character's next attack roll counts as a natural 20]
+SquadSuggestions=
+Description=
+FlavorText=
+Number=4
+Damage=20
+PlayCost=30
+Attack=9
+HitPoints=90
+Defense=17
+ForcePoints=4
+Type=8
+Base=2
+FactionID=4
+SetID=32768
+MiniID=262148
+ReinforcementsAvailable=0
+UniqueIdentifier=65536
+AbilitiesMask1=17592186044683
+AbilitiesMask2=4505798651019265
+AbilitiesMask3=0
+CEEligibility=73729
+CELeadership=0
+
+
+[Queen Padmé Amidala 5]
+Name=Queen Padmé Amidala
+Set=The Battle of Theed Palace
+SetDisplay=Battle of Theed
+Faction=Republic
+CharacterJPGImage=Theed_Pics\BoT05_Amidala_CotF31.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>Non-Unique Republic followers whose names contain Handmaiden or Naboo gain <B>Wall Climber</B>.
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique</B></FONT><BR><FONT SIZE=4><B>Double Attack; Twin Attack</B></FONT><BR><FONT SIZE=4><B>Rapport</B></FONT> [Characters named Royal Handmaiden cost 1 less when in the same squad as this character]<BR><FONT SIZE=4><B>Wall Climber</B></FONT> [This character ignores difficult terrain, enemy characters, low obstacles, and pits when moving as long as the square it occupies and the square it's moving into are adjacent to a wall.]<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>Non-Unique Republic followers whose names contain Handmaiden or Naboo gain <B>Wall Climber</B>.
+SquadSuggestions=
+Description=
+FlavorText="Now, Viceroy, we will discuss a new treaty!"
+Number=5
+Damage=10
+PlayCost=20
+Attack=9
+HitPoints=80
+Defense=16
+ForcePoints=0
+Type=4
+Base=2
+FactionID=4
+SetID=32768
+MiniID=262149
+ReinforcementsAvailable=0
+UniqueIdentifier=524288
+AbilitiesMask1=19
+AbilitiesMask2=4505798667665537
+AbilitiesMask3=0
+CEEligibility=4194305
+CELeadership=65538
+
+
+[B2 Super Battle Droid 6]
+Name=B2 Super Battle Droid
+Set=The Battle of Theed Palace
+SetDisplay=Battle of Theed
+Faction=Separatists
+CharacterJPGImage=Theed_Pics\BoT06_B2SBD_CW32.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>None
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Droid</B></FONT> [Immune to critical hits; not subject to commander effects]<BR><FONT SIZE=4><B>Charging Fire</B></FONT> [Replaces turn: Can move up to double speed, then attack]<BR><FONT SIZE=4><B>Damage Reduction 10</B></FONT> [When this character would take damage, reduce the damage dealt by 10. Attacks with lightsabers ignore this special ability.<BR><FONT SIZE=4><B>Twin Attack</B></FONT> [Whenever this character attacks, it makes 1 extra attack against the same target]
+SquadSuggestions=
+Description=
+FlavorText="Perhaps the Geonosians have upgraded the battle droids. These may be more formidable." -Adi Gallia
+Number=6
+Damage=10
+PlayCost=8
+Attack=3
+HitPoints=20
+Defense=12
+ForcePoints=0
+Type=1
+Base=2
+FactionID=8
+SetID=32768
+MiniID=524296
+ReinforcementsAvailable=0
+UniqueIdentifier=0
+AbilitiesMask1=144119586122367013
+AbilitiesMask2=16777216
+AbilitiesMask3=0
+CEEligibility=541196290
+CELeadership=0
+
+[Darth Maul, Sith Infiltrator 7]
+Name=Darth Maul, Sith Infiltrator
+Set=The Battle of Theed Palace
+SetDisplay=Battle of Theed
+Faction=Separatists
+CharacterJPGImage=Theed_Pics\BoT07_Maul_CS35.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>None
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique. Melee Attack</B></FONT><BR><FONT SIZE=4><B>Double Attack; Twin Attack</B></FONT><BR><FONT SIZE=4><B>Ambush</B></FONT> [This character can move and then make all his attacks against 1 enemy who has not activated this round]<BR><FONT SIZE=4><B>Loner</B></FONT> [+4 Attack if no allies are within 6 squares]<BR><FONT SIZE=4><B>Teräs Käsi Style</B></FONT> [Whenever this character takes damage from a melee attack, reduce the damage dealt by 10]<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 4</B></FONT><BR><FONT SIZE=4><B>Force Cloak</B></FONT> [Force 2, replaces turn: For the rest of the skirmish, this character gains <B>Cloaked</B>]<BR><FONT SIZE=4><B>Force Leap</B></FONT> [Force 1: This turn, this character can move through enemy characters without provoking attacks of opportunity]<BR><FONT SIZE=4><B>Lightsaber Riposte</B></FONT> [Force 1: When hit by a melee attack, this character can make an immediate attack against that attacker]<BR><FONT SIZE=4><B>Sith Rage 2</B></FONT> [Force 2: +20 Damage on all his attacks this turn]
+SquadSuggestions=
+Description=
+FlavorText=
+Number=7
+Damage=20
+PlayCost=52
+Attack=12
+HitPoints=110
+Defense=20
+ForcePoints=4
+Type=8
+Base=2
+FactionID=8
+SetID=32768
+MiniID=524290
+ReinforcementsAvailable=0
+UniqueIdentifier=32768
+AbilitiesMask1=140810502801675
+AbilitiesMask2=4505798667796481
+AbilitiesMask3=0
+CEEligibility=73729
+CELeadership=0
+
+[Droideka 8]
+Name=Droideka
+Set=The Battle of Theed Palace
+SetDisplay=Battle of Theed
+Faction=Separatists
+CharacterJPGImage=Theed_Pics\BoT08_Droideka_CS37.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>None
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Droid</B></FONT> [Immune to critical hits; not subject to commander effects]<BR><FONT SIZE=4><B>Advanced Shields 1</B></FONT> [When this character takes damage, it reduces the damage dealt by 10 with a save of 6]<BR><FONT SIZE=4><B>Ion Shielding</B></FONT> [Can ignore special abilities that affect only nonliving targets]<BR><FONT SIZE=4><B>Jedi Hunter</B></FONT> [+4 Attack and +10 Damage against enemies with Force ratings]<BR><FONT SIZE=4><B>Twin Attack</B></FONT> [Whenever this character attacks, it makes 1 extra attack against the same target]<BR><FONT SIZE=4><B>Wheel Form</B></FONT> [This character can move up to 18 squares if it does not attack]
+SquadSuggestions=
+Description=
+FlavorText="We have them on the run, sir. They're no match for Droidekas." -Rune Haako, to Nute Gunray
+Number=8
+Damage=10
+PlayCost=20
+Attack=6
+HitPoints=40
+Defense=15
+ForcePoints=0
+Type=2
+Base=4
+FactionID=8
+SetID=32768
+MiniID=524298
+ReinforcementsAvailable=0
+UniqueIdentifier=0
+AbilitiesMask1=4507997682270245
+AbilitiesMask2=16777216
+AbilitiesMask3=0
+CEEligibility=541196290
+CELeadership=0
+
+[Rune Haako 9]
+Name=Rune Haako
+Set=The Battle of Theed Palace
+SetDisplay=Battle of Theed
+Faction=Separatists
+CharacterJPGImage=Theed_Pics\BoT09_Haako_GaW05.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>None
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique</B></FONT><BR><FONT SIZE=4><B>Diplomat</B></FONT> [If an attacker has line of sight to any enemies without Diplomat, this character is not a legal target and does not count as the nearest enemy, even if adjacent]<BR><FONT SIZE=4><B>Distraction</B></FONT> [Suppresses adjacent enemy commander effects]<BR><FONT SIZE=4><B>Rapport</B></FONT> [A character whose name contains Nute Gunray costs 1 less when in the same squad as this character]
+SquadSuggestions=
+Description=
+FlavorText="We should not have made this bargain."
+Number=9
+Damage=0
+PlayCost=12
+Attack=0
+HitPoints=30
+Defense=13
+ForcePoints=0
+Type=4
+Base=2
+FactionID=8
+SetID=32768
+MiniID=524297
+ReinforcementsAvailable=0
+UniqueIdentifier=1
+AbilitiesMask1=3
+AbilitiesMask2=4505798650757121
+AbilitiesMask3=0
+CEEligibility=4259841
+CELeadership=0
+
+[Viceroy Nute Gunray 10]
+Name=Viceroy Nute Gunray
+Set=The Battle of Theed Palace
+SetDisplay=Battle of Theed
+Faction=Separatists
+CharacterJPGImage=Theed_Pics\BoT10_Gunray_UH09.jpg
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>Droids are subject to this effect:  Separatist Droid allies gain <B>Improved Spotter +10</B> [If this character combines fire against a target, the attacking character gets a +10 bonus to Damage against that target].<BR><BR>Living allies gain <B>Speed 4</B>.
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique. Speed 4</B></FONT><BR><FONT SIZE=4><B>Distraction</B></FONT> [Suppresses adjacent enemy commander effects]<BR><FONT SIZE=4><B>Separatist Reserves 20</B></FONT> [If you roll a 1 for initiative, you can add up to 20 points of Separatist characters to your squad immediately before your first activation of the round]<BR><FONT SIZE=4><B>Tactician -4</B></FONT> [Add -4 to the intiaitive roll except on a roll of 1]<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>Droids are subject to this effect:  Separatist Droid allies gain <B>Improved Spotter +10</B> [If this character combines fire against a target, the attacking character gets a +10 bonus to Damage against that target].<BR><BR>Living allies gain <B>Speed 4</B>.
+SquadSuggestions=
+Description=
+FlavorText=
+Number=10
+Damage=10
+PlayCost=17
+Attack=4
+HitPoints=50
+Defense=15
+ForcePoints=0
+Type=4
+Base=2
+FactionID=8
+SetID=32768
+MiniID=524298
+ReinforcementsAvailable=0
+UniqueIdentifier=1
+AbilitiesMask1=19
+AbilitiesMask2=4505798650630145
+AbilitiesMask3=0
+CEEligibility=4194305
+CELeadership=536870913
+

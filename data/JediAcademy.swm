@@ -1,0 +1,1084 @@
+[Set Data]
+TotalInSet=40
+
+[Jedi Battlemaster 1]
+Name=Jedi Battlemaster
+Set=Jedi Academy
+SetDisplay=Jedi Academy
+Faction=Old Republic
+CharacterJPGImage=JediAcademy_Pics\jedi_battlemaster-JA01u.jpg
+Number=1
+Damage=20
+PlayCost=27
+Attack=11
+HitPoints=110
+Defense=19
+ForcePoints=4
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Melee Attack</B></FONT> (Can attack only adjacent enemies)<BR><FONT SIZE=4><B>Double Attack</B></FONT> (On his turn, this character can make 1 extra attack instead of moving)<BR><FONT SIZE=4><B>Lightsaber Duelist</B></FONT> (+4 Defense when attacked by an adjacent enemy with a Force rating)<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 4</B></FONT><BR><FONT SIZE=4><B>Force Leap</B></FONT> (Force 1: This turn, this character can move through enemies without provoking attacks of opportunity)<BR><FONT SIZE=4><B>Lightsaber Assault</B></FONT> (Force 1, replaces attacks: Make 2 attacks)<BR><FONT SIZE=4><B>Lightsaber Block</B></FONT> (Force 1: When hit by a melee attack, this character takes no damage with a save of 11)<BR><FONT SIZE=4><B>Lightsaber Deflect</B></FONT> (Force 1: When hit by a nonmelee attack, this character takes no damage with a save of 11)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+UniqueIdentifier=0
+MiniID=4194657
+FactionID=128
+Type=2
+Base=2
+AbilitiesMask1=17905718657292
+AbilitiesMask2=2199023665152
+CEEligibility=73731
+CELeadership=0
+
+[Jedi Crusader 2]
+Name=Jedi Crusader
+Set=Jedi Academy
+SetDisplay=Jedi Academy
+Faction=Old Republic
+CharacterJPGImage=JediAcademy_Pics\jedi_crusader-JA02u.jpg
+Number=2
+Damage=20
+PlayCost=23
+Attack=10
+HitPoints=80
+Defense=18
+ForcePoints=3
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Melee Attack</B></FONT> (Can attack only adjacent enemies)<BR><FONT SIZE=4><B>Double Attack</B></FONT> (On her turn, this character can make 1 extra attack instead of moving)<BR><FONT SIZE=4><B>Affinity</B></FONT> (A character whose name contains Malak or Revan may be in your squad regardless of faction)<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 3</B></FONT><BR><FONT SIZE=4><B>Force Push 2</B></FONT> (Force 2, replaces attacks: range 6; 20 damage; push back target 2 squares if Huge or smaller)<BR><FONT SIZE=4><B>Lightsaber Block</B></FONT> (Force 1: When hit by a melee attack, this character takes no damage with a save of 11)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="When Revan and Malak ignored the mandates of the Council and called for war against the Mandalorians, many impulsive young Jedi joined their crusade."
+UniqueIdentifier=0
+MiniID=4194658
+FactionID=128
+Type=2
+Base=2
+AbilitiesMask1=274877907212
+AbilitiesMask2=1152923703630496000
+CEEligibility=73731
+CELeadership=0
+
+[The Jedi Exile 3]
+Name=The Jedi Exile
+Set=Jedi Academy
+SetDisplay=Jedi Academy
+Faction=Old Republic
+CharacterJPGImage=JediAcademy_Pics\the_jedi_exile-JA03v.jpg
+Number=3
+Damage=20
+PlayCost=49
+Attack=14
+HitPoints=120
+Defense=20
+ForcePoints=2
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique</B></FONT><BR><FONT SIZE=4><B>Melee Attack</B></FONT> (Can attack only adjacent enemies)<BR><FONT SIZE=4><B>Double Attack</B></FONT> (On her turn, this character can make 1 extra attack instead of moving)<BR><FONT SIZE=4><B>Empathy</B></FONT> (Allies with Savage within 6 squares lose Savage)<BR><FONT SIZE=4><B>Lightsaber Duelist</B></FONT> (+4 Defense when attacked by an adjacent enemy with a Force rating)<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 2</B></FONT><BR><FONT SIZE=4><B>Force Renewal 1</B></FONT> (This character gets 1 Force point each time she activates)<BR><FONT SIZE=4><B>Force Defense</B></FONT> (Force 3: Cancel a Force power used by a character within 6 squares)<BR><FONT SIZE=4><B>Force Repulse 3</B></FONT> (Force 3, replaces turn: 30 damage to all characters within 3 squares; push back Huge or smaller characters to 4 squares from this character.  Huge or smaller characters are considered activated this round; save 11.)<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>Allies within 6 squares gain <B>Extra Attack</B> (On its turn, this character can make 1 cumulative extra attack instead of moving).
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>Allies within 6 squares gain <B>Extra Attack</B> (On its turn, this character can make 1 cumulative extra attack instead of moving).
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+UniqueIdentifier=1
+MiniID=4194659
+FactionID=128
+Type=8
+Base=2
+AbilitiesMask1=2251799847239962
+AbilitiesMask2=2199023536128
+AbilitiesMask3=8192
+CEEligibility=8193
+CELeadership=1
+
+[Vodo-Siosk Baas 4]
+Name=Vodo-Siosk Baas
+Set=Jedi Academy
+SetDisplay=Jedi Academy
+Faction=Old Republic
+CharacterJPGImage=JediAcademy_Pics\vodo-siosk_baas-JA04v.jpg
+Number=4
+Damage=20
+PlayCost=44
+Attack=15
+HitPoints=120
+Defense=22
+ForcePoints=5
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique</B></FONT><BR><FONT SIZE=4><B>Melee Attack</B></FONT> (Can attack only adjacent enemies)<BR><FONT SIZE=4><B>Double Attack</B></FONT> (On his turn, this character can make 1 extra attack instead of moving)<BR><FONT SIZE=4><B>Parry</B></FONT> (When hit by a melee attack, this character takes no damage with a save of 11)<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 5</B></FONT><BR><FONT SIZE=4><B>Force Alter</B></FONT> (Force 1: range 6; any 1 enemy rerolls its last attack)<BR><FONT SIZE=4><B>Force Spirit 4</B></FONT> (If this character is defeated, immediately add 4 Force points to an ally with a Force rating; that ally can spend Force points 1 extra time per turn for the rest of the skirmish)<BR><FONT SIZE=4><B>Master of the Force 2</B></FONT> (May spend Force points up to 2 times in a single turn)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="Master Vodo trained several notable Jedi, including Nomi Sunrider and the fallen Exar Kun."
+UniqueIdentifier=1
+MiniID=4194660
+FactionID=128
+Type=8
+Base=2
+AbilitiesMask1=266
+AbilitiesMask2=2216337735680
+AbilitiesMask3=8388640
+CEEligibility=73729
+CELeadership=0
+
+[Darth Maul, Sith Apprentice 5]
+Name=Darth Maul, Sith Apprentice
+Set=Jedi Academy
+SetDisplay=Jedi Academy
+Faction=Sith
+CharacterJPGImage=JediAcademy_Pics\darth_maul,sith_apprentice-JA05v.jpg
+Number=5
+Damage=20
+PlayCost=43
+Attack=11
+HitPoints=110
+Defense=20
+ForcePoints=2
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique</B></FONT><BR><FONT SIZE=4><B>Melee Attack</B></FONT> (Can attack only adjacent enemies)<BR><FONT SIZE=4><B>Triple Attack</B></FONT> (On his turn, this character can make 2 extra attacks instead of moving)<BR><FONT SIZE=4><B>Vaapad Style</B></FONT> (Scores a critical hit on an attack roll of natural 18, 19, or 20)<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 2</B></FONT><BR><FONT SIZE=4><B>Knight Speed</B></FONT> (Force 1: Can move 4 extra squares on his turn as part of his move)<BR><FONT SIZE=4><B>Lightsaber Riposte</B></FONT> (Force 1: When hit by a melee attack, this character can make an immediate attack against that attacker)<BR><FONT SIZE=4><B>Sith Rage</B></FONT> (Force 1: +10 Damage on all attacks this turn)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="The Zabrak Maul abandoned all trace of his former identity when he took on his Sith name."
+UniqueIdentifier=32768
+MiniID=4194661
+FactionID=256
+Type=8
+Base=2
+AbilitiesMask1=140806207833354
+AbilitiesMask2=2199023910912
+AbilitiesMask3=2097152
+CEEligibility=73729
+CELeadership=0
+
+[Darth Plagueis 6]
+Name=Darth Plagueis
+Set=Jedi Academy
+SetDisplay=Jedi Academy
+Faction=Sith
+CharacterJPGImage=JediAcademy_Pics\darth_plagueis-JA06v.jpg
+Number=6
+Damage=20
+PlayCost=63
+Attack=13
+HitPoints=120
+Defense=20
+ForcePoints=2
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique</B></FONT><BR><FONT SIZE=4><B>Melee Attack</B></FONT> (Can attack only adjacent enemies)<BR><FONT SIZE=4><B>Parry</B></FONT> (When hit by a melee attack, this character takes no damage with a save of 11)<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 2</B></FONT><BR><FONT SIZE=4><B>Force Renewal 2</B></FONT> (This character gets 2 Force points each time he activates)<BR><FONT SIZE=4><B>Essence of Life</B></FONT> (Force 2: When a living ally within 6 squares would be defeated, that ally makes a save of 11.  On a success, that ally has 10 Hit Points instead of being defeated.)<BR><FONT SIZE=4><B>Force Corruption 3</B></FONT> (Force 3, replaces turn: range 6, non-Droids only; target and each character adjacent to that target take 30 damage and are corrupted.  Each time a corrupted character activates, it must attempt a save of 11.  On a failure, that character takes 30 damage.  On a success, that character is no longer corrupted.)<BR><FONT SIZE=4><B>Force Corruption 4</B></FONT> (Force 4, replaces attacks: range 6, non-Droids only; 40 damage, and target is corrupted.  Each time the corrupted character activates, it must attempt a save of 11.  On a failure, that character takes 40 damage.  On a success, that character is no longer corrupted.)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+UniqueIdentifier=1
+MiniID=4194662
+FactionID=256
+Type=8
+Base=2
+AbilitiesMask1=33554698
+AbilitiesMask2=2199023386624
+AbilitiesMask3=32
+CEEligibility=73729
+CELeadership=0
+
+[Darth Sidious, Sith Master 7]
+Name=Darth Sidious, Sith Master
+Set=Jedi Academy
+SetDisplay=Jedi Academy
+Faction=Sith
+CharacterJPGImage=JediAcademy_Pics\darth_sidious,sith_master-JA07r.jpg
+Number=7
+Damage=20
+PlayCost=57
+Attack=15
+HitPoints=120
+Defense=19
+ForcePoints=2
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique</B></FONT><BR><FONT SIZE=4><B>Melee Attack</B></FONT> (Can attack only adjacent enemies)<BR><FONT SIZE=4><B>Triple Attack</B></FONT> (On his turn, this character can make 2 extra attacks instead of moving)<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 2</B></FONT><BR><FONT SIZE=4><B>Force Renewal 1</B></FONT> (This character gets 1 Force point each time he activates)<BR><FONT SIZE=4><B>Force Lightning 2</B></FONT> (Force 2, replaces attacks: range 6; 30 damage to 1 target and 2 characters adjacent to that target)<BR><FONT SIZE=4><B>Master of the Force 2</B></FONT> (May spend Force points up to 2 times in a single turn)<BR><FONT SIZE=4><B>Pawn of the Dark Side</B></FONT> (Force 1, replaces attacks: sight; 1 non-Unique ally takes an immediate turn, which does not count as one of your 2 activations this phase; at the end of that turn, it takes 10 damage)<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>At the end of this character's turn, 2 allies within 6 squares of this character can switch positions.
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>At the end of this character's turn, 2 allies within 6 squares of this character can switch positions.
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+UniqueIdentifier=2
+MiniID=4194663
+FactionID=256
+Type=4
+Base=2
+AbilitiesMask1=17213423898
+AbilitiesMask2=2199157997568
+CEEligibility=8193
+CELeadership=1
+
+[Krath War Droid 8]
+Name=Krath War Droid
+Set=Jedi Academy
+SetDisplay=Jedi Academy
+Faction=Sith
+CharacterJPGImage=JediAcademy_Pics\krath_war_droid-JA08c.jpg
+Number=8
+Damage=20
+PlayCost=18
+Attack=11
+HitPoints=40
+Defense=18
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Droid</B></FONT> (Immune to critical hits; not subject to commander effects)<BR><FONT SIZE=4><B>Melee Attack</B></FONT> (Can attack only adjacent enemies)<BR><FONT SIZE=4><B>Double Attack</B></FONT> (On its turn, this character can make 1 extra attack instead of moving)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="The savage and bloodthirsty Krath fought beside these droids to overwhelm their opponents with sheer numbers."
+UniqueIdentifier=0
+MiniID=4194664
+FactionID=256
+Type=1
+Base=2
+AbilitiesMask1=44
+AbilitiesMask2=4398046904320
+CEEligibility=541196290
+CELeadership=0
+
+[Naga Sadow 9]
+Name=Naga Sadow
+Set=Jedi Academy
+SetDisplay=Jedi Academy
+Faction=Sith
+CharacterJPGImage=JediAcademy_Pics\naga_sadow-JA09v.jpg
+Number=9
+Damage=20
+PlayCost=64
+Attack=14
+HitPoints=140
+Defense=21
+ForcePoints=2
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique</B></FONT><BR><FONT SIZE=4><B>Melee Attack</B></FONT> (Can attack only adjacent enemies)<BR><FONT SIZE=4><B>Double Attack</B></FONT> (On his turn, this character can make 1 extra attack instead of moving)<BR><FONT SIZE=4><B>Virulent Poison +20</B></FONT> (+20 Damage to living enemy; save 16)<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 2</B></FONT><BR><FONT SIZE=4><B>Force Renewal 1</B></FONT> (This character gets 1 Force point each time he activates)<BR><FONT SIZE=4><B>Force Storm 2</B></FONT> (Force 2, replaces attacks: 20 damage to all adjacent characters)<BR><FONT SIZE=4><B>Illusion</B></FONT> (Force 1: When hit by an attack, this character takes no damage unless the attacker makes a save of 11)<BR><FONT SIZE=4><B>Master of the Force 2</B></FONT> (May spend Force points up to 2 times in a single turn)<BR><FONT SIZE=4><B>Sith Sorcery</B></FONT> (Force 2, usable only on this character's turn: Enemies within 6 squares are considered activated this round; save 11)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+UniqueIdentifier=1
+MiniID=4194665
+FactionID=256
+Type=8
+Base=2
+AbilitiesMask1=33620234
+AbilitiesMask2=2199157866496
+AbilitiesMask3=33554432
+CEEligibility=73729
+CELeadership=0
+
+[Sith Apprentice 10]
+Name=Sith Apprentice
+Set=Jedi Academy
+SetDisplay=Jedi Academy
+Faction=Sith
+CharacterJPGImage=JediAcademy_Pics\sith_apprentice-JA10u.jpg
+Number=10
+Damage=20
+PlayCost=22
+Attack=10
+HitPoints=80
+Defense=17
+ForcePoints=3
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Melee Attack</B></FONT> (Can attack only adjacent enemies)<BR><FONT SIZE=4><B>Double Attack</B></FONT> (On his turn, this character can make 1 extra attack instead of moving)<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 3</B></FONT><BR><FONT SIZE=4><B>Force Grip 1</B></FONT> (Force 1, replaces attacks: sight; 10 damage)<BR><FONT SIZE=4><B>Lightsaber Throw 2</B></FONT> (Force 2, replaces attacks: Choose 1 target enemy within range 6.  Make 2 attacks against that target.)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="Each Sith Master trained an apprentice, sometimes called a Shadow Hand."
+UniqueIdentifier=0
+MiniID=4194666
+FactionID=256
+Type=2
+Base=2
+AbilitiesMask1=8589934860
+AbilitiesMask2=2199090757632
+CEEligibility=73731
+CELeadership=0
+
+[Sith Lord 11]
+Name=Sith Lord
+Set=Jedi Academy
+SetDisplay=Jedi Academy
+Faction=Sith
+CharacterJPGImage=JediAcademy_Pics\sith_lord-JA11u.jpg
+Number=11
+Damage=20
+PlayCost=23
+Attack=9
+HitPoints=90
+Defense=18
+ForcePoints=4
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Melee Attack</B></FONT> (Can attack only adjacent enemies)<BR><FONT SIZE=4><B>Double Attack</B></FONT> (On his turn, this character can make 1 extra attack instead of moving)<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 4</B></FONT><BR><FONT SIZE=4><B>Force Lightning 2</B></FONT> (Force 2, replaces attacks: range 6; 30 damage to 1 target and 2 characters adjacent to that target)<BR><FONT SIZE=4><B>Lightsaber Assault</B></FONT> (Force 1, replaces attacks: Make 2 attacks)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="Sith Lords are the undisputed masters of the dark side, ruling over worlds, commanding fleets, and plotting the overthrow of the Jedi."
+UniqueIdentifier=0
+MiniID=4194667
+FactionID=256
+Type=2
+Base=2
+AbilitiesMask1=17609365913868
+AbilitiesMask2=2199023648768
+CEEligibility=73731
+CELeadership=0
+
+[Antarian Ranger 12]
+Name=Antarian Ranger
+Set=Jedi Academy
+SetDisplay=Jedi Academy
+Faction=Republic
+CharacterJPGImage=JediAcademy_Pics\antarian_ranger-JA12c.jpg
+Number=12
+Damage=20
+PlayCost=12
+Attack=7
+HitPoints=40
+Defense=15
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Affinity</B></FONT> (This character may be in a New Republic or Old Republic squad)<BR><FONT SIZE=4><B>Stealth</B></FONT> (If this character has cover, he does not count as the nearest enemy for an attacker farther than 6 squares when choosing targets)<BR><FONT SIZE=4><B>Synergy</B></FONT> (+4 Attack and +4 Defense while an allied character with a Force rating is within 6 squares)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="The Antarian Rangers were formed 600 years before the Clone Wars to serve alongside the Jedi."
+UniqueIdentifier=0
+MiniID=4194668
+FactionID=4
+Type=1
+Base=2
+AbilitiesMask1=536870916
+AbilitiesMask2=4505798650757440
+CEEligibility=4259859
+CELeadership=0
+
+[The Dark Woman 13]
+Name=The Dark Woman
+Set=Jedi Academy
+SetDisplay=Jedi Academy
+Faction=Republic
+CharacterJPGImage=JediAcademy_Pics\the_dark_woman-JA13v.jpg
+Number=13
+Damage=20
+PlayCost=21
+Attack=10
+HitPoints=110
+Defense=19
+ForcePoints=4
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique</B></FONT><BR><FONT SIZE=4><B>Melee Attack</B></FONT> (Can attack only adjacent enemies)<BR><FONT SIZE=4><B>Light Tutor</B></FONT> (At the start of the skirmish, choose an ally.  If that ally does not have a Force rating, it gains <B>Force 1</B> and can spend this Force point normally; it is considered to have a Force rating for the rest of the skirmish.  If that ally already has a Force rating, it gains 1 Force point.)<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 4</B></FONT><BR><FONT SIZE=4><B>Force Cloak</B></FONT> (Force 2, replaces turn: For the rest of the skirmish, this character gains <B>Cloaked</B> [If this character has cover, she cannot be targeted by nonadjacent enemies])<BR><FONT SIZE=4><B>Force Phase</B></FONT> (Force 1: Can move through walls this turn)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+UniqueIdentifier=1
+MiniID=4194669
+FactionID=4
+Type=8
+Base=2
+AbilitiesMask1=266
+AbilitiesMask2=2199023386624
+AbilitiesMask3=512
+CEEligibility=73729
+CELeadership=0
+
+[Grand Master Yoda 14]
+Name=Grand Master Yoda
+Set=Jedi Academy
+SetDisplay=Jedi Academy
+Faction=Republic
+CharacterJPGImage=JediAcademy_Pics\grand_master_yoda-JA14r.jpg
+Number=14
+Damage=20
+PlayCost=55
+Attack=15
+HitPoints=150
+Defense=22
+ForcePoints=3
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique</B></FONT><BR><FONT SIZE=4><B>Melee Attack</B></FONT> (Can attack only adjacent enemies)<BR><FONT SIZE=4><B>Double Attack</B></FONT> (On his turn, this character can make 1 extra attack instead of moving)<BR><FONT SIZE=4><B>Ataru Style Mastery</B></FONT> (+4 Attack and <B>Twin Attack</B> [Whenever this character attacks, he makes 1 extra attack against the same target] if exactly 1 enemy is within 6 squares)<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 3</B></FONT><BR><FONT SIZE=4><B>Force Renewal 1</B></FONT> (This character gets 1 Force point each time he activates)<BR><FONT SIZE=4><B>Force Defense</B></FONT> (Force 3: Cancel a Force power used by a character within 6 squares)<BR><FONT SIZE=4><B>Lightsaber Defense</B></FONT> (Force 1: When hit by an attack, takes no damage with a save of 11)<BR><FONT SIZE=4><B>Lightsaber Throw 3</B></FONT> (Force 3, replaces turn: Choose 1 enemy within line of sight, ignoring cover.  Make an attack against the chosen enemy and each character adjacent to that enemy.)<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>Followers within 6 squares get +3 Attack and +3 Defense.
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>Followers within 6 squares get +3 Attack and +3 Defense.
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+UniqueIdentifier=2048
+MiniID=4194670
+FactionID=4
+Type=4
+Base=1
+AbilitiesMask1=2251799847239962
+AbilitiesMask2=2199090626560
+AbilitiesMask3=16384
+CEEligibility=8193
+CELeadership=65536
+
+[Heavy Clone Trooper 15]
+Name=Heavy Clone Trooper
+Set=Jedi Academy
+SetDisplay=Jedi Academy
+Faction=Republic
+CharacterJPGImage=JediAcademy_Pics\heavy_clone_trooper-JA15c.jpg
+Number=15
+Damage=30
+PlayCost=13
+Attack=9
+HitPoints=20
+Defense=14
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Order 66</B></FONT><BR><FONT SIZE=4><B>Heavy Weapon</B></FONT> (Can't attack and move in the same turn)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="These heavy weapons specialists supported the ranks of the Republic's clone troopers."
+UniqueIdentifier=0
+MiniID=4194671
+FactionID=4
+Type=1
+Base=2
+AbilitiesMask1=32772
+AbilitiesMask2=5631698557599746
+CEEligibility=5324803
+CELeadership=0
+
+[Master K'Kruhk 16]
+Name=Master K'Kruhk
+Set=Jedi Academy
+SetDisplay=Jedi Academy
+Faction=Republic
+CharacterJPGImage=JediAcademy_Pics\master_k'kruhk-JA16v.jpg
+Number=16
+Damage=30
+PlayCost=52
+Attack=12
+HitPoints=150
+Defense=20
+ForcePoints=4
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique</B></FONT><BR><FONT SIZE=4><B>Melee Attack</B></FONT> (Can attack only adjacent enemies)<BR><FONT SIZE=4><B>Double Attack</B></FONT> (On his turn, this character can make 1 extra attack instead of moving)<BR><FONT SIZE=4><B>Avoid Defeat</B></FONT> (Whenever this character would be defeated, make 2 saves, each needing 11; if both succeed, this character has 10 Hit Points instead of being defeated)<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 4</B></FONT><BR><FONT SIZE=4><B>Force Heal 20</B></FONT> (Force 2, replaces attacks: touch; remove 20 damage from a living character)<BR><FONT SIZE=4><B>Force Leap</B></FONT> (Force 1: This turn, this character can move through enemies without provoking attacks of opportunity)<BR><FONT SIZE=4><B>Lightsaber Deflect</B></FONT> (Force 1: When hit by a nonmelee attack, this character takes no damage with a save of 11)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+UniqueIdentifier=1
+MiniID=4194672
+FactionID=4
+Type=8
+Base=2
+AbilitiesMask1=38654714122
+AbilitiesMask2=2748779462656
+CEEligibility=73729
+CELeadership=0
+
+[Qui-Gon Jinn, Jedi Trainer 17]
+Name=Qui-Gon Jinn, Jedi Trainer
+Set=Jedi Academy
+SetDisplay=Jedi Academy
+Faction=Republic
+CharacterJPGImage=JediAcademy_Pics\qui_gon_jinn,jedi_trainer-JA17r.jpg
+Number=17
+Damage=20
+PlayCost=24
+Attack=12
+HitPoints=90
+Defense=19
+ForcePoints=4
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique</B></FONT><BR><FONT SIZE=4><B>Melee Attack</B></FONT> (Can attack only adjacent enemies)<BR><FONT SIZE=4><B>Double Attack</B></FONT> (On his turn, this character can make 1 extra attack instead of moving)<BR><FONT SIZE=4><B>Ataru Style</B></FONT> (+4 Attack if exactly 1 enemy is within 6 squares)<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 4</B></FONT><BR><FONT SIZE=4><B>Force Push 1</B></FONT> (Force 1, replaces attacks: range 6; 10 damage; push back target 1 square if Huge or smaller)<BR><FONT SIZE=4><B>Jedi Mind Trick</B></FONT> (Force 1, usable only on this character's turn: range 2; target living enemy is considered activated this round and cannot make attacks of opportunity this turn; save 11)<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>Allied characters with a Force rating and with a printed Attack rating of 10 or less get +4 Attack.
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>Allied characters with a Force rating and with a printed Attack rating of 10 or less get +4 Attack.
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+UniqueIdentifier=262144
+MiniID=4194673
+FactionID=4
+Type=4
+Base=2
+AbilitiesMask1=282
+AbilitiesMask2=1152958888002453504
+AbilitiesMask3=16384
+CEEligibility=8193
+CELeadership=8193
+
+[Youngling 18]
+Name=Youngling
+Set=Jedi Academy
+SetDisplay=Jedi Academy
+Faction=Republic
+CharacterJPGImage=JediAcademy_Pics\youngling-JA18c.jpg
+Number=18
+Damage=20
+PlayCost=5
+Attack=2
+HitPoints=10
+Defense=15
+ForcePoints=1
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Melee Attack</B></FONT> (Can attack only adjacent enemies)<BR><FONT SIZE=4><B>Affinity</B></FONT> (This character may be in an Old Republic squad)<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 1</B></FONT><BR><FONT SIZE=4><B>Lightsaber Deflect</B></FONT> (Force 1: When hit by a nonmelee attack, this character takes no damage with a save of 11)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="New recruits to the Jedi Order are known as younglings until chosen by a Jedi Knight or Master for apprenticeship."
+UniqueIdentifier=0
+MiniID=4194674
+FactionID=4
+Type=1
+Base=1
+AbilitiesMask1=34359738636
+AbilitiesMask2=2199023386880
+CEEligibility=73731
+CELeadership=0
+
+[Rocket Battle Droid 19]
+Name=Rocket Battle Droid
+Set=Jedi Academy
+SetDisplay=Jedi Academy
+Faction=Separatists
+CharacterJPGImage=JediAcademy_Pics\rocket_battle_droid-JA19c.jpg
+Number=19
+Damage=10
+PlayCost=6
+Attack=2
+HitPoints=10
+Defense=12
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Droid</B></FONT> (Immune to critical hits; not subject to commander effects)<BR><FONT SIZE=4><B>Flight</B></FONT> (Ignores difficult terrain, enemy characters, low objects, and pits when moving)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText=""Time to put the squeeze on them.""
+UniqueIdentifier=0
+MiniID=4194675
+FactionID=8
+Type=1
+Base=2
+AbilitiesMask1=100
+AbilitiesMask2=4507997674012672
+CEEligibility=541196290
+CELeadership=0
+
+[Disciple of Ragnos 20]
+Name=Disciple of Ragnos
+Set=Jedi Academy
+SetDisplay=Jedi Academy
+Faction=Imperial
+CharacterJPGImage=JediAcademy_Pics\disciple_of_ragnos-JA20c.jpg
+Number=20
+Damage=10
+PlayCost=20
+Attack=5
+HitPoints=50
+Defense=17
+ForcePoints=2
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Melee Attack</B></FONT> (Can attack only adjacent enemies)<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 2</B></FONT><BR><FONT SIZE=4><B>Force Renewal 1</B></FONT> (This character gets 1 Force point each time he activates)<BR><FONT SIZE=4><B>Force Corruption 2</B></FONT> (Force 2, replaces attacks: range 6, non-Droids only; 20 damage, and target is corrupted.  Each time the corrupted character activates, it must attempt a save of 11.  On a failure, that character takes 20 damage.  On a success, that character is no longer corrupted.)<BR><FONT SIZE=4><B>Force Lightning 2</B></FONT> (Force 2, replaces attacks: range 6; 30 damage to 1 target and 2 characters adjacent to that target)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="These Sith cultists plan to resurrect the ancient Sith Lord Marka Ragnos."
+UniqueIdentifier=0
+MiniID=4194676
+FactionID=2
+Type=1
+Base=2
+AbilitiesMask1=17213423884
+AbilitiesMask2=2199023386624
+CEEligibility=1099511701507
+CELeadership=0
+
+[Imperial Sentinel 21]
+Name=Imperial Sentinel
+Set=Jedi Academy
+SetDisplay=Jedi Academy
+Faction=Imperial
+CharacterJPGImage=JediAcademy_Pics\imperial_sentinel-JA21u.jpg
+Number=21
+Damage=40
+PlayCost=51
+Attack=12
+HitPoints=160
+Defense=20
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Speed 8</B></FONT><BR><FONT SIZE=4><B>Melee Attack</B></FONT> (Can attack only adjacent enemies)<BR><FONT SIZE=4><B>Melee Reach 2</B></FONT> (When attacking, this character treats enemies up to 2 squares away as adjacent)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="Created through a dark mix of Sith alchemy and cloning technology, these mute giants are entirely under the control of their master."
+UniqueIdentifier=0
+MiniID=4194677
+FactionID=2
+Type=2
+Base=4
+AbilitiesMask1=12
+AbilitiesMask2=2199023390720
+AbilitiesMask3=16
+CEEligibility=4259843
+CELeadership=0
+
+[Reborn 22]
+Name=Reborn
+Set=Jedi Academy
+SetDisplay=Jedi Academy
+Faction=Imperial
+CharacterJPGImage=JediAcademy_Pics\reborn-JA22c.jpg
+Number=22
+Damage=20
+PlayCost=9
+Attack=7
+HitPoints=30
+Defense=15
+ForcePoints=1
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Melee Attack</B></FONT> (Can attack only adjacent enemies)<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 1</B></FONT><BR><FONT SIZE=4><B>Lightsaber Deflect</B></FONT> (Force 1: When hit by a nonmelee attack, this character takes no damage with a save of 11)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="The Reborn were created by imbuing the power of the Force into those not born with it.  They served as foot soldiers for the Dark Jedi of the Empire Reborn."
+UniqueIdentifier=0
+MiniID=4194678
+FactionID=2
+Type=1
+Base=2
+AbilitiesMask1=34359738636
+AbilitiesMask2=2199023386624
+CEEligibility=73731
+CELeadership=0
+
+[Stormtrooper 23]
+Name=Stormtrooper
+Set=Jedi Academy
+SetDisplay=Jedi Academy
+Faction=Imperial
+CharacterJPGImage=JediAcademy_Pics\stormtrooper-JA23c.jpg
+Number=23
+Damage=10
+PlayCost=5
+Attack=4
+HitPoints=10
+Defense=16
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>None</B></FONT>
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText=""The clone troopers, now proudly bearing the honorable rank of Imperial stormtroopers, have tackled the dangerous work of fighting our enemies on the front lines." -Emperor Palpatine"
+UniqueIdentifier=0
+MiniID=4194679
+FactionID=2
+Type=1
+Base=2
+AbilitiesMask1=4
+AbilitiesMask2=5631698557599744
+CEEligibility=4276227
+CELeadership=0
+
+[Anakin Solo 24]
+Name=Anakin Solo
+Set=Jedi Academy
+SetDisplay=Jedi Academy
+Faction=New Republic
+CharacterJPGImage=JediAcademy_Pics\anakin_solo-JA24r.jpg
+Number=24
+Damage=20
+PlayCost=23
+Attack=8
+HitPoints=50
+Defense=18
+ForcePoints=3
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique</B></FONT><BR><FONT SIZE=4><B>Pilot</B></FONT><BR><FONT SIZE=4><B>Melee Attack</B></FONT> (Can attack only adjacent enemies)<BR><FONT SIZE=4><B>Double Attack</B></FONT> (On his turn, this character can make 1 extra attack instead of moving)<BR><FONT SIZE=4><B>Industrial Repair 30</B></FONT> (Replaces attacks: touch; remove 30 damage from 1 character with Mounted Weapon)<BR><FONT SIZE=4><B>Synergy</B></FONT> (+4 Attack for each ally whose name contains Solo within 6 squares)<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 3</B></FONT><BR><FONT SIZE=4><B>Force Renewal 1</B></FONT> (This character gets 1 Force point each time he activates)<BR><FONT SIZE=4><B>Force Push 2</B></FONT> (Force 2, replaces attacks: range 6; 20 damage; push back target 2 squares if Huge or smaller)<BR><FONT SIZE=4><B>Lightsaber Block</B></FONT> (Force 1: When hit by a melee attack, this character takes no damage with a save of 11)<BR><FONT SIZE=4><B>Unleash the Force 60</B></FONT> (Force 4, replaces attacks, usable only after an ally with a Force rating is defeated: 60 damage to all other characters within 6 squares; save 11 for half damage)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+UniqueIdentifier=1
+MiniID=4194680
+FactionID=32
+Type=4
+Base=2
+AbilitiesMask1=274911461642
+AbilitiesMask2=1306046090961092672
+CEEligibility=67182657
+CELeadership=0
+
+[Cade Skywalker, Padawan 25]
+Name=Cade Skywalker, Padawan
+Set=Jedi Academy
+SetDisplay=Jedi Academy
+Faction=New Republic
+CharacterJPGImage=JediAcademy_Pics\cade_skywalker,padawan-JA25r.jpg
+Number=25
+Damage=20
+PlayCost=20
+Attack=8
+HitPoints=60
+Defense=16
+ForcePoints=2
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique</B></FONT><BR><FONT SIZE=4><B>Melee Attack</B></FONT> (Can attack only adjacent enemies)<BR><FONT SIZE=4><B>Double Attack</B></FONT> (On his turn, this character can make 1 extra attack instead of moving)<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 2</B></FONT><BR><FONT SIZE=4><B>Force Renewal 1</B></FONT> (This character gets 1 Force point each time he activates)<BR><FONT SIZE=4><B>Essence of Life</B></FONT> (Force 2: When a living ally within 6 squares would be defeated, that ally makes a save of 11.  On a success, that ally has 10 Hit Points instead of being defeated.)<BR><FONT SIZE=4><B>Force Heal 20</B></FONT> (Force 2, replaces attacks: touch; remove 20 damage from a living character)<BR><FONT SIZE=4><B>Force Leap</B></FONT> (Force 1: This turn, this character can move through enemies without provoking attacks of opportunity)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText=""You're a Skywalker, Cade!  Act like one!" -Kol Skywalker"
+UniqueIdentifier=1
+MiniID=4194681
+FactionID=32
+Type=4
+Base=2
+AbilitiesMask1=4328530186
+AbilitiesMask2=2199023648768
+CEEligibility=73729
+CELeadership=0
+
+[Exceptional Jedi Apprentice 26]
+Name=Exceptional Jedi Apprentice
+Set=Jedi Academy
+SetDisplay=Jedi Academy
+Faction=New Republic
+CharacterJPGImage=JediAcademy_Pics\exceptional_jedi_apprentice-JA26u.jpg
+Number=26
+Damage=20
+PlayCost=24
+Attack=8
+HitPoints=60
+Defense=17
+ForcePoints=2
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Melee Attack</B></FONT> (Can attack only adjacent enemies)<BR><FONT SIZE=4><B>Double Attack</B></FONT> (On his turn, this character can make 1 extra attack instead of moving)<BR><FONT SIZE=4><B>Impulsive Jedi Hunter</B></FONT> (If a Unique allied character is defeated, for the remainder of the skirmish this character has <B>Jedi Hunter</B> [+4 Attack and +10 Damage against enemies with Force ratings])<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 2</B></FONT><BR><FONT SIZE=4><B>Force Renewal 1</B></FONT> (This character gets 1 Force point each time he activates)<BR><FONT SIZE=4><B>Force Push 2</B></FONT> (Force 2, replaces attacks: range 6; 20 damage; push back target 2 squares if Huge or smaller)<BR><FONT SIZE=4><B>Lightsaber Block</B></FONT> (Force 1: When hit by a melee attack, this character takes no damage with a save of 11)<BR><FONT SIZE=4><B>Master Speed</B></FONT> (Force 1: This character can move 6 extra squares on his turn as part of his move)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+UniqueIdentifier=0
+MiniID=4194682
+FactionID=32
+Type=2
+Base=2
+AbilitiesMask1=274919850252
+AbilitiesMask2=1152923841069514752
+CEEligibility=73731
+CELeadership=0
+
+[Grand Master Luke Skywalker 27]
+Name=Grand Master Luke Skywalker
+Set=Jedi Academy
+SetDisplay=Jedi Academy
+Faction=New Republic
+CharacterJPGImage=JediAcademy_Pics\grand_master_luke_skywalker-JA27r.jpg
+Number=27
+Damage=20
+PlayCost=115
+Attack=19
+HitPoints=150
+Defense=23
+ForcePoints=2
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique</B></FONT><BR><FONT SIZE=4><B>Melee Attack</B></FONT> (Can attack only adjacent enemies)<BR><FONT SIZE=4><B>Triple Attack</B></FONT> (On his turn, this character can make 2 extra attacks instead of moving)<BR><FONT SIZE=4><B>Djem So Style Mastery</B></FONT> (Whenever this character is hit by a melee attack, make a save of 11.  On a success, this character can make an immediate attack against that attacker with +10 Damage.)<BR><FONT SIZE=4><B>Twin Attack</B></FONT> (Whenever this character attacks, he makes 1 extra attack against the same target)<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 2</B></FONT><BR><FONT SIZE=4><B>Force Renewal 2</B></FONT> (This character gets 2 Force points each time he activates)<BR><FONT SIZE=4><B>Master of the Force 2</B></FONT> (May spend Force points up to 2 times in a single turn)<BR><FONT SIZE=4><B>Force Defense</B></FONT> (Force 3: Cancel a Force power used by a character within 6 squares)<BR><FONT SIZE=4><B>Lightsaber Defense</B></FONT> (Force 1: When hit by an attack, takes no damage with a save of 11)<BR><FONT SIZE=4><B>Master Speed</B></FONT> (Force 1: This character can move 6 extra squares on his turn as part of his move)<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>Each ally with a Force rating gains <B>Force Renewal 1</B>.
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>Each ally with a Force rating gains <B>Force Renewal 1</B>.
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+UniqueIdentifier=8
+MiniID=4194683
+FactionID=32
+Type=4
+Base=2
+AbilitiesMask1=2251799847239962
+AbilitiesMask2=2199174840320
+AbilitiesMask3=32768
+CEEligibility=34359746561
+CELeadership=8193
+
+[Kol Skywalker 28]
+Name=Kol Skywalker
+Set=Jedi Academy
+SetDisplay=Jedi Academy
+Faction=New Republic
+CharacterJPGImage=JediAcademy_Pics\kol_skywalker-JA28v.jpg
+Number=28
+Damage=20
+PlayCost=38
+Attack=14
+HitPoints=130
+Defense=21
+ForcePoints=2
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique</B></FONT><BR><FONT SIZE=4><B>Melee Attack</B></FONT> (Can attack only adjacent enemies)<BR><FONT SIZE=4><B>Double Attack</B></FONT> (On his turn, this character can make 1 extra attack instead of moving)<BR><FONT SIZE=4><B>Lightsaber Duelist</B></FONT> (+4 Defense when attacked by an adjacent enemy with a Force rating)<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 2</B></FONT><BR><FONT SIZE=4><B>Force Renewal 1</B></FONT> (This character gets 1 Force point each time he activates)<BR><FONT SIZE=4><B>Force Push 2</B></FONT> (Force 2, replaces attacks: range 6; 20 damage; push back target 2 squares if Huge or smaller)<BR><FONT SIZE=4><B>Lightsaber Block</B></FONT> (Force 1: When hit by a melee attack, this character takes no damage with a save of 11)<BR><FONT SIZE=4><B>Lightsaber Precision</B></FONT> (Force 1: This character gets +10 Damage on his next attack)<BR><FONT SIZE=4><B>Master of the Force 2</B></FONT> (May spend Force points up to 2 times in a single turn)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+UniqueIdentifier=1
+MiniID=4194684
+FactionID=32
+Type=8
+Base=2
+AbilitiesMask1=412350415114
+AbilitiesMask2=1152923703764729856
+CEEligibility=73729
+CELeadership=0
+
+[Kyle Katarn, Combat Instructor 29]
+Name=Kyle Katarn, Combat Instructor
+Set=Jedi Academy
+SetDisplay=Jedi Academy
+Faction=New Republic
+CharacterJPGImage=JediAcademy_Pics\kyle_katarn,combat_instructor-JA29r.jpg
+Number=29
+Damage=20
+PlayCost=46
+Attack=13
+HitPoints=140
+Defense=19
+ForcePoints=2
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique</B></FONT><BR><FONT SIZE=4><B>Melee Attack</B></FONT> (Can attack only adjacent enemies)<BR><FONT SIZE=4><B>Double Attack</B></FONT> (On his turn, this character can make 1 extra attack instead of moving)<BR><FONT SIZE=4><B>Disruptive</B></FONT> (Suppresses enemy commander effects within 6 squares)<BR><FONT SIZE=4><B>Lightsaber Duelist</B></FONT> (+4 Defense when attacked by an adjacent enemy with a Force rating)<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 2</B></FONT><BR><FONT SIZE=4><B>Force Renewal 1</B></FONT> (This character gets 1 Force point each time he activates)<BR><FONT SIZE=4><B>Lightsaber Block</B></FONT> (Force 1: When hit by a melee attack, this character takes no damage with a save of 11)<BR><FONT SIZE=4><B>Lightsaber Riposte</B></FONT> (Force 1: When hit by a melee attack, this character can make an immediate attack against that attacker)<BR><FONT SIZE=4><B>Master of the Force 2</B></FONT> (May spend Force points up to 2 times in a single turn)<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>Allies within 6 squares gain <B>Lightsaber Duelist</B>.
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>Allies within 6 squares gain <B>Lightsaber Duelist</B>.
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+UniqueIdentifier=36028797018963968
+MiniID=4194685
+FactionID=32
+Type=4
+Base=2
+AbilitiesMask1=343630938394
+AbilitiesMask2=19791343796224
+CEEligibility=8193
+CELeadership=1
+
+[Leia Skywalker, Jedi Knight 30]
+Name=Leia Skywalker, Jedi Knight
+Set=Jedi Academy
+SetDisplay=Jedi Academy
+Faction=New Republic
+CharacterJPGImage=JediAcademy_Pics\leia_skywalker,jedi_knight-JA30r.jpg
+Number=30
+Damage=20
+PlayCost=25
+Attack=9
+HitPoints=90
+Defense=18
+ForcePoints=2
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Unique</B></FONT><BR><FONT SIZE=4><B>Melee Attack</B></FONT> (Can attack only adjacent enemies)<BR><FONT SIZE=4><B>Double Attack</B></FONT> (On her turn, this character can make 1 extra attack instead of moving)<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 2</B></FONT><BR><FONT SIZE=4><B>Force Renewal 1</B></FONT> (This character gets 1 Force point each time she activates)<BR><FONT SIZE=4><B>Force Absorb</B></FONT> (Force 2: Cancel a Force power used by an adjacent character)<BR><FONT SIZE=4><B>Force Sense</B></FONT> (Force 1, usable only on this character's turn: Enemies lose Stealth for the rest of the round)<BR><FONT SIZE=4><B>Lightsaber Throw 2</B></FONT> (Force 2, replaces attacks: Choose 1 target enemy within range 6.  Make 2 attacks against that target.)<BR><BR><FONT SIZE=4><B>Commander Effect</B></FONT><BR>Each ally within 6 squares can reroll each failed save once.
+CommanderEffect=<FONT SIZE=5><B>Commander Effect</B></FONT><BR>Each ally within 6 squares can reroll each failed save once.
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText=""Keep fighting.  I promise you, we will prevail.""
+UniqueIdentifier=64
+MiniID=4194686
+FactionID=32
+Type=4
+Base=2
+AbilitiesMask1=33554714
+AbilitiesMask2=2305846307815948288
+CEEligibility=8193
+CELeadership=1
+
+[Crimson Nova Bounty Hunter 31]
+Name=Crimson Nova Bounty Hunter
+Set=Jedi Academy
+SetDisplay=Jedi Academy
+Faction=Fringe
+CharacterJPGImage=JediAcademy_Pics\crimson_nova_bounty_hunter-JA31u.jpg
+Number=31
+Damage=10
+PlayCost=15
+Attack=4
+HitPoints=30
+Defense=14
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Bounty Hunter +2</B></FONT> (+2 Attack against Unique enemies)<BR><FONT SIZE=4><B>Cunning Attack +10</B></FONT> (+4 Attack and +10 Damage against an enemy who has not activated this round)<BR><FONT SIZE=4><B>Jedi Hunter</B></FONT> (+4 Attack and +10 Damage against enemies with Force ratings)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="During the Clone Wars, this chapter of the Bounty Hunters Guild was approached by Kh'aris Fenn to hunt down Jedi."
+UniqueIdentifier=0
+MiniID=4194687
+FactionID=16
+Type=2
+Base=2
+AbilitiesMask1=8393220
+AbilitiesMask2=4505798650757120
+CEEligibility=4292611
+CELeadership=0
+
+[Felucian 32]
+Name=Felucian
+Set=Jedi Academy
+SetDisplay=Jedi Academy
+Faction=Fringe
+CharacterJPGImage=JediAcademy_Pics\felucian-JA32u.jpg
+Number=32
+Damage=20
+PlayCost=7
+Attack=7
+HitPoints=10
+Defense=15
+ForcePoints=1
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Melee Attack</B></FONT> (Can attack only adjacent enemies)<BR><FONT SIZE=4><B>Parry</B></FONT> (When hit by a melee attack, this character takes no damage with a save of 11)<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 1</B></FONT><BR><FONT SIZE=4><B>Force Blast</B></FONT> (Force 1, replaces attacks: range 6; 20 damage; save 11)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="Shaak Ti trained these Force-sensitive people to fight against the Sith following the Great Jedi Purge."
+UniqueIdentifier=0
+MiniID=4194688
+FactionID=16
+Type=2
+Base=2
+AbilitiesMask1=268
+AbilitiesMask2=2199023386624
+AbilitiesMask3=32
+CEEligibility=73731
+CELeadership=0
+
+[HK-50 Assassin Droid 33]
+Name=HK-50 Assassin Droid
+Set=Jedi Academy
+SetDisplay=Jedi Academy
+Faction=Fringe
+CharacterJPGImage=JediAcademy_Pics\hk-50_assassin_droid-JA33u.jpg
+Number=33
+Damage=30
+PlayCost=27
+Attack=10
+HitPoints=70
+Defense=18
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Droid</B></FONT> (Immune to critical hits; not subject to commander effects)<BR><FONT SIZE=4><B>Opportunist</B></FONT> (+4 Attack and +10 Damage against an enemy who has activated this round)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText=""Statement: I do not understand what you hope to gain by fighting us.  You have no chance of victory.""
+UniqueIdentifier=0
+MiniID=4194689
+FactionID=16
+Type=2
+Base=2
+AbilitiesMask1=1152921504606847012
+AbilitiesMask2=4507997674012672
+CEEligibility=541196290
+CELeadership=0
+
+[Jensaarai Defender 34]
+Name=Jensaarai Defender
+Set=Jedi Academy
+SetDisplay=Jedi Academy
+Faction=Fringe
+CharacterJPGImage=JediAcademy_Pics\jensaarai_defender-JA34u.jpg
+Number=34
+Damage=20
+PlayCost=45
+Attack=12
+HitPoints=90
+Defense=21
+ForcePoints=3
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Melee Attack</B></FONT> (Can attack only adjacent enemies)<BR><FONT SIZE=4><B>Double Attack</B></FONT> (On his turn, this character can make 1 extra attack instead of moving)<BR><FONT SIZE=4><B>Draw Fire</B></FONT> (If an enemy targets an ally within 6 squares of this character, you may force that enemy to target this character instead if it can; save 11)<BR><FONT SIZE=4><B>Force-Attuned Armor</B></FONT> (Whenever this character takes damage, he reduces the damage dealt by 10 with a save of 11)<BR><BR><FONT SIZE=4><B>Force Powers</B></FONT><BR><FONT SIZE=4><B>Force 3</B></FONT><BR><FONT SIZE=4><B>Lightsaber Deflect</B></FONT> (Force 1: When hit by a nonmelee attack, this character takes no damage with a save of 11)<BR><FONT SIZE=4><B>Lightsaber Precision</B></FONT> (Force 1: This character gets +10 Damage on his next attack)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="Jensaarai, "the hidden followers of truth," blend Jedi and Sith traditions."
+UniqueIdentifier=0
+MiniID=4194690
+FactionID=16
+Type=2
+Base=2
+AbilitiesMask1=171798692108
+AbilitiesMask2=2201171132416
+CEEligibility=73731
+CELeadership=0
+
+[Peace Brigade Thug 35]
+Name=Peace Brigade Thug
+Set=Jedi Academy
+SetDisplay=Jedi Academy
+Faction=Fringe
+CharacterJPGImage=JediAcademy_Pics\peace_brigade_thug-JA35c.jpg
+Number=35
+Damage=10
+PlayCost=4
+Attack=2
+HitPoints=10
+Defense=10
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Yuuzhan Vong Collaborator</B></FONT> (Yuuzhan Vong get +1 Attack for each character with Yuuzhan Vong Collaborator within 4 squares of their target)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="Believing that the New Republic was doomed to fall to the Yuuzhan Vong, the Peace Brigade sided with the invaders."
+UniqueIdentifier=0
+MiniID=4194691
+FactionID=16
+Type=1
+Base=2
+AbilitiesMask1=4
+AbilitiesMask2=4505798650757120
+CEEligibility=4259843
+CELeadership=0
+
+[R4 Astromech Droid 36]
+Name=R4 Astromech Droid
+Set=Jedi Academy
+SetDisplay=Jedi Academy
+Faction=Fringe
+CharacterJPGImage=JediAcademy_Pics\r4_astromech_droid-JA36c.jpg
+Number=36
+Damage=0
+PlayCost=8
+Attack=0
+HitPoints=20
+Defense=15
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Droid</B></FONT> (Immune to critical hits; not subject to commander effects)<BR><FONT SIZE=4><B>Targeting</B></FONT> (Until the end of the round, target enemy has -4 Defense)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="The Industrial Automaton R-series astromech droids are ubiquitous throughout the galaxy, performing in-flight starship repairs and assisting with hyperspace navigation."
+UniqueIdentifier=0
+MiniID=4194692
+FactionID=16
+Type=1
+Base=1
+AbilitiesMask1=36
+AbilitiesMask2=4507997674012672
+CEEligibility=541196290
+CELeadership=0
+
+[Death Watch Raider 37]
+Name=Death Watch Raider
+Set=Jedi Academy
+SetDisplay=Jedi Academy
+Faction=Mandalorian
+CharacterJPGImage=JediAcademy_Pics\death_watch_raider-JA37c.jpg
+Number=37
+Damage=20
+PlayCost=15
+Attack=7
+HitPoints=40
+Defense=17
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Cunning Attack +10</B></FONT> (+4 Attack and +10 Damage against an enemy who has not activated this round)<BR><FONT SIZE=4><B>Internal Strife</B></FONT> (On an attack roll of natural 1, this character joins the opponent's squad until the end of the skirmish)<BR><FONT SIZE=4><B>Mobile Attack</B></FONT> (Can move both before and after attacking)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="The Death Watch was a violent splinter group of mercenaries who disagreed with Mandalore Jaster Mereel's insistence on honorable behavior."
+UniqueIdentifier=0
+MiniID=4194693
+FactionID=512
+Type=1
+Base=2
+AbilitiesMask1=2101252
+AbilitiesMask2=4505798650757120
+CEEligibility=37816323
+CELeadership=0
+
+[Praetorite Vong Priest 38]
+Name=Praetorite Vong Priest
+Set=Jedi Academy
+SetDisplay=Jedi Academy
+Faction=Yuuzhan Vong
+CharacterJPGImage=JediAcademy_Pics\praetorite_vong_priest-JA38u.jpg
+Number=38
+Damage=10
+PlayCost=18
+Attack=4
+HitPoints=40
+Defense=15
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Melee Attack</B></FONT> (Can attack only adjacent enemies)<BR><FONT SIZE=4><B>Force Immunity</B></FONT> (Enemies cannot affect this character with Force powers, or spend Force points to reroll attacks against this character or to respond to this character's attacks and abilities)<BR><FONT SIZE=4><B>Scarification +10</B></FONT> (Wounded Yuuzhan Vong allies within 6 squares get +4 Attack and +10 Damage)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+FlavorText="The Praetorite Vong led the Yuuzhan Vong invasion forces, commanded by fanatic priests waging a crusade against the "infidel" Jedi."
+UniqueIdentifier=0
+MiniID=4194694
+FactionID=64
+Type=2
+Base=2
+AbilitiesMask1=281474976710668
+AbilitiesMask2=2199023386624
+CEEligibility=1099650105347
+CELeadership=0
+
+[Praetorite Vong Warrior 39]
+Name=Praetorite Vong Warrior
+Set=Jedi Academy
+SetDisplay=Jedi Academy
+Faction=Yuuzhan Vong
+CharacterJPGImage=JediAcademy_Pics\praetorite_vong_warrior-JA39c.jpg
+Number=39
+Damage=10
+PlayCost=22
+Attack=8
+HitPoints=60
+Defense=16
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Melee Attack</B></FONT> (Can attack only adjacent enemies)<BR><FONT SIZE=4><B>Cunning Attack +20</B></FONT> (+4 Attack and +20 Damage against an enemy who has not activated this round)<BR><FONT SIZE=4><B>Force Immunity</B></FONT> (Enemies cannot affect this character with Force powers, or spend Force points to reroll attacks against this character or to respond to this character's attacks and abilities)<BR><FONT SIZE=4><B>Thud Bug</B></FONT> (Replaces attacks: range 6; 10 damage, living target is considered activated this round; save 11 negates.  Huge and larger characters ignore the nondamaging effect.)<BR><FONT SIZE=4><B>Twin Attack</B></FONT> (Whenever this character attacks, he makes 1 extra attack against the same target)<BR><FONT SIZE=4><B>Vonduun Crab Armor 11</B></FONT> (When this character takes damage, he can reduce the damage dealt by 10 with a save of 11)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+UniqueIdentifier=0
+MiniID=4194695
+FactionID=64
+Type=1
+Base=2
+AbilitiesMask1=281474976714764
+AbilitiesMask2=2199040163840
+CEEligibility=1099650105475
+CELeadership=0
+
+[Yuuzhan Vong Ossus Guardian 40]
+Name=Yuuzhan Vong Ossus Guardian
+Set=Jedi Academy
+SetDisplay=Jedi Academy
+Faction=Yuuzhan Vong
+CharacterJPGImage=JediAcademy_Pics\yuuzhan_vong_ossus_guardian-JA40u.jpg
+Number=40
+Damage=10
+PlayCost=26
+Attack=10
+HitPoints=80
+Defense=18
+ForcePoints=0
+SpecialAbilities=<FONT SIZE=5><B>Special Abilities</B></FONT><BR><FONT SIZE=4><B>Melee Attack</B></FONT> (Can attack only adjacent enemies)<BR><FONT SIZE=4><B>Affinity</B></FONT> (This character may be in a New Republic squad)<BR><FONT SIZE=4><B>Force Immunity</B></FONT> (Enemies cannot affect this character with Force powers, or spend Force points to reroll attacks against this character or to respond to this character's attacks and abilities)<BR><FONT SIZE=4><B>Jedi Hunter</B></FONT> (+4 Attack and +10 Damage against enemies with Force ratings)<BR><FONT SIZE=4><B>Razorbug</B></FONT> (Replaces attacks: sight; 10 damage; save 11)<BR><FONT SIZE=4><B>Twin Attack</B></FONT> (Whenever this character attacks, he makes 1 extra attack against the same target)<BR><FONT SIZE=4><B>Vonduun Crab Armor 6</B></FONT> (When this character takes damage, he can reduce the damage dealt by 10 with a save of 6)
+SquadSuggestions=<FONT SIZE=5><B>Squad Suggestions</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+Description=<FONT SIZE=5><B>Description</B></FONT><BR>None submitted. Feel free to email me one and I'll put it right in.
+UniqueIdentifier=0
+MiniID=4194696
+FactionID=64
+Type=2
+Base=2
+AbilitiesMask1=281474985099276
+AbilitiesMask2=2199040164096
+CEEligibility=1099650105347
+CELeadership=0
