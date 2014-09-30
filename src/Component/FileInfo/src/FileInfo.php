@@ -44,7 +44,7 @@ class FileInfo
      */
     public function getContents($path)
     {
-        if (false === $this->filesystem->exists($path)) {
+        if (false === $this->exists($path)) {
             throw new \InvalidArgumentException("The file '{$path}' could not be found.");
         }
 
@@ -58,7 +58,7 @@ class FileInfo
      */
     public function exists($path)
     {
-
+        return $this->filesystem->exists($path);
     }
 }
  
