@@ -60,12 +60,74 @@ class SwmParserTest extends \PHPUnit_Framework_TestCase
 
     public function test_should_open_the_file()
     {
-        $this->fileInfo
-            ->expects($this->once())
-            ->method('getContents')
-            ->willReturn('');
+        $this->assertContentIsReturned('');
 
         $this->assertSame(array(), $this->parser->parse('some-file'));
+    }
+
+    public function test_should_parse_the_header()
+    {
+        $this->assertContentIsReturned('[header, my]');
+
+        $expected = array(
+            'header, my' => array(),
+        );
+        $this->assertSame($expected, $this->parser->parse(''));
+    }
+
+    /**
+     * @depends test_should_parse_the_header
+     */
+    public function test_should_parse_the_attributes()
+    {
+        $this->assertContentIsReturned(<<<CONTENT
+[header, my]\n
+attribute1 = 123\r\n
+attribute2=ewq\n\r
+CONTENT
+        );
+
+        $expected = array(
+            'header, my' => array(
+                'attribute1' => '123',
+                'attribute2' => 'ewq',
+            ),
+        );
+        $this->assertSame($expected, $this->parser->parse(''));
+    }
+
+    /**
+     * @depends test_should_parse_the_attributes
+     */
+    public function test_should_remove_html_from_attribute()
+    {
+        $this->assertContentIsReturned(<<<CONTENT
+[header]
+attribute=<FONT size=2>I am a multi line content </FOnt>
+CONTENT
+        );
+
+        $expected = array(
+            'header' => array(
+                'attribute' => 'I am a multi line content',
+            ),
+        );
+        $this->assertEquals($expected, $this->parser->parse(''));
+    }
+
+    /**
+     * @depends test_should_parse_the_header
+     *
+     * @expectedException        \RuntimeException
+     * @expectedExceptionMessage The file could not be parsed correctly.
+     */
+    public function test_should_throw_exception_when_data_is_invalid()
+    {
+        $this->assertContentIsReturned(<<<CONTENT
+no-header-error=123
+CONTENT
+        );
+        $this->parser->parse('');
     }
 
     /**
@@ -74,6 +136,14 @@ class SwmParserTest extends \PHPUnit_Framework_TestCase
     private function getMockFileInfo()
     {
         return $this->getMock('Star\Component\FileInfo\FileInfo');
+    }
+
+    private function assertContentIsReturned($content)
+    {
+        $this->fileInfo
+            ->expects($this->once())
+            ->method('getContents')
+            ->willReturn($content);
     }
 }
  

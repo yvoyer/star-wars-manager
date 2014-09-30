@@ -36,21 +36,133 @@ class SwmParser
     }
 
     /**
-     * @param string $file
+     * @param string $filePath
      *
+     * @throws \RuntimeException
      * @throws \InvalidArgumentException
+     *
      * @return array
      */
-    public function parse($file)
+    public function parse($filePath)
     {
-        if (false == $this->fileInfo->exists($file)) {
-            throw new \InvalidArgumentException("The file '{$file}' could not be found.");
+        if (false == $this->fileInfo->exists($filePath)) {
+            throw new \InvalidArgumentException("The file '{$filePath}' could not be found.");
         }
 
-        // todo Hide file loading behind adapter
-        $content = $this->fileInfo->getContents($file);
+        $content = $this->fileInfo->getContents($filePath);
+        if (empty($content)) {
+            return array();
+        }
 
-        return array();
+        $handle = fopen('php://memory', 'r+');
+        fputs($handle, $content);
+        rewind($handle);
+
+        $data = array();
+        $currentHeader = null;
+        $row = null;
+        while (true) {
+            $line = fgets($handle);
+
+            // header should be first string
+            if (false !== strpos($line, '[', 0)) {
+                $row = new FileData($line);
+                $data[] = $row;
+                continue;
+            }
+
+            if (false === $row instanceof FileData) {
+                throw new \RuntimeException('The file could not be parsed correctly.');
+            }
+
+            // Line header's attributes
+            if (false !== strpos($line, '=')) {
+                // remove any other equals past the first
+                $key = substr($line, 0, strpos($line, '='));
+                $value = substr($line, strpos($line, '='));
+                $row->addAttribute($key, $value);
+                continue;
+            }
+
+            if (!$line) {
+                break;
+            }
+        }
+        fclose($handle);
+
+        $formattedData = array();
+        foreach ($data as $line) {
+            /**
+             * @var FileData $line
+             */
+            $formattedData[$line->getHeader()] = $line->getAttributes();
+        }
+
+        return $formattedData;
     }
 }
- 
+
+class FileData
+{
+    /**
+     * @var string
+     */
+    private $header;
+
+    /**
+     * @var array
+     */
+    private $attributes = array();
+
+    /**
+     * @param $header
+     */
+    public function __construct($header)
+    {
+        $this->header = $this->sanitize($header);
+    }
+
+    /**
+     * @param $key
+     * @param $value
+     */
+    public function addAttribute($key, $value)
+    {
+        $this->attributes[$this->sanitize($key)] = $this->sanitize($value);
+    }
+
+    /**
+     * @return array
+     */
+    public function toArray()
+    {
+        return array(
+            $this->header => $this->attributes,
+        );
+    }
+
+    /**
+     * Returns the Attributes.
+     *
+     * @return array
+     */
+    public function getAttributes()
+    {
+        return $this->attributes;
+    }
+
+    /**
+     * Returns the Header.
+     *
+     * @return string
+     */
+    public function getHeader()
+    {
+        return $this->header;
+    }
+
+    private function sanitize($string)
+    {
+        return trim(str_replace(array('[', ']', '=', "\n", "\r", "\t"), '', strip_tags($string)));
+    }
+}
