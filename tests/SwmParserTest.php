@@ -89,8 +89,27 @@ CONTENT
 
         $expected = array(
             'header, my' => array(
-                'attribute1' => 123,
+                'attribute1' => '123',
                 'attribute2' => 'ewq',
+            ),
+        );
+        $this->assertSame($expected, $this->parser->parse(''));
+    }
+
+    /**
+     * @depends test_should_parse_the_attributes
+     */
+    public function test_should_remove_html_from_attribute()
+    {
+        $this->assertContentIsReturned(<<<CONTENT
+[header]
+attribute=<FONT size=2>I am a multi line content </FOnt>
+CONTENT
+        );
+
+        $expected = array(
+            'header' => array(
+                'attribute' => 'I am a multi line content',
             ),
         );
         $this->assertEquals($expected, $this->parser->parse(''));

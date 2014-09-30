@@ -38,7 +38,9 @@ class SwmParser
     /**
      * @param string $filePath
      *
+     * @throws \RuntimeException
      * @throws \InvalidArgumentException
+     *
      * @return array
      */
     public function parse($filePath)
@@ -75,8 +77,10 @@ class SwmParser
 
             // Line header's attributes
             if (false !== strpos($line, '=')) {
-                $attributeData = explode('=', $line);
-                $row->addAttribute(trim($attributeData[0]), trim($attributeData[1]));
+                // remove any other equals past the first
+                $key = substr($line, 0, strpos($line, '='));
+                $value = substr($line, strpos($line, '='));
+                $row->addAttribute($key, $value);
                 continue;
             }
 
@@ -124,7 +128,7 @@ class FileData
      */
     public function addAttribute($key, $value)
     {
-        $this->attributes[$key] = $this->sanitize($value);
+        $this->attributes[$this->sanitize($key)] = $this->sanitize($value);
     }
 
     /**
@@ -159,6 +163,6 @@ class FileData
 
     private function sanitize($string)
     {
-        return trim(str_replace(array('[', ']', "\n", "\r", "\t"), '', $string));
+        return trim(str_replace(array('[', ']', '=', "\n", "\r", "\t"), '', strip_tags($string)));
     }
 }
