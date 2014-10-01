@@ -11,4 +11,11 @@ use Star\Component\FileInfo\FileInfo;
 use Star\StarWarsManager\SwmParser;
 
 $parser = new SwmParser(new FileInfo());
-var_dump($parser->parse(__DIR__ . '/data/DarkTimes.swm'));
+$data = $parser->parse(__DIR__ . '/data/DarkTimes.swm');
+
+$result = array();
+foreach ($data as $card) {
+    $result[] = new \Star\StarWarsManager\Model\CardData($card);
+}
+
+var_dump($result);
