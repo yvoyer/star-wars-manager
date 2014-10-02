@@ -255,7 +255,7 @@ class CardData
      */
     public function getImage()
     {
-        return $this->image;
+        return str_replace(array('\\', '/'), DIRECTORY_SEPARATOR, $this->image);
     }
 
     /**

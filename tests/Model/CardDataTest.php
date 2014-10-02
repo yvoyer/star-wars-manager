@@ -88,5 +88,13 @@ class CardDataTest extends \PHPUnit_Framework_TestCase
         $this->assertSame('123', $faction->getId());
         $this->assertSame('faction-name', $faction->getName());
     }
+
+    public function test_image_should_use_platform_dir_separator()
+    {
+        $card = new CardData(array(CardData::IMAGE_FOLDER => 'qwe/2.jpg'));
+        $this->assertSame('qwe' . DIRECTORY_SEPARATOR . '2.jpg', $card->getImage());
+        $card = new CardData(array(CardData::IMAGE_FOLDER => 'qwe\2.jpg'));
+        $this->assertSame('qwe' . DIRECTORY_SEPARATOR . '2.jpg', $card->getImage());
+    }
 }
  
