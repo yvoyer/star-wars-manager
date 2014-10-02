@@ -163,6 +163,6 @@ class FileData
 
     private function sanitize($string)
     {
-        return trim(str_replace(array('[', ']', '=', "\n", "\r", "\t"), '', strip_tags($string)));
+        return trim(str_replace(array('[', ']', '=', "\n", "\r", "\t"), '', $string));
     }
 }
