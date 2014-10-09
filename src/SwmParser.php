@@ -79,7 +79,7 @@ class SwmParser
             if (false !== strpos($line, '=')) {
                 // remove any other equals past the first
                 $key = substr($line, 0, strpos($line, '='));
-                $value = substr($line, strpos($line, '='));
+                $value = substr($line, strpos($line, '=') + 1);
                 $row->addAttribute($key, $value);
                 continue;
             }
@@ -163,6 +163,6 @@ class FileData
 
     private function sanitize($string)
     {
-        return trim(str_replace(array('[', ']', '=', "\n", "\r", "\t"), '', $string));
+        return trim(str_ireplace(array('[', ']', "\n", "\r", "\t", '<B>', '</B>', '<FONT SIZE=5>', '<FONT SIZE=4>', '</FONT>'), '', $string));
     }
 }

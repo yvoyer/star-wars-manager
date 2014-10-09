@@ -1,0 +1,19 @@
+body { background: white; font-size: 10px; }
+.card { float:left; width: 40%; background-color: black; padding: 10px; margin: 10px; border-radius: 5px; }
+.inner { background-color: white; min-height: 90%; }
+.cost { float: right; }
+.name { padding: 5px; font-size: 15px; font-weight: bold; }
+.image { width: 100%; text-align: center; background-color: white; border: 2px black solid; }
+.abilities, .flavor { background: black; color: white; padding: 12px; }
+.flavor { font-style: italic; font-size: 10px; }
+.info ul { float: left; list-style: none; width: 38%; }
+.clear { clear: both; }
+
+.sith { background-color: brown; }
+.old-republic { background-color: cadetblue; }
+.republic { background-color: cornflowerblue; }
+.separatists { background-color: darkkhaki; }
+.rebel { background-color: gainsboro; }
+.imperial { background-color: darkslateblue; }
+.fringe { background-color: khaki; }
+.mandalorian { background-color: lightblue; }

@@ -98,6 +98,52 @@ CONTENT
 
     /**
      * @depends test_should_parse_the_header
+     */
+    public function test_should_clean_html_attributes()
+    {
+        $this->assertContentIsReturned(<<<CONTENT
+[header, my]\n
+attribute=<FONT SIZE=5>asd</FONT>\n
+remove font 4=<FONT SIZE=4>font4</FONT>\n
+attribute2=<B>ewq</B>\n
+attribute3=<br/>\n
+CONTENT
+        );
+
+        $expected = array(
+            'header, my' => array(
+                'attribute' => 'asd',
+                'remove font 4' => 'font4',
+                'attribute2' => 'ewq',
+                'attribute3' => '<br/>',
+            ),
+        );
+        $this->assertSame($expected, $this->parser->parse(''));
+    }
+//
+//    /**
+//     * @depends test_should_parse_the_header
+//     */
+//    public function test_should_clean_html_entities()
+//    {
+//        $this->assertContentIsReturned(<<<CONTENT
+//[header, my]\n
+//attribute=<font>asd</font>\n
+//attribute2=<font>ewq\n
+//CONTENT
+//        );
+//
+//        $expected = array(
+//            'header, my' => array(
+//                'attribute' => 'asd',
+//                'attribute2' => 'ewq',
+//            ),
+//        );
+//        $this->assertSame($expected, $this->parser->parse(''));
+//    }
+
+    /**
+     * @depends test_should_parse_the_header
      *
      * @expectedException        \RuntimeException
      * @expectedExceptionMessage The file could not be parsed correctly.
